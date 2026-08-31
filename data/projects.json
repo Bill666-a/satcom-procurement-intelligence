@@ -6821,13 +6821,14 @@
     }
   ],
   "meta": {
-    "lastRunAt": "2026-08-31T08:38:06.126Z",
+    "lastRunAt": "2026-08-31T21:10:13.859Z",
     "lastRunMode": "full",
     "lastRunStatus": "partial",
-    "lastRunMessage": "本次从 6 个公开来源适配器执行采集，解析 21 条，当前累计 359 条；任务部分完成，可继续执行",
+    "lastRunMessage": "本次从 6 个公开来源适配器执行采集，解析 0 条，当前累计 359 条；任务部分完成，可继续执行",
     "sourceCount": 6,
     "dateRange": "2025-01-02 至 2026-08-29",
     "warnings": [
+      "全国公共资源交易平台 2025-10-28~2025-11-06 / 卫星 第 1 页：fetch failed",
       "中国招标投标公共服务平台：HTTP 405",
       "浙江省公共资源交易服务平台：卫星通信 第 1 页：HTTP 405",
       "浙江省公共资源交易服务平台：卫星终端 第 1 页：HTTP 405",
@@ -6843,8 +6844,8 @@
       "山东省政府采购信息公开平台：VSAT 第 1 页：fetch failed",
       "山东省政府采购信息公开平台：应急通信卫星 第 1 页：fetch failed"
     ],
-    "pagesScanned": 76,
-    "candidatesFound": 21,
+    "pagesScanned": 51,
+    "candidatesFound": 0,
     "historyCursor": {
       "queryIndex": 0,
       "page": 3
@@ -6853,15 +6854,17 @@
     "sourceStates": {
       "ccgp": {
         "status": "success",
-        "records": 1,
+        "records": 0,
         "warnings": [],
-        "pagesScanned": 2
+        "pagesScanned": 1
       },
       "ggzy": {
-        "status": "success",
-        "records": 20,
-        "warnings": [],
-        "pagesScanned": 24
+        "status": "partial",
+        "records": 0,
+        "warnings": [
+          "全国公共资源交易平台 2025-10-28~2025-11-06 / 卫星 第 1 页：fetch failed"
+        ],
+        "pagesScanned": 0
       },
       "ceb": {
         "status": "blocked",
@@ -6906,8 +6909,8 @@
       }
     },
     "ccgpHistoryCursor": {
-      "queryIndex": 0,
-      "page": 35
+      "queryIndex": 1,
+      "page": 1
     },
     "ccgpHistoryComplete": false,
     "ggzyHistoryCursor": {
@@ -6916,7 +6919,7 @@
       "page": 1
     },
     "ggzyHistoryComplete": false,
-    "lastUpdatedAt": "2026-08-31T08:40:25.745Z",
+    "lastUpdatedAt": "2026-08-31T21:12:36.642Z",
     "searchDateRange": "2025-01-01 至 2026-08-31",
     "coverageStartDate": "2025-01-02",
     "coverageEndDate": "2026-08-29",
