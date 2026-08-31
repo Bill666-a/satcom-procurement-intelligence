@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: satcom-procurement-intelligence
+    runtime: docker
+    plan: starter
+    healthCheckPath: /api/health
+    envVars:
+      - key: PUBLIC_DEPLOYMENT
+        value: "true"
+      - key: DATA_DIR
+        value: /var/data
+    disk:
+      name: satcom-data
+      mountPath: /var/data
+      sizeGB: 1

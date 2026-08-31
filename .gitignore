@@ -1,0 +1,5 @@
+data/source-cache/
+npm-debug.log*
+*.log
+node_modules/
+public/
