@@ -18,56 +18,30 @@
           <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
           <div>
             <div class="brand-name">星链研判</div>
-            <div class="brand-sub">INTELLIGENCE DESK</div>
+            <div class="brand-sub">卫星通信招标信息</div>
           </div>
         </div>
 
-        <div class="workspace-switcher">
-          <span class="workspace-dot"></span>
-          <div>
-            <span class="eyebrow">当前工作区</span>
-            <strong>卫星通信 · 全国</strong>
-          </div>
-          <button class="icon-button muted" type="button" aria-label="切换工作区" title="切换工作区">⌄</button>
-        </div>
-
-        <div class="nav-group">
-          <div class="nav-label">工作台</div>
+        <nav class="nav-group" aria-label="功能导航">
           <button class="nav-item active" type="button" data-view="overview"><span class="nav-icon">◈</span><span>情报总览</span><span class="nav-count" id="overviewNavCount">0</span></button>
           <button class="nav-item" type="button" data-view="projects"><span class="nav-icon">▤</span><span>项目库</span><span class="nav-count" id="projectsNavCount">0</span></button>
           <button class="nav-item" type="button" data-view="watchlist"><span class="nav-icon">☆</span><span>重点关注</span><span class="nav-count" id="watchlistNavCount">0</span></button>
-        </div>
-
-        <div class="nav-group">
-          <div class="nav-label">配置</div>
-          <button class="nav-item" type="button" data-view="rules"><span class="nav-icon">⌁</span><span>关键词规则</span></button>
-          <button class="nav-item" type="button" data-view="sources"><span class="nav-icon">◎</span><span>采集来源</span><span class="source-status"></span></button>
-        </div>
+          <button class="nav-item" type="button" data-view="sources"><span class="nav-icon">◎</span><span>采集来源</span></button>
+        </nav>
 
         <div class="sidebar-bottom">
-          <div class="sync-card">
-            <div class="sync-card-top"><span class="live-dot"></span><span>自动更新已开启</span></div>
-            <strong>每日 00:00</strong>
-            <span>下次更新：每日 00:00</span>
-          </div>
-          <div class="user-row">
-            <div class="avatar" aria-hidden="true">◎</div>
-            <div aria-hidden="true"></div>
-            <button class="icon-button muted" type="button" aria-label="账户设置" title="账户设置">•••</button>
-          </div>
+          <div class="sync-status"><span class="live-dot"></span><span>每日 00:00 自动更新</span></div>
         </div>
       </aside>
 
       <main class="main-content">
         <header class="topbar">
-          <div class="breadcrumbs"><span>工作台</span><span class="crumb-separator">/</span><strong id="breadcrumbTitle">情报总览</strong></div>
+          <strong class="topbar-title" id="breadcrumbTitle">情报总览</strong>
           <div class="topbar-actions">
             <div class="search-box">
               <span class="search-icon">⌕</span>
               <input id="globalSearch" type="search" placeholder="搜索项目、采购人、关键词..." aria-label="搜索项目、采购人、关键词" />
-              <kbd>⌘ K</kbd>
             </div>
-            <button class="icon-button top-action" type="button" aria-label="通知" title="通知"><span class="notification-dot"></span>♢</button>
             <div class="top-date data-update"><span class="data-update-label">数据更新</span><strong id="dataUpdateTime">读取中...</strong></div>
           </div>
         </header>
@@ -77,9 +51,8 @@
         <section class="view overview-view" id="overviewView">
           <div class="page-heading">
             <div>
-              <div class="section-kicker">SATCOM PROCUREMENT INTELLIGENCE <span></span></div>
-              <h1>把公开招标，变成可行动的线索。</h1>
-              <p>追踪卫星通信采购动态，快速识别预算、竞品与进入窗口。</p>
+              <h1>卫星通信招标信息</h1>
+              <p>汇总公开采购公告、中标结果和采购意向，点击项目即可核验原始来源。</p>
             </div>
             <div class="heading-actions">
               <button class="button secondary" id="exportButton" type="button"><span>↓</span> 导出清单</button>
@@ -89,71 +62,37 @@
 
           <div class="metric-grid">
             <article class="metric-card accent-card">
-              <div class="metric-top"><span>累计跟踪项目</span><span class="metric-icon">◈</span></div>
+              <div class="metric-top"><span>累计项目</span></div>
               <strong class="metric-number" data-metric="total">0</strong>
-              <div class="metric-foot"><span>公开来源记录</span></div>
             </article>
             <article class="metric-card">
-              <div class="metric-top"><span>本次新增</span><span class="metric-icon">+</span></div>
+              <div class="metric-top"><span>本次新增</span></div>
               <strong class="metric-number" data-metric="new">0</strong>
-              <div class="metric-foot"><span>本次采集新增</span></div>
             </article>
             <article class="metric-card">
-              <div class="metric-top"><span>公开金额总览</span><span class="metric-icon">¥</span></div>
+              <div class="metric-top"><span>公开金额合计</span></div>
               <strong class="metric-number amount-number">¥ 0<span>万</span></strong>
-              <div class="metric-foot"><span>已公布金额合计</span></div>
             </article>
             <article class="metric-card warning-card">
-              <div class="metric-top"><span>待核验来源</span><span class="metric-icon">!</span></div>
+              <div class="metric-top"><span>待核验记录</span></div>
               <strong class="metric-number" data-metric="pending">0</strong>
-              <div class="metric-foot"><span class="trend-warn">待核验记录</span></div>
             </article>
-          </div>
-
-          <div class="dashboard-grid">
-            <section class="panel trend-panel">
-              <div class="panel-heading"><div><span class="panel-eyebrow">趋势概览</span><h2>项目发布趋势</h2></div><div class="select-wrap"><select id="trendRange" aria-label="趋势时间范围"><option>近 6 个月</option><option>近 12 个月</option></select></div></div>
-              <div class="chart-legend"><span class="legend-item"><i class="legend-bar"></i>收录项目数</span></div>
-              <div class="trend-chart" id="trendChart" aria-label="近六个月项目发布趋势图">
-                <div class="chart-y-labels"><span>40</span><span>30</span><span>20</span><span>10</span><span>0</span></div>
-                <div class="chart-body">
-                  <div class="grid-lines"><i></i><i></i><i></i><i></i><i></i></div>
-                  <div class="bars" id="trendBars"></div>
-                </div>
-              </div>
-              <div class="chart-note"><span class="note-mark">i</span><span id="trendNote">趋势仅根据已采集并可追溯的公告生成</span></div>
-            </section>
-
-            <section class="panel source-panel">
-              <div class="panel-heading"><div><span class="panel-eyebrow">来源健康度</span><h2>采集源状态</h2></div><button class="text-button" data-view="sources" type="button">查看全部 →</button></div>
-              <div class="source-total"><strong id="sourceCountMetric">3</strong><span>个公开来源</span><em id="sourceHealthMetric">等待状态</em></div>
-              <div class="source-list"><div class="source-row" data-source-id="ccgp"><span class="source-logo cyan">政</span><div><strong>中国政府采购网</strong><span>等待首次状态检查</span></div><i class="status-pending"></i></div><div class="source-row" data-source-id="ggzy"><span class="source-logo blue">公</span><div><strong>全国公共资源交易平台</strong><span>等待首次状态检查</span></div><i class="status-pending"></i></div><div class="source-row" data-source-id="ceb"><span class="source-logo orange">标</span><div><strong>中国招标投标公共服务平台</strong><span>公开接口状态待检查</span></div><i class="status-pending"></i></div></div>
-              <div class="source-footer"><span><i class="status-online"></i> <span id="sourceSuccessCount">0</span> 正常</span><span><i class="status-pending"></i> <span id="sourcePendingCount">3</span> 待处理</span></div>
-            </section>
           </div>
 
           <div class="lower-grid">
             <section class="panel projects-panel">
-              <div class="panel-heading project-heading"><div><span class="panel-eyebrow">最新动态</span><h2>近期情报</h2></div><div class="project-tools"><button class="filter-button active" data-filter="all" type="button">全部 <span id="allFilterCount">0</span></button><button class="filter-button" data-filter="high" type="button">有金额 <span id="highFilterCount">0</span></button><button class="filter-button" data-filter="watch" type="button">待核验 <span id="watchFilterCount">0</span></button><button class="icon-button" id="tableFilterButton" type="button" aria-label="筛选列表" title="筛选列表">≡</button></div></div>
+              <div class="panel-heading project-heading"><div><h2>最新项目</h2><p class="panel-description">按发布日期显示最近收录的公开记录</p></div></div>
               <div class="table-wrap"><table><thead><tr><th>项目 / 采购人</th><th>公告类型</th><th>公开金额</th><th>发布日期</th><th>研判</th><th></th></tr></thead><tbody id="projectRows"></tbody></table></div>
               <div class="table-footer"><span id="resultCount">显示 6 条近期记录</span><button class="text-button" data-view="projects" type="button">进入项目库 →</button></div>
-            </section>
-
-            <section class="panel insight-panel">
-              <div class="panel-heading"><div><span class="panel-eyebrow">重点发现</span><h2>高价值线索</h2></div><button class="icon-button" type="button" aria-label="更多线索操作" title="更多线索操作">•••</button></div>
-              <div class="insight-list" id="insightList"><div class="empty-state">正在读取真实记录</div></div>
-              <div class="keywords"><div class="keywords-head"><span>关键词命中</span><span>收录记录数</span></div><div class="keyword-row" data-keyword="卫星通信设备"><span>卫星通信设备</span><div class="mini-progress"><i></i></div><strong>0</strong></div><div class="keyword-row" data-keyword="应急通信卫星"><span>应急通信卫星</span><div class="mini-progress"><i></i></div><strong>0</strong></div><div class="keyword-row" data-keyword="卫星终端"><span>卫星终端</span><div class="mini-progress"><i></i></div><strong>0</strong></div><div class="keyword-row" data-keyword="卫星物联网"><span>卫星物联网</span><div class="mini-progress"><i></i></div><strong>0</strong></div></div>
             </section>
           </div>
         </section>
 
-        <section class="view secondary-view hidden" id="projectsView"><div class="secondary-heading"><div><span class="section-kicker">PROJECT LIBRARY <span></span></span><h1>项目库</h1><p>按项目名称、采购人和公告类型查看全部跟踪记录。</p></div><button class="button secondary" id="projectsExportButton" type="button">↓ 导出当前结果</button></div><div class="library-toolbar"><div class="library-search"><span>⌕</span><input id="librarySearch" type="search" placeholder="搜索项目名称或采购人" /></div><select id="typeFilter" aria-label="公告类型筛选"><option value="all">全部公告类型</option><option value="招标公告">招标公告</option><option value="中标公告">中标公告</option><option value="采购意向">采购意向</option><option value="征求意见">征求意见</option></select><select id="amountFilter" aria-label="金额筛选"><option value="all">全部金额</option><option value="high">100 万以上</option><option value="low">100 万以下</option></select></div><div class="panel library-panel"><div class="table-wrap"><table><thead><tr><th>项目 / 采购人</th><th>公告类型</th><th>采购内容</th><th>预算 / 中标金额</th><th>发布日期</th><th>状态</th><th></th></tr></thead><tbody id="libraryRows"></tbody></table></div></div></section>
+        <section class="view secondary-view hidden" id="projectsView"><div class="secondary-heading"><div><h1>项目库</h1><p>搜索并筛选全部公开采购记录。</p></div><button class="button secondary" id="projectsExportButton" type="button">↓ 导出当前结果</button></div><div class="library-toolbar"><div class="library-search"><span>⌕</span><input id="librarySearch" type="search" placeholder="搜索项目名称或采购人" /></div><select id="typeFilter" aria-label="公告类型筛选"><option value="all">全部公告类型</option><option value="招标公告">招标公告</option><option value="中标公告">中标公告</option><option value="采购意向">采购意向</option><option value="征求意见">征求意见</option></select><select id="amountFilter" aria-label="金额筛选"><option value="all">全部金额</option><option value="high">100 万以上</option><option value="low">100 万以下</option></select></div><div class="panel library-panel"><div class="table-wrap"><table><thead><tr><th>项目 / 采购人</th><th>公告类型</th><th>采购内容</th><th>预算 / 中标金额</th><th>发布日期</th><th>状态</th><th></th></tr></thead><tbody id="libraryRows"></tbody></table></div></div></section>
 
-        <section class="view secondary-view hidden" id="watchlistView"><div class="secondary-heading"><div><span class="section-kicker">WATCHLIST <span></span></span><h1>重点关注</h1><p>点击项目列表或详情中的星标加入关注，记录保存在当前浏览器。</p></div></div><div class="watchlist-grid"><div class="watch-stat"><span>已关注项目</span><strong id="watchAmountCount">0</strong><em id="watchAmountNote">保存在当前浏览器</em></div><div class="watch-stat"><span>含候选人信息</span><strong id="watchCandidateCount">0</strong><em>公告明确披露</em></div><div class="watch-stat"><span>待核验记录</span><strong id="watchPendingCount">0</strong><em>关注项目中需要复核</em></div></div><div class="panel library-panel"><div class="watch-head"><span>关注项目</span><span>发布日期</span></div><div id="watchlistItems" class="watch-items"></div></div></section>
+        <section class="view secondary-view hidden" id="watchlistView"><div class="secondary-heading"><div><h1>重点关注</h1><p>点击项目旁的星标即可关注，记录保存在当前浏览器。</p></div></div><div class="watchlist-grid"><div class="watch-stat"><span>已关注项目</span><strong id="watchAmountCount">0</strong><em id="watchAmountNote">保存在当前浏览器</em></div><div class="watch-stat"><span>含候选人信息</span><strong id="watchCandidateCount">0</strong><em>公告明确披露</em></div><div class="watch-stat"><span>待核验记录</span><strong id="watchPendingCount">0</strong><em>关注项目中需要复核</em></div></div><div class="panel library-panel"><div class="watch-head"><span>关注项目</span><span>发布日期</span></div><div id="watchlistItems" class="watch-items"></div></div></section>
 
-        <section class="view secondary-view hidden" id="rulesView"><div class="secondary-heading"><div><span class="section-kicker">MATCHING RULES <span></span></span><h1>关键词规则</h1><p>定义项目名称、清单与正文的命中条件。</p></div><button class="button primary" id="saveRulesButton" type="button">保存规则</button></div><div class="rules-grid"><div class="panel rule-panel"><div class="panel-heading"><div><span class="panel-eyebrow">主要关键词</span><h2>高相关度词组</h2></div><span class="rule-count">4 个</span></div><div class="token-list"><span class="token primary-token">卫星通信 ×</span><span class="token primary-token">卫星通信服务 ×</span><span class="token primary-token">卫星物联 ×</span><span class="token primary-token">卫星物联网 ×</span></div><button class="add-rule" type="button">＋ 添加关键词</button></div><div class="panel rule-panel"><div class="panel-heading"><div><span class="panel-eyebrow">辅助扩展关键词</span><h2>设备与场景</h2></div><span class="rule-count">9 个</span></div><div class="token-list"><span class="token">卫星电话 ×</span><span class="token">卫星宽带 ×</span><span class="token">卫星终端 ×</span><span class="token">VSAT ×</span><span class="token">卫星便携站 ×</span><span class="token">高通量卫星 ×</span><span class="token">应急通信卫星 ×</span><span class="token">卫星天线 ×</span></div><button class="add-rule" type="button">＋ 添加关键词</button></div><div class="panel rule-note"><span class="note-mark">!</span><div><strong>匹配提醒</strong><p>“应急通信”只有同时命中“卫星”或“卫通”时才纳入。项目名称未命中时，将继续解析采购清单与需求正文。</p></div></div></div></section>
-
-<section class="view secondary-view hidden" id="sourcesView"><div class="secondary-heading"><div><span class="section-kicker">SOURCE MONITORING <span></span></span><h1>采集来源</h1><p>官网目录与实际采集适配器分开显示，所有项目保留原始公告链接。</p></div><button class="button secondary" type="button" id="sourceRefreshButton">↻ 检查状态</button></div><div class="source-summary"><div><span>已登记来源</span><strong id="sourceSummaryCount">0</strong></div><div><span>当前正常</span><strong id="sourceSummaryOnline" class="good-number">0</strong></div><div><span>待适配或受限</span><strong id="sourceSummaryPending" class="orange-number">0</strong></div><div><span>本次解析记录</span><strong id="sourceSummaryRecords">0</strong></div></div><div class="panel full-source-panel"><div class="source-table-head"><span>来源名称</span><span>类型</span><span>状态</span><span>本次解析</span></div><div id="sourceCatalogRows"></div></div></section>
+<section class="view secondary-view hidden" id="sourcesView"><div class="secondary-heading"><div><h1>采集来源</h1><p>查看公开来源的接入和采集状态。</p></div><button class="button secondary" type="button" id="sourceRefreshButton">↻ 刷新状态</button></div><div class="source-summary"><div><span>已登记来源</span><strong id="sourceSummaryCount">0</strong></div><div><span>当前正常</span><strong id="sourceSummaryOnline" class="good-number">0</strong></div><div><span>待适配或受限</span><strong id="sourceSummaryPending" class="orange-number">0</strong></div><div><span>本次解析记录</span><strong id="sourceSummaryRecords">0</strong></div></div><div class="panel full-source-panel"><div class="source-table-head"><span>来源名称</span><span>类型</span><span>状态</span><span>采集情况</span></div><div id="sourceCatalogRows"></div></div></section>
       </main>
     </div>
 

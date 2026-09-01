@@ -66,3 +66,70 @@ button { cursor: pointer; }
 .data-update-label { display: block; color: #8ca0a0 !important; font: 9px "Noto Sans SC", sans-serif; }
 .data-update strong { display: block; margin-top: 2px; color: #587176; font: 10px "DM Mono", monospace; white-space: nowrap; }
 @media (max-width: 760px) { .data-update { min-width: 144px; } .data-update strong { font-size: 9px; } }
+
+/* Simplified interface */
+.sidebar { width: 224px; padding: 24px 18px 20px; background: #fff; }
+.brand { padding: 0 8px 20px; border-bottom: 1px solid var(--line); }
+.brand-sub { color: var(--muted); font-family: "Noto Sans SC", sans-serif; font-size: 10px; font-weight: 500; }
+.nav-group { margin: 28px 0 0; }
+.nav-item { padding: 12px; font-size: 13px; }
+.nav-item:hover, .nav-item.active { background: #eef6f4; }
+.sidebar-bottom { padding: 16px 8px 0; border-top: 1px solid var(--line); }
+.sync-status { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 11px; }
+.main-content { width: calc(100% - 224px); margin-left: 224px; padding: 0 36px 56px; }
+.topbar { height: 72px; }
+.topbar-title { font-size: 14px; }
+.topbar-actions { gap: 16px; }
+.search-box { width: 320px; }
+.demo-banner { margin-top: 16px; color: #587176; background: #f5f9f8; border-color: #dfe9e7; }
+.banner-copy { color: #7f9294; }
+.info-symbol { background: var(--teal); }
+.page-heading, .secondary-heading { padding: 36px 0 24px; }
+.page-heading h1, .secondary-heading h1 { margin: 0; font-size: 30px; }
+.page-heading p, .secondary-heading p { margin: 8px 0 0; color: var(--muted); }
+.metric-grid { gap: 12px; }
+.metric-card, .metric-card.accent-card, .metric-card.warning-card { min-height: 112px; padding: 18px; color: var(--ink); background: #fff; border-color: var(--line); box-shadow: none; }
+.metric-card.accent-card:before { display: none; }
+.metric-card .metric-top, .metric-card.accent-card .metric-top { color: var(--muted); font-size: 11px; }
+.metric-card .metric-number, .metric-card.accent-card .metric-number { margin-top: 18px; color: var(--ink); font-size: 30px; }
+.metric-card .amount-number { font-size: 22px; }
+.lower-grid { display: block; margin-top: 14px; }
+.panel { border-radius: 5px; box-shadow: none; }
+.projects-panel { padding: 20px 22px; }
+.panel-description { margin: 6px 0 0; color: var(--muted); font-size: 10px; }
+.secondary-heading { align-items: center; }
+.library-panel { padding-top: 5px; }
+
+@media (max-width: 1180px) {
+  .sidebar { width: 210px; }
+  .main-content { width: calc(100% - 210px); margin-left: 210px; padding-inline: 24px; }
+}
+
+@media (max-width: 760px) {
+  .sidebar { padding: 14px 14px 10px; }
+  .brand { padding: 0 2px 13px; border-bottom: 0; }
+  .brand-mark { width: 26px; height: 26px; }
+  .brand-name { font-size: 16px; }
+  .brand-sub { display: none; }
+  .nav-group { display: grid; grid-template-columns: repeat(4, 1fr); gap: 5px; margin: 0; }
+  .nav-item { width: auto; min-width: 0; display: flex; flex-direction: column; gap: 4px; padding: 8px 3px; font-size: 10px; text-align: center; }
+  .nav-item + .nav-item { margin-top: 0; }
+  .nav-item.active { box-shadow: inset 0 -2px var(--orange); }
+  .nav-icon { width: auto; }
+  .sidebar-bottom { display: none; }
+  .main-content { padding: 0 14px 36px; }
+  .topbar { min-height: 62px; }
+  .topbar-title { display: none; }
+  .topbar-actions { min-width: 0; gap: 8px; }
+  .search-box { min-width: 0; width: auto; }
+  .data-update { min-width: 0; flex: 0 0 132px; }
+  .demo-banner { margin-top: 10px; }
+  .page-heading, .secondary-heading { padding: 28px 0 20px; }
+  .page-heading h1, .secondary-heading h1 { font-size: 24px; }
+  .heading-actions { display: flex; width: 100%; }
+  .metric-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .metric-card, .metric-card.accent-card, .metric-card.warning-card { min-width: 0; min-height: 98px; overflow: hidden; padding: 14px; }
+  .metric-card .metric-number, .metric-card.accent-card .metric-number { margin-top: 14px; font-size: 24px; }
+  .metric-card .amount-number { font-size: 17px; }
+  .projects-panel { padding: 14px; }
+}
