@@ -56,6 +56,12 @@ button { cursor: pointer; }
 .candidate-line { display: grid; grid-template-columns: 20px 1fr; gap: 7px; align-items: start; }
 .candidate-line b { display: inline-grid; place-items: center; width: 18px; height: 18px; border-radius: 50%; color: white; background: var(--teal); font: 9px "DM Mono", monospace; }
 .drawer-note { line-height: 1.8; }
+.row-actions { display: flex; align-items: center; justify-content: flex-end; gap: 9px; color: #99aaaa; font-size: 14px; white-space: nowrap; }
+.favorite-button, .drawer-favorite { border: 1px solid #d8e5e3; color: #8da2a2; background: white; transition: color .15s, border-color .15s, background .15s; }
+.favorite-button { display: inline-grid; place-items: center; width: 25px; height: 25px; padding: 0; border-radius: 50%; font-size: 15px; line-height: 1; }
+.favorite-button:hover, .favorite-button.active, .drawer-favorite:hover, .drawer-favorite.active { color: #c98732; border-color: #e9c990; background: #fff8e9; }
+.drawer-tags { align-items: center; flex-wrap: wrap; }
+.drawer-favorite { margin-left: auto; padding: 5px 8px; border-radius: 4px; font-size: 10px; font-weight: 700; }
 .data-update { min-width: 158px; }
 .data-update-label { display: block; color: #8ca0a0 !important; font: 9px "Noto Sans SC", sans-serif; }
 .data-update strong { display: block; margin-top: 2px; color: #587176; font: 10px "DM Mono", monospace; white-space: nowrap; }

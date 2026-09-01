@@ -2,12 +2,36 @@ let projects = [];
 const state = { query: "", filter: "all", type: "all", amount: "all", view: "overview" };
 const staticDeployment = document.querySelector('meta[name="deployment-mode"]')?.content === "static";
 const publicDataUrl = "https://bill666-a.github.io/satcom-procurement-intelligence/data.json";
+const manualUpdateUrl = "https://github.com/Bill666-a/satcom-procurement-intelligence/actions/workflows/pages.yml";
+const favoritesStorageKey = "satcom-procurement-favorites-v1";
 let publicDeployment = false;
 let serviceModeReady = false;
 const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
 function escapeHtml(value) { return String(value ?? "").replace(/[&<>'"]/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character]); }
 function safeHref(value) { const url = String(value ?? ""); return /^https?:\/\//i.test(url) || url.startsWith("/api/") ? escapeHtml(url) : "#"; }
+function loadFavoriteIds() { try { const value = JSON.parse(localStorage.getItem(favoritesStorageKey) || "[]"); return new Set(Array.isArray(value) ? value.filter((id) => typeof id === "string") : []); } catch { return new Set(); } }
+const favoriteIds = loadFavoriteIds();
+function isFavorite(id) { return favoriteIds.has(String(id)); }
+function saveFavoriteIds() { try { localStorage.setItem(favoritesStorageKey, JSON.stringify([...favoriteIds])); return true; } catch { showToast("当前浏览器无法保存关注记录"); return false; } }
+function updateFavoriteCount() {
+  const element = $("#watchlistNavCount");
+  if (!element) return;
+  element.textContent = projects.length
+    ? projects.filter((project) => isFavorite(project.id)).length
+    : favoriteIds.size;
+}
+function toggleFavorite(id) {
+  const project = projects.find((item) => item.id === id);
+  if (!project) return;
+  const adding = !isFavorite(id);
+  if (adding) favoriteIds.add(id); else favoriteIds.delete(id);
+  if (!saveFavoriteIds()) { if (adding) favoriteIds.delete(id); else favoriteIds.add(id); return; }
+  renderTables();
+  renderWatchlist();
+  if ($("#detailDrawer")?.getAttribute("aria-hidden") === "false") openDrawer(id);
+  showToast(adding ? "已加入重点关注" : "已取消关注");
+}
 
 function typeClass(type) { if (type.includes("中标") || type.includes("成交")) return "result"; if (type.includes("意向") || type.includes("征求")) return "intent"; return ""; }
 function visibleProjects() {
@@ -22,7 +46,8 @@ function visibleProjects() {
 }
 
 function projectRow(project, library = false) {
-  const moreCell = `<td class="row-more">→</td>`;
+  const favorite = isFavorite(project.id);
+  const moreCell = `<td class="row-actions"><button class="favorite-button${favorite ? " active" : ""}" type="button" data-favorite-id="${escapeHtml(project.id)}" aria-label="${favorite ? "取消关注" : "加入关注"}" title="${favorite ? "取消关注" : "加入关注"}">${favorite ? "★" : "☆"}</button><span>→</span></td>`;
   const first = `<td><strong>${escapeHtml(project.title)}</strong><span>${escapeHtml(project.buyer)}</span></td>`;
   const type = `<td><span class="type-badge ${escapeHtml(typeClass(project.type))}">${escapeHtml(project.type)}</span></td>`;
   const amount = `<td class="amount-cell ${project.amount === "未公布" ? "undisclosed" : ""}">${escapeHtml(project.amount)}</td>`;
@@ -38,6 +63,7 @@ function renderTables() {
   $("#libraryRows").innerHTML = results.map((project) => projectRow(project, true)).join("") || `<tr><td colspan="7" class="empty-state">没有匹配的公开记录</td></tr>`;
   $("#resultCount").textContent = projects.length ? `显示 ${Math.min(results.length, 6)} 条近期记录` : "暂无可核验的真实记录";
   $$('tr[data-id]').forEach((row) => row.addEventListener("click", () => openDrawer(row.dataset.id)));
+  $$('[data-favorite-id]').forEach((button) => button.addEventListener("click", (event) => { event.stopPropagation(); toggleFavorite(button.dataset.favoriteId); }));
   renderInsights();
   renderKeywords();
   renderTrend();
@@ -85,8 +111,9 @@ function openDrawer(id) {
   const candidates = candidateNotice && Array.isArray(project.candidates) && project.candidates.length
     ? Array.from({ length: 3 }, (_, index) => `<span class="candidate-line"><b>${index + 1}</b>${escapeHtml(project.candidates[index] || "未公布")}</span>`).join("")
     : escapeHtml(candidateNotice ? "未公布" : "无此信息");
+  const favorite = isFavorite(project.id);
   $("#drawerContent").innerHTML = `
-    <div class="drawer-tags"><span class="type-badge ${escapeHtml(typeClass(project.type))}">${escapeHtml(project.type)}</span><span class="status-label ${escapeHtml(project.status)}">${escapeHtml(project.statusText)}</span></div>
+    <div class="drawer-tags"><span class="type-badge ${escapeHtml(typeClass(project.type))}">${escapeHtml(project.type)}</span><span class="status-label ${escapeHtml(project.status)}">${escapeHtml(project.statusText)}</span><button class="drawer-favorite${favorite ? " active" : ""}" id="drawerFavoriteButton" type="button" aria-label="${favorite ? "取消关注" : "加入关注"}">${favorite ? "★ 已关注" : "☆ 加入关注"}</button></div>
     <h2 class="drawer-title">${escapeHtml(project.title)}</h2>
     <p class="drawer-subtitle">信息按公告原文字段分区展示，“未公布”与“无此信息”严格区分。</p>
     <section class="drawer-section"><h3>01 · 公告信息</h3><dl>
@@ -110,15 +137,27 @@ function openDrawer(id) {
     <section class="drawer-section"><h3>06 · 原始公告文件</h3><div class="drawer-source"><span>${escapeHtml(project.source)}</span><span class="drawer-source-links"><a href="${safeHref(sourceHref)}" target="_blank" rel="noreferrer">打开核验页 ↗</a>${sourceHref !== rawSourceHref ? `<a href="${safeHref(rawSourceHref)}" target="_blank" rel="noreferrer" title="${escapeHtml(rawSourceHref)}">原始公告链接 ↗</a>` : ""}</span></div></section>`;
   document.body.classList.add("drawer-open");
   $("#detailDrawer").setAttribute("aria-hidden", "false");
+  $("#drawerFavoriteButton").addEventListener("click", () => toggleFavorite(project.id));
 }
 function closeDrawer() { document.body.classList.remove("drawer-open"); $("#detailDrawer").setAttribute("aria-hidden", "true"); }
 function showToast(message) { const toast = $("#toast"); toast.textContent = message; toast.classList.add("show"); clearTimeout(window.toastTimer); window.toastTimer = setTimeout(() => toast.classList.remove("show"), 2600); }
 function switchView(view) { state.view = view; $$(".view").forEach((item) => item.classList.add("hidden")); $(`#${view}View`).classList.remove("hidden"); $$(".nav-item").forEach((item) => item.classList.toggle("active", item.dataset.view === view)); const labels = { overview: "情报总览", projects: "项目库", watchlist: "重点关注", rules: "关键词规则", sources: "采集来源" }; $("#breadcrumbTitle").textContent = labels[view]; if (view === "watchlist") renderWatchlist(); window.scrollTo({ top: 0, behavior: "smooth" }); }
-function renderWatchlist() { const pending = projects.filter((project) => project.status === "watch"); const disclosed = projects.filter((project) => Number(project.amountValue) > 0); const candidateRecords = projects.filter((project) => Array.isArray(project.candidates) && project.candidates.length > 0); $("#watchAmountCount").textContent = disclosed.length; $("#watchAmountNote").textContent = disclosed.length ? `金额合计 ${disclosed.reduce((sum, project) => sum + Number(project.amountValue || 0), 0).toLocaleString("zh-CN")} 万元` : "暂无公开金额"; $("#watchCandidateCount").textContent = candidateRecords.length; $("#watchPendingCount").textContent = pending.length; $("#watchlistItems").innerHTML = pending.map((project) => `<button class="watch-item" data-id="${escapeHtml(project.id)}" type="button"><span class="insight-num">复核</span><span class="watch-item-main"><strong>${escapeHtml(project.title)}</strong><span>${escapeHtml(project.buyer)} · ${escapeHtml(project.source)}</span></span><span class="watch-item-time">${escapeHtml(String(project.date).replaceAll("-", "."))}</span></button>`).join("") || `<div class="empty-state">暂无待核验的真实记录</div>`; $$(".watch-item").forEach((item) => item.addEventListener("click", () => openDrawer(item.dataset.id))); }
+function renderWatchlist() {
+  const watched = projects.filter((project) => isFavorite(project.id));
+  const pending = watched.filter((project) => ["watch", "urgent"].includes(project.status));
+  const candidateRecords = watched.filter((project) => Array.isArray(project.candidates) && project.candidates.length > 0);
+  $("#watchAmountCount").textContent = watched.length;
+  $("#watchAmountNote").textContent = watched.length ? "可在项目列表或详情中取消" : "保存在当前浏览器";
+  $("#watchCandidateCount").textContent = candidateRecords.length;
+  $("#watchPendingCount").textContent = pending.length;
+  $("#watchlistItems").innerHTML = watched.map((project) => `<button class="watch-item" data-id="${escapeHtml(project.id)}" type="button"><span class="insight-num">★</span><span class="watch-item-main"><strong>${escapeHtml(project.title)}</strong><span>${escapeHtml(project.buyer)} · ${escapeHtml(project.source)}</span></span><span class="watch-item-time">${escapeHtml(String(project.date).replaceAll("-", "."))}</span></button>`).join("") || `<div class="empty-state">暂未关注项目，请在项目列表中点击 ☆ 添加</div>`;
+  $$(".watch-item").forEach((item) => item.addEventListener("click", () => openDrawer(item.dataset.id)));
+  updateFavoriteCount();
+}
 function exportCsv() { const rows = visibleProjects(); const header = ["公告类型", "项目名称", "采购人/招标人", "代理机构", "采购内容", "预算金额/最高限价", "中标人/成交供应商", "中标/成交金额", "中标候选人前三名", "发布日期", "信息来源", "原始公告链接", "备注"]; const body = rows.map((project) => [project.type, project.title, project.buyer, project.agency || "未公布", project.content, project.budgetAmount || "未公布", project.winner || "无此信息", project.winnerAmount || "无此信息", Array.isArray(project.candidates) && project.candidates.length ? project.candidates.join("；") : (project.type === "中标候选人公示" ? "未公布" : "无此信息"), project.date, project.source, project.sourceUrl, project.note || "未公布"]); const csv = [header, ...body].map((row) => row.map((cell) => `"${String(cell).replaceAll('"', '""')}"`).join(",")).join("\n"); const blob = new Blob(["\ufeff" + csv], { type: "text/csv;charset=utf-8" }); const link = document.createElement("a"); link.href = URL.createObjectURL(blob); link.download = `卫星通信招标情报-${new Date().toISOString().slice(0, 10)}.csv`; link.click(); URL.revokeObjectURL(link.href); showToast(`已导出 ${rows.length} 条当前筛选记录`); }
 function formatDataUpdateTime(value) { if (!value) return "未获取"; const date = new Date(value); if (Number.isNaN(date.getTime())) return "时间不可用"; const parts = new Intl.DateTimeFormat("zh-CN", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit", hourCycle: "h23" }).formatToParts(date).reduce((result, part) => ({ ...result, [part.type]: part.value }), {}); return `${parts.year}-${parts.month}-${parts.day} ${parts.hour}:${parts.minute}:${parts.second}`; }
 function updateDataUpdateTime(value) { const element = $("#dataUpdateTime"); if (element) element.textContent = formatDataUpdateTime(value); }
-function updateSummary(summary = {}) { const total = Number(summary.total) || projects.length; const newCount = Number(summary.newCount) || 0; const pending = projects.filter((project) => ["watch", "urgent"].includes(project.status)).length; const counts = document.querySelectorAll(".metric-number[data-metric]"); if (counts[0]) counts[0].textContent = total; if (counts[1]) counts[1].textContent = newCount; if (counts[2]) counts[2].textContent = pending; const amount = document.querySelector(".amount-number"); if (amount) amount.innerHTML = `¥ ${Number(summary.publicAmountWan || 0).toLocaleString("zh-CN")}<span>万</span>`; const overviewCount = $("#overviewNavCount"); const projectsCount = $("#projectsNavCount"); if (overviewCount) overviewCount.textContent = Math.min(total, 6); if (projectsCount) projectsCount.textContent = total; const allCount = $("#allFilterCount"); const highCount = $("#highFilterCount"); const watchCount = $("#watchFilterCount"); if (allCount) allCount.textContent = total; if (highCount) highCount.textContent = projects.filter((project) => Number(project.amountValue) > 0).length; if (watchCount) watchCount.textContent = pending; renderWatchlist(); }
+function updateSummary(summary = {}) { const total = Number(summary.total) || projects.length; const newCount = Number(summary.newCount) || 0; const pending = projects.filter((project) => ["watch", "urgent"].includes(project.status)).length; const counts = document.querySelectorAll(".metric-number[data-metric]"); if (counts[0]) counts[0].textContent = total; if (counts[1]) counts[1].textContent = newCount; if (counts[2]) counts[2].textContent = pending; const amount = document.querySelector(".amount-number"); if (amount) amount.innerHTML = `¥ ${Number(summary.publicAmountWan || 0).toLocaleString("zh-CN")}<span>万</span>`; const overviewCount = $("#overviewNavCount"); const projectsCount = $("#projectsNavCount"); if (overviewCount) overviewCount.textContent = Math.min(total, 6); if (projectsCount) projectsCount.textContent = total; const allCount = $("#allFilterCount"); const highCount = $("#highFilterCount"); const watchCount = $("#watchFilterCount"); if (allCount) allCount.textContent = total; if (highCount) highCount.textContent = projects.filter((project) => Number(project.amountValue) > 0).length; if (watchCount) watchCount.textContent = pending; updateFavoriteCount(); renderWatchlist(); }
 function renderSourceCatalog(catalog = [], sourceStates = {}) { const container = $("#sourceCatalogRows"); if (!container) return; const rows = Array.isArray(catalog) ? catalog : []; const colors = ["cyan", "blue", "orange", "purple"]; container.innerHTML = rows.length ? rows.map((source, index) => { const runtime = sourceStates[source.id]; let label = "已接入，待检查"; let statusClass = "pending-label"; let detail = source.method || "已登记官方入口"; if (source.status === "cataloged") { label = "已登记，待适配"; statusClass = "cataloged-label"; } else if (runtime?.status === "success") { label = "正常"; statusClass = "online-label"; detail = `${runtime.records || 0} 条记录 · ${runtime.pagesScanned || 0} 页`; } else if (runtime?.status === "blocked") { label = "验证码/访问受限"; detail = (runtime.warnings || []).join("；") || "未绕过访问限制"; } else if (runtime?.status === "partial") { label = "部分完成"; detail = `${runtime.records || 0} 条记录 · ${runtime.pagesScanned || 0} 页`; } return `<div class="source-table-row" data-source-id="${escapeHtml(source.id)}"><strong><span class="source-logo ${colors[index % colors.length]}">${escapeHtml(String(source.name || "源").slice(0, 1))}</span><a href="${safeHref(source.homepage)}" target="_blank" rel="noreferrer">${escapeHtml(source.name)}</a></strong><span>${escapeHtml(source.category)}</span><span class="${statusClass}">● ${escapeHtml(label)}</span><span title="${escapeHtml(detail)}">${escapeHtml(detail)}</span></div>`; }).join("") : `<div class="empty-state">暂无来源目录</div>`; }
 function updateSourceStates(sourceStates = {}, catalog = []) { const entries = Object.entries(sourceStates); const success = entries.filter(([, state]) => state.status === "success").length; const configured = entries.length; const registered = Array.isArray(catalog) && catalog.length ? catalog.length : configured; const pending = Math.max(registered - success, 0); $("#sourceCountMetric").textContent = configured; $("#sourceSuccessCount").textContent = success; $("#sourcePendingCount").textContent = Math.max(configured - success, 0); $("#sourceHealthMetric").textContent = `${success}/${configured || 0} 正常`; $("#sourceSummaryCount").textContent = registered; $("#sourceSummaryOnline").textContent = success; $("#sourceSummaryPending").textContent = pending; $("#sourceSummaryRecords").textContent = entries.reduce((sum, [, state]) => sum + (Number(state.records) || 0), 0); renderSourceCatalog(catalog, sourceStates); entries.forEach(([id, state]) => { const row = document.querySelector(`.source-row[data-source-id="${id}"]`); if (!row) return; const detail = `${state.records || 0} 条记录 · ${state.pagesScanned || 0} 页`; const label = state.status === "success" ? "正常" : state.status === "blocked" ? "需人工验证" : "部分完成"; row.querySelector("div span").textContent = detail; row.querySelector("i").className = state.status === "success" ? "status-online" : "status-pending"; }); }
 async function fetchDataPayload() {
@@ -139,8 +178,8 @@ async function fetchDataPayload() {
   throw lastError || new Error("无法读取真实数据文件");
 }
 async function loadApiData() { try { const payload = await fetchDataPayload(); updateDataUpdateTime(payload.meta?.lastUpdatedAt || payload.meta?.lastRunAt); updateSourceStates(payload.meta?.sourceStates, payload.sourceCatalog); const partial = payload.meta?.lastRunStatus === "partial"; $("#bannerLabel").textContent = partial ? "部分采集完成" : "真实数据已连接"; $("#bannerCopy").textContent = `${payload.meta?.lastRunMessage || "已读取公开采集数据"}。${payload.meta?.dateRange ? `覆盖范围：${payload.meta.dateRange}。` : ""}`; projects = payload.projects; updateSummary(payload.summary || {}); renderTables(); if (partial) showToast("本次采集部分完成，页面只展示已保存的真实记录"); } catch (error) { updateDataUpdateTime(null); projects = []; $("#bannerLabel").textContent = "真实数据服务不可用"; $("#bannerCopy").textContent = "当前未能读取本机或公网数据文件，页面不会展示演示或虚构记录。"; updateSourceStates({}, []); updateSummary({}); renderTables(); showToast(error.message || "无法读取真实数据文件"); } }
-async function loadServiceMode() { try { if (staticDeployment) publicDeployment = true; if (!publicDeployment) { const response = await fetch("/api/health", { cache: "no-store" }); if (response.ok) { const payload = await response.json(); publicDeployment = payload.publicDeployment === true; } } } catch {} finally { if (publicDeployment) { const button = $("#refreshButton"); button.disabled = true; button.title = "公网服务每日 00:00 自动更新"; button.innerHTML = `<span class="refresh-glyph">◷</span> 每日自动更新`; } serviceModeReady = true; } }
-async function requestCollection() { const button = $("#refreshButton"); if (!serviceModeReady) { showToast("正在确认更新状态，请稍候"); return; } if (publicDeployment) { showToast("公网服务每天 00:00 自动更新，访客不能手动采集"); return; } button.classList.add("loading"); button.innerHTML = `<span class="refresh-glyph">↻</span> 更新中`; try { const response = await fetch("/api/collect", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ full: false }) }); const payload = await response.json().catch(() => ({})); if (!response.ok) throw new Error(payload.message || `采集服务返回 ${response.status}`); showToast(`${payload.message}，将在后台完成`); } catch (error) { showToast(error.message || "无法连接采集服务，请确认已用 npm run start 启动后端"); } finally { setTimeout(() => { button.classList.remove("loading"); if (publicDeployment) { button.disabled = true; button.title = "公网服务每日 00:00 自动更新"; button.innerHTML = `<span class="refresh-glyph">◷</span> 每日自动更新`; } else { button.innerHTML = `<span class="refresh-glyph">↻</span> 立即更新`; } }, 700); } }
+async function loadServiceMode() { try { if (staticDeployment) publicDeployment = true; if (!publicDeployment) { const response = await fetch("/api/health", { cache: "no-store" }); if (response.ok) { const payload = await response.json(); publicDeployment = payload.publicDeployment === true; } } } catch {} finally { if (publicDeployment) { const button = $("#refreshButton"); button.disabled = false; button.title = "仓库所有者登录 GitHub 后可手动运行更新"; button.innerHTML = `<span class="refresh-glyph">↻</span> 手动更新`; } serviceModeReady = true; } }
+async function requestCollection() { const button = $("#refreshButton"); if (!serviceModeReady) { showToast("正在确认更新状态，请稍候"); return; } if (publicDeployment) { const opened = window.open(manualUpdateUrl, "_blank"); if (opened) opened.opener = null; showToast("已打开 GitHub 更新页面，请登录后点击 Run workflow"); return; } button.classList.add("loading"); button.innerHTML = `<span class="refresh-glyph">↻</span> 更新中`; try { const response = await fetch("/api/collect", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ full: false }) }); const payload = await response.json().catch(() => ({})); if (!response.ok) throw new Error(payload.message || `采集服务返回 ${response.status}`); showToast(`${payload.message}，将在后台完成`); } catch (error) { showToast(error.message || "无法连接采集服务，请确认已用 npm run start 启动后端"); } finally { setTimeout(() => { button.classList.remove("loading"); button.innerHTML = `<span class="refresh-glyph">↻</span> ${publicDeployment ? "手动更新" : "立即更新"}`; }, 700); } }
 
 $("#globalSearch").addEventListener("input", (event) => { state.query = event.target.value.trim(); renderTables(); });
 $("#librarySearch").addEventListener("input", (event) => { state.query = event.target.value.trim(); $("#globalSearch").value = event.target.value; renderTables(); });
