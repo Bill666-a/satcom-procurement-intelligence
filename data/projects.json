@@ -1,6 +1,65 @@
 {
   "projects": [
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-0067d5d9827ddcc145cb9e48a340aeb7eff1",
+      "title": "2026年崇明区移动卫星通信服务项目询比公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "询价公告",
+      "date": "2026-09-01",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0101/20260901/0067d5d9827ddcc145cb9e48a340aeb7eff1.html",
+      "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
+      "collectedAt": "2026-09-01T13:55:55.851Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-09-01T13:56:12.338Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-0013b82eac4072ba4f1b8cd45b13e65def1d",
+      "title": "唐山市农业农村局本级2026年唐山市海洋渔船卫星电话配备项目（双盲评审）公开招标公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "招标公告",
+      "date": "2026-09-01",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/130000/0201/20260901/0013b82eac4072ba4f1b8cd45b13e65def1d.html",
+      "note": "来源平台：未公布；业务类型：政府采购",
+      "collectedAt": "2026-09-01T13:55:55.851Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-09-01T13:56:12.338Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067bfe3b7f3e51746e4aad3b6d80dfc1c62",
       "title": "天翼云科技有限公司河北分公司卫星通信网络技术服务项目成交候选人公示",
       "buyer": "未公布",
@@ -17,9 +76,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:26:43.839Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:51.595Z"
+      "updatedAt": "2026-09-01T14:12:08.109Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "河北因赛电子科技有限公司",
+      "winnerAmount": "¥ 88.193 万元",
+      "winnerAmountValue": 88.1932,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ccgp-aHR0cDovL3d3dy5jY2",
       "title": "邢台市应急管理局本级邢台市应急管理局卫星电话购置项目公开招标中标公告",
       "buyer": "未公布",
@@ -35,12 +101,22 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202608/t20260828_27223653.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-30T13:48:18.153Z",
-      "updatedAt": "2026-08-30T13:48:18.153Z"
+      "updatedAt": "2026-09-01T14:12:08.097Z"
     },
     {
+      "budgetAmount": "¥ 2,000,000 元",
+      "budgetAmountValue": 200,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [
+        "摩尔芯海集成电路（扬州）有限公司",
+        "上海犇芯半导体科技有限公司"
+      ],
+      "candidatesDisclosure": "公告披露字段",
       "id": "ggzy-005028c8300d768e46d4b65ce4836885b7cd",
       "title": "面向低轨卫星通信的集成化Q／V相控阵天线器件研发和产业化——芯片流片及相应技术服务（第二次）的中标候选人公示",
-      "buyer": "未公布",
+      "buyer": "嘉陵江实验室 （",
       "agency": "未公布",
       "type": "中标候选人公示",
       "date": "2026-08-28",
@@ -54,9 +130,16 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:26:43.839Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:51.595Z"
+      "updatedAt": "2026-09-01T14:12:08.310Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "河北因赛电子科技有限公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-87faa88d5e9fa94cff4b599a208568d6",
       "title": "邢台市应急管理局本级邢台市应急管理局卫星电话购置项目公开招标中标公告",
       "buyer": "未公布",
@@ -73,9 +156,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:26:43.839Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:51.595Z"
+      "updatedAt": "2026-09-01T14:12:08.112Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00132428ffb8fd4c428fa85e2e2d4cf0953d",
       "title": "邢台市应急管理局本级邢台市应急管理局卫星电话购置项目公开招标中标公告",
       "buyer": "未公布",
@@ -92,9 +182,16 @@
       "note": "来源平台：邢台市公共资源交易中心；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:26:45.967Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:51.595Z"
+      "updatedAt": "2026-09-01T14:12:08.106Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-ce7795b8a19e7bbf18",
       "title": "黄岩卫星电话通讯服务项目",
       "buyer": "无",
@@ -114,6 +211,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ccgp-6c4e88b955582e3d02",
       "title": "眉山职业技术学院卫星通信系统实训室建设竞争性谈判公告",
       "buyer": "未公布",
@@ -128,14 +232,21 @@
       "source": "中国政府采购网",
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202608/t20260824_27195007.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
-      "collectedAt": "2026-08-31T08:38:13.930Z",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "collectedAt": "2026-08-31T08:11:00.333Z",
+      "updatedAt": "2026-08-31T08:13:43.231Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067df58a2e224264ff0afe9e78a11554c12",
       "title": "关于《2025年广州800M数字集群网及关键通信综合项目》KA便携卫星通信设备采购询比结果公示",
       "buyer": "未公布",
-      "agency": "未公布",
+      "agency": "中捷通信有限公司 日期：2026年8月21日",
       "type": "中标候选人公示",
       "date": "2026-08-21",
       "amount": "未公布",
@@ -148,9 +259,16 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:26:03.934Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:08.113Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-cdcfaed0ae08aa8ea9167e29fa8dc417",
       "title": "神木市卫星便携站采购项目招标公告",
       "buyer": "未公布",
@@ -170,6 +288,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a49fdb017f01a01989d29e0fdb",
       "title": "四川省成都市青白江区消防救援大队消防装备项目（卫星电话）技术需求征求意见结束公告",
       "buyer": "未公布",
@@ -189,6 +314,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "青岛鲁芯仪器有限公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39fdb018a019ff8b8679f3af8",
       "title": "中国民航大学卫星通信和监视信道模拟系统采购项目中标公告",
       "buyer": "未公布",
@@ -205,9 +337,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:26:06.181Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:08.867Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0061faf4a236833d4a09a9e50bcb452c7478",
       "title": "神木市卫星便携站采购项目采购公告",
       "buyer": "未公布",
@@ -227,6 +366,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-b1f92071b9cff57ee8",
       "title": "中招国际招标有限公司关于宁波市气象局本级宁波市人工影响天气水资源保障工程-卫星通信保障能力提升项目（重发）的公开招标公告",
       "buyer": "宁波市气象局",
@@ -246,6 +392,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00677a3201803c7748c18ce448ecb15145b3",
       "title": "中国电信重庆公司2026-2028年无线网络中心卫星通信、应急发电机组、应急通信车设备代维项目采购项目标包1（第二次）成交候选人公示",
       "buyer": "未公布",
@@ -262,9 +415,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:25:55.651Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:08.873Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067ac08863f10974e0fb0a97c0b9ae665c7",
       "title": "中国电信重庆公司2026-2028年无线网络中心卫星通信、应急发电机组、应急通信车设备代维项目采购项目标包3（第二次）成交候选人公示",
       "buyer": "未公布",
@@ -281,9 +441,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:25:55.651Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:08.868Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a49fdb017f019ff90c79593b67",
       "title": "四川省成都市青白江区消防救援大队消防装备项目（卫星电话）技术需求征求意见公告",
       "buyer": "未公布",
@@ -303,6 +470,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39fdb018a019ff50f1d5833eb",
       "title": "国家消防救援局卫星通信网带宽租赁项目公开招标公告",
       "buyer": "未公布",
@@ -322,6 +496,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00671bda5fc0c685400cba83d8418058721c",
       "title": "2026年崇明区小型卫星通信服务项目终止公告",
       "buyer": "未公布",
@@ -341,6 +522,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-03eacccc643c01c23e",
       "title": "宁波市人工影响天气水资源保障工程-卫星通信保障能力提升项目的废标公告",
       "buyer": "宁波市气象局",
@@ -360,6 +548,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-38aada27736eaf9e18",
       "title": "2026年普陀区渔船天通卫星电话通信运营服务项目合同",
       "buyer": "舟山市普陀区海洋经济发展局",
@@ -379,6 +574,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006779582f6d50e9452db28a18dd4f8d5475",
       "title": "中国电信宁波分公司2026年某卫星便携站应急保障服务项目询比公告",
       "buyer": "未公布",
@@ -398,6 +600,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006711be70d2c111415dbef09fc2fbcf4a42",
       "title": "2026年新疆无线通信局高通量卫星便携基站及背负式基站采购项目（第二次）-变更公告",
       "buyer": "未公布",
@@ -417,6 +626,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-e35846ece0b4e0bf42d9a64d9d3c7a06",
       "title": "邢台市应急管理局本级邢台市应急管理局卫星电话购置项目废标公告",
       "buyer": "未公布",
@@ -436,6 +652,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "华云信息技术工程有限公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-6ef226c515a8f6d8533138fa5f79ce7e",
       "title": "甘肃省人工影响天气水资源保障工程-省级卫星通信保障系统及多源融合网格高时空分辨率实况分析组件项目中标公告",
       "buyer": "未公布",
@@ -452,9 +675,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:25:49.650Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:08.908Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司湖北分公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-c718195927354c33c9a3b3420c9d5790",
       "title": "卫星电话及配套服务第二次成交结果公告",
       "buyer": "未公布",
@@ -471,9 +701,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:25:49.650Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:08.874Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067f2ef865b116a4eb38cbbdb66f4c59ce2",
       "title": "中国铁塔股份有限公司西藏自治区分公司加拉坝址视频监控点2026-2027年卫星通信流量采购项目直接采购事前公示",
       "buyer": "未公布",
@@ -493,6 +730,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司湖北分公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0042240af8e8563e48e8b29ae0e74b71c8e9",
       "title": "卫星电话及配套服务第二次成交结果公告",
       "buyer": "未公布",
@@ -509,9 +753,16 @@
       "note": "来源平台：湖北省政府采购网；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:25:49.650Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:08.952Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067aac2c1e6e0d64db1b9b857c0e1d68158",
       "title": "2026年中国电信股份有限公司新疆无线通信局全疆VSAT代维项目（四次）-成交候选人公示",
       "buyer": "未公布",
@@ -528,9 +779,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:25:51.728Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:09.513Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-4074d92a95b7cb764af45d12048ffc5d",
       "title": "卫星电话及配套服务第二次竞争性谈判公告",
       "buyer": "未公布",
@@ -550,6 +808,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00122d578d83eed44b9d984a57515e71b510",
       "title": "天津市静海区应急管理局2026年静海区智慧防汛应急系统和卫星电话网络服务项目_第1包",
       "buyer": "未公布",
@@ -569,6 +834,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067a97c7df8fc514a0385206657e377965b",
       "title": "2026年新疆无线通信局高通量卫星便携基站及背负式基站采购项目（二次）-招标公告",
       "buyer": "未公布",
@@ -588,6 +860,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-776645dc4ad9902319f8bed4d767582e",
       "title": "卫星电话及配套服务终止公告",
       "buyer": "未公布",
@@ -607,6 +886,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-eddf55299bf0b3329e369288f0b45290",
       "title": "卫星电话及配套服务竞争性谈判公告",
       "buyer": "未公布",
@@ -626,6 +912,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-3d8b9a2609d2969bb1",
       "title": "中招国际招标有限公司关于宁波市人工影响天气水资源保障工程-卫星通信保障能力提升项目的公开招标公告",
       "buyer": "宁波市气象局",
@@ -645,6 +938,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-006767fff3b4d5a941caa712fb50aad6c9cf",
       "title": "2026年中国电信广西公司VSAT卫星固定站功放购置项目（第二次）成交候选人公示",
       "buyer": "未公布",
@@ -661,9 +961,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:25:43.904Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:09.517Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00678a1d3f9cc97a4c4e99d83f0eaf1493ed",
       "title": "2026年中国电信股份有限公司新疆无线通信局全疆VSAT代维项目（四次）-询比公告",
       "buyer": "未公布",
@@ -683,6 +990,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00676dbb97affd774d0fa1912f167c390d21",
       "title": "河北翼企云科技有限公司卫星宽带通讯系统服务项目询比公告",
       "buyer": "未公布",
@@ -702,6 +1016,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国联合网络通信有限公司天津市分公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-aa1ca9429b4211dc23fed246e0afb2f3",
       "title": "天津市静海区应急管理局机关 天津市静海区应急管理局2026年静海区智慧防汛应急系统和卫星电话网络服务项目 (项目编号:TJJH-2026-D-0013)成交公告",
       "buyer": "未公布",
@@ -718,9 +1039,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:25:34.581Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:09.517Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-b9e6af01a0824a26ca",
       "title": "济宁职业技术学院卫星通信与导航技术实训中心建设项目验收公告",
       "buyer": "未公布",
@@ -740,6 +1068,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-f7effbf2cf288a95bc",
       "title": "济宁职业技术学院卫星通信与导航技术实训中心建设项目验收公告",
       "buyer": "未公布",
@@ -759,6 +1094,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006774bf0db2a1f541d0bfa818094e7f52b3",
       "title": "2026年中国电信广西公司VSAT卫星固定站功放购置项目（第二次）询比公告",
       "buyer": "未公布",
@@ -778,6 +1120,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c56d6f272ef5467fbbcc74aba76f1b64",
       "title": "2026年中国电信股份有限公司新疆无线通信局全疆VSAT代维项目（三次）-询比公告",
       "buyer": "未公布",
@@ -797,6 +1146,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司舟山分公司",
+      "winnerAmount": "¥ 1,467,600 元",
+      "winnerAmountValue": 146.76,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-54a4b0925adc4f8d7a",
       "title": "舟山正大工程咨询有限公司关于2026年普陀区渔船天通卫星电话通信运营服务项目中标(成交)结果公告",
       "buyer": "舟山市普陀区海洋经济发展局",
@@ -813,9 +1169,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:11:33.943Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:09.657Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0053d5c26cdf3914437ba563a899e0da3949",
       "title": "云南中邺工程管理有限公司关于墨江哈尼族自治县村级卫星电话采购的公开招标公告",
       "buyer": "未公布",
@@ -835,6 +1198,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司长春分公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0022227231f85120486dbe0c37d2e77fd07b",
       "title": "吉林省应急管理厅2026年省级防汛通信卫星电话费采购项目成交结果公告",
       "buyer": "未公布",
@@ -851,9 +1221,16 @@
       "note": "来源平台：吉林省公共资源交易信息网；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:25:25.237Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:09.515Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00339139c5c1b934435480d1caf07eb5709a",
       "title": "临安区应急管理局天通卫星电话地面卡和卫星语音服务包年卡采购项目合同",
       "buyer": "未公布",
@@ -873,6 +1250,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0063219708413214401bab1ffaebae16b0ad",
       "title": "尖扎县公安局卫星便携站采购项目（第二次）的竞争性谈判公告",
       "buyer": "未公布",
@@ -892,10 +1276,17 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00679291c3f67263406faf022c54436ef978",
       "title": "中国移动北京公司2026年KA便携式卫星终端站设备采购项目_中标候选人公示",
       "buyer": "未公布",
-      "agency": "未公布",
+      "agency": "中国移动通信集团北京有限公司/江苏中博通信有限公司项目负责人：2026年07月02日",
       "type": "中标候选人公示",
       "date": "2026-07-02",
       "amount": "未公布",
@@ -908,9 +1299,16 @@
       "note": "来源平台：中国移动电子采购与招标投标系统；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:25:25.237Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:09.516Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00674bd0de74599a4928b3a3622960c4e239",
       "title": "2026年中电福富信息科技有限公司应急通信卫星便携基站采购项目（重新询比）询比公告",
       "buyer": "未公布",
@@ -930,10 +1328,17 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-006777778f923fa34bea96dd6624fb0f8616",
       "title": "中国移动北京公司2026年KA便携式卫星终端站设备采购项目_中标候选人公示",
       "buyer": "未公布",
-      "agency": "未公布",
+      "agency": "中国移动通信集团北京有限公司/江苏中博通信有限公司项目负责人：2026年07月02日",
       "type": "中标候选人公示",
       "date": "2026-07-02",
       "amount": "未公布",
@@ -946,13 +1351,20 @@
       "note": "来源平台：中国移动电子采购与招标投标系统；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:25:27.136Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:10.199Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067c1b786a887f149cba0e395813c49e17a",
       "title": "中国移动北京公司2026年KA便携式卫星终端站设备采购项目_中标候选人公示",
       "buyer": "未公布",
-      "agency": "未公布",
+      "agency": "中国移动通信集团北京有限公司/江苏中博通信有限公司项目负责人：2026年07月02日",
       "type": "中标候选人公示",
       "date": "2026-07-02",
       "amount": "未公布",
@@ -965,9 +1377,16 @@
       "note": "来源平台：中国移动电子采购与招标投标系统；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:25:27.136Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:26:11.886Z"
+      "updatedAt": "2026-09-01T14:12:10.202Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-e4ae79f9029464afd1",
       "title": "临安区应急管理局天通卫星电话地面卡和卫星语音服务包年卡采购项目合同",
       "buyer": "杭州市临安区应急管理局",
@@ -987,6 +1406,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067cb5b747c85764d658a50c61ae735b0d0",
       "title": "2026年新疆无线通信局高通量卫星便携基站及背负式基站采购项目-变更公告",
       "buyer": "未公布",
@@ -1006,6 +1432,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00674d84eea0b2924e5baf27fb693d7b84e0",
       "title": "2026年卫星通信业务技术保障服务项目询比公告",
       "buyer": "未公布",
@@ -1025,6 +1458,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067adeb9147ad384385991121f7cd209a7b",
       "title": "中国电信股份有限公司六安分公司乡镇应急通讯视频终端和卫星电话通讯设备采购项目询比变更公告",
       "buyer": "未公布",
@@ -1044,6 +1484,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c432c93349c348f699d487574e240cf0",
       "title": "2026年中国电信股份有限公司新疆无线通信局全疆VSAT代维项目（二次）-询比公告",
       "buyer": "未公布",
@@ -1063,6 +1510,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067200f7b33a5e94f55aa69b9be602b81ec",
       "title": "2026年中国电信广西公司VSAT卫星固定站功放购置项目询比公告",
       "buyer": "未公布",
@@ -1082,6 +1536,13 @@
       "updatedAt": "2026-08-31T07:26:11.886Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司杭州分公司",
+      "winnerAmount": "¥ 447,404 元",
+      "winnerAmountValue": 44.7404,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-4ae0d61d2a5c0e269d",
       "title": "中纬工程管理咨询有限公司关于临安区应急管理局天通卫星电话地面卡和卫星语音服务包年卡采购项目中标(成交)结果公告",
       "buyer": "杭州市临安区应急管理局",
@@ -1098,9 +1559,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:11:37.788Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:10.209Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067748b71c07beb4604beeca8e7f640ec8f",
       "title": "2026年中电福富信息科技有限公司应急通信卫星便携基站采购项目询比公告",
       "buyer": "未公布",
@@ -1120,6 +1588,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067ed2cbed0d0694add8a4f984231b28b2d",
       "title": "2026年中国电信股份有限公司新疆无线通信局全疆VSAT代维项目-询比公告",
       "buyer": "未公布",
@@ -1139,10 +1614,17 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "河北远东通信系统工程有限公司",
+      "winnerAmount": "¥ 1,675,800 元",
+      "winnerAmountValue": 167.58,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0050b23c7b5645524273b0e6afbc5b5aadd6",
       "title": "国防动员（人民防空）卫星通信信道租用及卫星通信技术服务(CQS26C00993)中标（成交）结果公告",
-      "buyer": "未公布",
-      "agency": "未公布",
+      "buyer": "重庆市国防动员办公室 采购经办人：卢山 张文峰 采购人",
+      "agency": "重庆市政府采购中心 代理机构经办人：徐笙玮 颜筱 代理机构",
       "type": "成交公告",
       "date": "2026-06-12",
       "amount": "未公布",
@@ -1155,9 +1637,16 @@
       "note": "来源平台：重庆市公共资源交易服务平台；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:25:06.823Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:25:21.674Z"
+      "updatedAt": "2026-09-01T14:12:10.201Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-004631c43e204bf842dd8b7e1c7e0a4a1cc8",
       "title": "执法船艇卫星宽带升级及可视化协同指挥竞争性磋商公告",
       "buyer": "未公布",
@@ -1177,6 +1666,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067b09b1edd09ce44aeb8f3058cd566d0fc",
       "title": "关于中电信应急公司2025年综合应急（天通卫星电话、天通猫、数字IP微波）能力建设项目（第三次）（标包1天通卫星电话） 采购终止公告",
       "buyer": "未公布",
@@ -1196,6 +1692,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00679825c33fe2084e309ccafd6bbcb8a473",
       "title": "关于中电信应急公司2025年综合应急（天通卫星电话、天通猫、数字IP微波）能力建设项目（第三次） （标包3天通猫） 采购终止公告",
       "buyer": "未公布",
@@ -1215,6 +1718,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00672d4cfd4cdc9f41e5a6978ce2d2b1a429",
       "title": "中国电信集团有限公司湖北传输局2026年度储备中心卫星便携站维护项目成交候选人公示",
       "buyer": "未公布",
@@ -1231,9 +1741,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:24:59.400Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:25:21.674Z"
+      "updatedAt": "2026-09-01T14:12:10.200Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-319fa4caabb1148142f6338b5a4c40fd",
       "title": "卫星便携站采购项目（二次）招标公告",
       "buyer": "未公布",
@@ -1253,6 +1770,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-2e5bebf513466ade1f",
       "title": "卫星物联网应用处理系统验收公告",
       "buyer": "未公布",
@@ -1272,6 +1796,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-aa4e906a2f93c41e71",
       "title": "卫星物联网应用处理系统验收公告",
       "buyer": "未公布",
@@ -1291,6 +1822,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "交通运输通信信息集团有限公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a49e633168019e733d02523366",
       "title": "交通运输部海事局直属海事系统网络链路一体化运维和采购项目02包-海事VSAT卫星链路服务及价格标准公开招标中标公告",
       "buyer": "未公布",
@@ -1307,9 +1845,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:25:03.113Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:25:21.674Z"
+      "updatedAt": "2026-09-01T14:12:10.204Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39acd9ad1019e5dca48123930",
       "title": "地质灾害风险预警实时数据可视化与卫星通信接入子系统运维与升级公开招标公告",
       "buyer": "未公布",
@@ -1329,10 +1874,17 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-006741090226c8dc435ea28705d063911013",
       "title": "安徽铁塔应急通信卫星电话采购项目成交候选供应商公示",
       "buyer": "未公布",
-      "agency": "未公布",
+      "agency": "公诚管理咨询有限公司（盖章） 日期： 2026 年 5 月 25 日",
       "type": "中标候选人公示",
       "date": "2026-05-25",
       "amount": "未公布",
@@ -1345,9 +1897,16 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:24:51.966Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:25:21.674Z"
+      "updatedAt": "2026-09-01T14:12:10.775Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067879e4ce4be53419da0cfc02e9535311e",
       "title": "中国电信集团有限公司湖北传输局2026年度储备中心卫星便携站维护项目询比公告",
       "buyer": "未公布",
@@ -1367,6 +1926,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-949fd8918423b7cb6a",
       "title": "卫星通信装置验收公告",
       "buyer": "未公布",
@@ -1386,6 +1952,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-00b926ff0f0d80c3f0",
       "title": "卫星通信装置验收公告",
       "buyer": "未公布",
@@ -1405,6 +1978,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00512556ffdae9e346758aa0b8132fbf6dc3",
       "title": "卫星电话室分系统建设项目",
       "buyer": "未公布",
@@ -1424,6 +2004,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-cf5cd15f905c9e17acf1c69b699455ce",
       "title": "国防动员（人民防空）卫星通信信道租用及卫星通信技术服务(CQS26C00993)公开招标公告",
       "buyer": "未公布",
@@ -1443,6 +2030,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0050ab4a5b51ff8842e5b6887368f4fb1020",
       "title": "国防动员（人民防空）卫星通信信道租用及卫星通信技术服务(CQS26C00993)公开招标公告",
       "buyer": "未公布",
@@ -1462,6 +2056,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "¥ 265,000 元",
+      "winnerAmountValue": 26.5,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-5588ef230ed5c76105e1c31512e57c9f",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(六次)中标（成交）结果公告",
       "buyer": "未公布",
@@ -1478,9 +2079,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:24:46.382Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:25:21.674Z"
+      "updatedAt": "2026-09-01T14:12:10.778Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "¥ 265,000 元",
+      "winnerAmountValue": 26.5,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0051c13c1928ae7e4eb7833330269b3e8831",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(六次)中标（成交）结果公告",
       "buyer": "未公布",
@@ -1497,9 +2105,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:24:46.382Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:25:21.674Z"
+      "updatedAt": "2026-09-01T14:12:10.777Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a49acd9b21019e06a6024176db",
       "title": "交通运输部海事局直属海事系统网络链路一体化运维和采购项目02包-海事VSAT卫星链路服务及价格标准公开招标公告（第二次）",
       "buyer": "未公布",
@@ -1519,6 +2134,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a49acd9b21019e068bcd8175bb",
       "title": "交通运输部海事局直属海事系统网络链路一体化运维和采购项目02包-海事VSAT卫星链路服务及价格标准公开招标废标公告",
       "buyer": "未公布",
@@ -1538,6 +2160,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-b62569921372b822f5",
       "title": "浦江县应急管理局卫星电话运维服务采购项目合同",
       "buyer": "浦江县应急管理局",
@@ -1557,6 +2186,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-07d6d630bd737ca8422df15971ca7e0a",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(六次)竞争性磋商公告",
       "buyer": "未公布",
@@ -1576,6 +2212,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00516556ad52b3c544ae88419efbbfb3bb12",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(六次)竞争性磋商公告",
       "buyer": "未公布",
@@ -1595,6 +2238,13 @@
       "updatedAt": "2026-08-31T07:25:21.674Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-003369e608539f0d4cccaa6ee0cb03914638",
       "title": "2026年度临海市大中型海洋渔船天通卫星通信服务及数据流量服务采购合同",
       "buyer": "未公布",
@@ -1614,6 +2264,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-c289be8295ca3a5af9",
       "title": "2026年度临海市大中型海洋渔船天通卫星通信服务及数据流量服务采购合同",
       "buyer": "临海市海洋经济发展局(临海市港航和口岸管理局、临海市港航海洋和渔业行政执法队）",
@@ -1633,6 +2290,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-b2c940f1c9453b7ce2",
       "title": "自然灾害应急能力提升工程预警指挥项目（现场救援通信及感知类装备项目--东营市东营区卫星电话融合终端）合同公示",
       "buyer": "未公布",
@@ -1652,6 +2316,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-70086f50cdc18f9529",
       "title": "自然灾害应急能力提升工程预警指挥项目（现场救援通信及感知类装备项目--东营市东营区卫星电话融合终端）合同公示",
       "buyer": "未公布",
@@ -1671,6 +2342,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a49acd9b21019d8ff1dc3c2eb1",
       "title": "交通运输部海事局直属海事系统网络链路一体化运维和采购项目02包-海事VSAT卫星链路服务及价格标准公开招标公告",
       "buyer": "未公布",
@@ -1690,6 +2368,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司金华分公司",
+      "winnerAmount": "¥ 492,000 元",
+      "winnerAmountValue": 49.2,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-c02b4ef0074712fa45",
       "title": "浦江县慧农产权交易有限公司关于浦江县应急管理局卫星电话运维服务采购项目中标(成交)结果公告",
       "buyer": "浦江县应急管理局",
@@ -1706,9 +2391,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:11:41.956Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:10.781Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00535371f03f40014053a0ab566888dfb8b3",
       "title": "云南省公路局卫星便携站和应急通信车通信费2026年度项目竞争性磋商公告",
       "buyer": "未公布",
@@ -1728,6 +2420,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-f47c0eda9f49de22788350eca9b62fe2",
       "title": "大邑县应急管理局卫星电话室分系统建设项目竞争性磋商公告",
       "buyer": "未公布",
@@ -1747,6 +2446,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00512cd9f9c005fa46438ece9f8e0c9bae08",
       "title": "大邑县应急管理局卫星电话室分系统建设项目竞争性磋商公告",
       "buyer": "未公布",
@@ -1766,6 +2472,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006704d62bbe8e904c0faf63f9b7eeae4ff8",
       "title": "中国电信股份有限公司卫星通信分公司废旧物资清运及仓储服务采购项目（第二次）",
       "buyer": "未公布",
@@ -1785,6 +2498,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司台州分公司",
+      "winnerAmount": "¥ 946,400 元",
+      "winnerAmountValue": 94.64,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-b92e5b1bb3f7452527",
       "title": "台州明辰招标代理有限公司关于2026年度临海市大中型海洋渔船天通卫星通信服务及数据流量服务采购中标(成交)结果公告",
       "buyer": "临海市海洋经济发展局(临海市港航和口岸管理局、临海市港航海洋和渔业行政执法队）",
@@ -1801,9 +2521,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:11:07.191Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:10.870Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-789e1e254aa2b6cc22",
       "title": "灾后重建项目卫星电话及卫星通讯模块采购（一期）合同公示",
       "buyer": "未公布",
@@ -1823,6 +2550,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-9401110715e7144568",
       "title": "灾后重建项目卫星电话及卫星通讯模块采购（一期）合同公示",
       "buyer": "未公布",
@@ -1842,6 +2576,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00676345ee460c7944f1abac7967ddbfabfc",
       "title": "中国移动通信集团福建有限公司2026年相控阵卫星通信设备集成采购项目_招标公告",
       "buyer": "未公布",
@@ -1861,6 +2602,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0051044192fe3d12405c9aefc6926163cb62",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(五次)竞争性磋商公告",
       "buyer": "未公布",
@@ -1880,10 +2628,20 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [
+        "广州中远海运电信科技有限公司",
+        "中国电信股份有限公司上海分公司"
+      ],
+      "candidatesDisclosure": "公告披露字段",
       "id": "ggzy-00672932b4cfc91245f1948ed127a937b0e4",
       "title": "爱达邮轮VSAT卫星通信服务项目中标候选人公示",
-      "buyer": "未公布",
-      "agency": "未公布",
+      "buyer": "爱达邮轮有限公司 招标",
+      "agency": "华润守正招标有限公司 二、评标情况 1",
       "type": "中标候选人公示",
       "date": "2026-03-20",
       "amount": "未公布",
@@ -1896,9 +2654,16 @@
       "note": "来源平台：华润集团守正电子招标平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:24:05.625Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:24:33.582Z"
+      "updatedAt": "2026-09-01T14:12:10.768Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067d3bcc006d4224e66b8d2cb7f846786d0",
       "title": "中国电信集团有限公司河北分公司2026年卫星电话通信通道运维保障服务项目成交候选人公示",
       "buyer": "未公布",
@@ -1915,9 +2680,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:24:05.625Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:24:33.582Z"
+      "updatedAt": "2026-09-01T14:12:11.428Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39acd9ad1019d0a7f0f6f025c",
       "title": "低轨卫星通信终端天线采购项目招标公告",
       "buyer": "未公布",
@@ -1937,6 +2709,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00674286645bca4a466e9d5154026db42f16",
       "title": "中国电信股份有限公司卫星通信分公司废旧物资清运及仓储服务采购项目询比公告",
       "buyer": "未公布",
@@ -1956,6 +2735,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-d3f3e07b8cac77500b",
       "title": "浦江县慧农产权交易有限公司关于浦江县应急管理局卫星电话运维服务采购项目的更正公告",
       "buyer": "浦江县应急管理局",
@@ -1975,6 +2761,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067607f19f88eee434093fb0be72da6e6e9",
       "title": "【车载低轨卫星宽带通信测试及数据分析演示系统】招标公告",
       "buyer": "未公布",
@@ -1994,6 +2787,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-de5e53b09ed655d0a8a065b2f81dd3d6",
       "title": "浦江县慧农产权交易有限公司关于浦江县应急管理局卫星电话运维服务采购项目的公开招标公告",
       "buyer": "未公布",
@@ -2013,6 +2813,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00527cde2886eae342beb02af3faa84024f8",
       "title": "贵州省公安厅公网卫星便携站和便携式全网通基站项目的竞争性谈判公告",
       "buyer": "未公布",
@@ -2032,6 +2839,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-96dca99fe59d6c7587564793de769aa2",
       "title": "贵州省公安厅公网卫星便携站和便携式全网通基站项目竞争性谈判公告",
       "buyer": "未公布",
@@ -2051,6 +2865,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00333d98e64a3a55497591f1a951bdf8fdd4",
       "title": "浦江县慧农产权交易有限公司关于浦江县应急管理局卫星电话运维服务采购项目的公开招标公告",
       "buyer": "未公布",
@@ -2070,6 +2891,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0021d5c9e558628d47078fa47f87859539b7",
       "title": "辽宁省人工影响天气水资源保障项目（信息能力建设）卫星通信保障",
       "buyer": "未公布",
@@ -2089,6 +2917,13 @@
       "updatedAt": "2026-08-31T07:24:33.582Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-71d3de911ff6f90d47",
       "title": "浦江县慧农产权交易有限公司关于浦江县应急管理局卫星电话运维服务采购项目的公开招标公告",
       "buyer": "浦江县应急管理局",
@@ -2108,6 +2943,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00678f56a3fa52b34a36a09949fe16de5bb6",
       "title": "2026年中国电信福建公司卫星通信系统维护保养及维修集中采购项目询比公告",
       "buyer": "未公布",
@@ -2127,6 +2969,13 @@
       "updatedAt": "2026-08-31T07:23:43.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-460294444127732d5e91ea445e072b7a",
       "title": "张家界航空工业职业技术学院北斗卫星通信与导航实训中心卫星物联网实训室建设项目竞争性磋商公告",
       "buyer": "未公布",
@@ -2146,6 +2995,13 @@
       "updatedAt": "2026-08-31T07:23:43.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c1b39d4a7c524b3db8f81c98380f04a1",
       "title": "卫星公司2025年国产邮轮卫星通信VSAT终端项目（第二次）询比公告",
       "buyer": "未公布",
@@ -2165,6 +3021,13 @@
       "updatedAt": "2026-08-31T07:23:43.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-57b14c2fd43a841730d40414a2dfe914",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(三次)结果公告",
       "buyer": "未公布",
@@ -2184,6 +3047,13 @@
       "updatedAt": "2026-08-31T07:23:43.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c45f1d11f5a249dfb943870c50031687",
       "title": "中国电建江西电建公司智信能科卫星电话及其配件采购项目公开询比采购公告",
       "buyer": "未公布",
@@ -2203,6 +3073,13 @@
       "updatedAt": "2026-08-31T07:23:43.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067f79976c73e5d47f5a85b5f0bfcef76a4",
       "title": "爱达邮轮VSAT卫星通信服务项目招标公告",
       "buyer": "未公布",
@@ -2222,6 +3099,13 @@
       "updatedAt": "2026-08-31T07:23:43.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00675d2cc725ab1a46a0aa8817ffe2b885da",
       "title": "卫星公司2025年国产邮轮卫星通信VSAT终端项目询比公告",
       "buyer": "未公布",
@@ -2241,6 +3125,13 @@
       "updatedAt": "2026-08-31T07:23:43.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067e9f0818c0e254eafaeb1da2d67131a62",
       "title": "通辽电信2026年某局卫星通信设备采购项目（三次）",
       "buyer": "未公布",
@@ -2260,6 +3151,13 @@
       "updatedAt": "2026-08-31T07:23:43.026Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-d0a7f21cfc205a3657f45fe12059cb63",
       "title": "关于临海市大中型海洋渔船天通卫星通信服务及数据流量服务采购的单一来源公示",
       "buyer": "未公布",
@@ -2279,6 +3177,13 @@
       "updatedAt": "2026-08-31T07:23:43.026Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00679ab402ebb88241f199d85e90b1df66cc",
       "title": "昌都市GAJWXTX系统地面站升级及专网卫星便携站服务采购项目设备采购项目（二次）成交候选人公示",
       "buyer": "未公布",
@@ -2295,9 +3200,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:23:20.726Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:23:43.026Z"
+      "updatedAt": "2026-09-01T14:12:11.431Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-25994ea410931314664baf8a9e76a36f",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(三次)竞争性磋商公告",
       "buyer": "未公布",
@@ -2317,6 +3229,13 @@
       "updatedAt": "2026-08-31T07:23:43.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-005142a3e6183bb544d283b9d0eeae55d64c",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(三次)竞争性磋商公告",
       "buyer": "未公布",
@@ -2336,6 +3255,13 @@
       "updatedAt": "2026-08-31T07:23:43.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067cbf19413acd84955a5320b2bb809c724",
       "title": "昌都市GAJWXTX系统地面站升级及专网卫星便携站服务采购项目设备采购项目（二次）公开询比公告",
       "buyer": "未公布",
@@ -2355,6 +3281,13 @@
       "updatedAt": "2026-08-31T07:23:43.026Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39acd9ad1019bb0d2054e4353",
       "title": "山西省气象信息中心山西省人工影响天气水资源保障工程项目（网络和数据安全能力提升、卫星通信保障及人影数据天擎支撑）中标公告",
       "buyer": "未公布",
@@ -2371,9 +3304,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:23:07.667Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:23:43.026Z"
+      "updatedAt": "2026-09-01T14:12:11.430Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00676bd0adf3f6a647bca7497afbb25506a7",
       "title": "中国电信股份有限公司巴州分公司2025年乌鲁克GAJ警务通、卫星电话终端及相关服务采购项目成交候选人公示",
       "buyer": "未公布",
@@ -2390,9 +3330,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:23:07.667Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:23:43.026Z"
+      "updatedAt": "2026-09-01T14:12:11.424Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067cc9a41e25cbb406793a5dd91b5d708c2",
       "title": "通辽电信2026年某局卫星通信设备采购项目",
       "buyer": "未公布",
@@ -2412,6 +3359,13 @@
       "updatedAt": "2026-08-31T07:23:43.026Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067f430d005779344a3bb72d61b0202b377",
       "title": "昌都市GAJWXTX系统地面站升级及专网卫星便携站服务采购项目设备采购项目成交候选人公示",
       "buyer": "未公布",
@@ -2428,9 +3382,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:23:07.667Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:23:43.026Z"
+      "updatedAt": "2026-09-01T14:12:11.429Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067179354c108b34bdd8764641edb72949c",
       "title": "昌都市GAJWXTX系统地面站升级及专网卫星便携站服务采购项目技术服务项目成交候选人公示",
       "buyer": "未公布",
@@ -2447,9 +3408,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:23:07.668Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:23:43.026Z"
+      "updatedAt": "2026-09-01T14:12:11.429Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-45882e52719589d18c9f05c444a0fb7b",
       "title": "恩施土家族苗族自治州应急管理局本级山洪重点村应急卫星通信保障服务采购流标公告",
       "buyer": "未公布",
@@ -2469,6 +3437,13 @@
       "updatedAt": "2026-08-31T07:23:43.026Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067e1c05323aa4a486394719c1ce4588e05",
       "title": "中国电信股份有限公司巴州分公司2025年第二师库尔勒垦区GAJ警务通和卫星电话采购项目成交候选人公示",
       "buyer": "未公布",
@@ -2485,9 +3460,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:22:58.324Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:23:43.026Z"
+      "updatedAt": "2026-09-01T14:12:11.988Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006702881c89c1b54f678a8a5fb14aedfbc1",
       "title": "中国电信股份有限公司巴州分公司2025年乌鲁克GAJ警务通、卫星电话终端及相关服务采购项目询比公告",
       "buyer": "未公布",
@@ -2507,6 +3489,13 @@
       "updatedAt": "2026-08-31T07:23:43.026Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-d6a0b7a17e847ac3f99a66be99958795",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(二次)竞争性磋商公告",
       "buyer": "未公布",
@@ -2526,6 +3515,13 @@
       "updatedAt": "2026-08-31T07:23:43.026Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0051d4fd2ec88a164b38a9d6c76c5657c90a",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务(二次)竞争性磋商公告",
       "buyer": "未公布",
@@ -2545,6 +3541,13 @@
       "updatedAt": "2026-08-31T07:23:43.026Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067bce5796e26244a07ae42fde943cc4bb1",
       "title": "国家安全生产应急救援力量建设项目（第32包超轻卫星便携站设备）中标候选人公示",
       "buyer": "未公布",
@@ -2561,9 +3564,16 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:23:00.211Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:23:43.026Z"
+      "updatedAt": "2026-09-01T14:12:11.994Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-82513e3b73ba01bd59",
       "title": "卫星通信装置合同公示",
       "buyer": "未公布",
@@ -2583,6 +3593,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-0d7c5adcd177f47408",
       "title": "卫星通信装置合同公示",
       "buyer": "未公布",
@@ -2602,6 +3619,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00673de275c3e5f74e13855ae61fe38ed6d1",
       "title": "中电信应急公司2025年综合应急（天通卫星电话、天通猫、数字IP微波）能力建设项目（第二次）询比公告",
       "buyer": "未公布",
@@ -2621,6 +3645,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39acd9ad1019b539bb1620482",
       "title": "四川省消防救援总队卫星通信装备采购项目中标公告",
       "buyer": "未公布",
@@ -2637,9 +3668,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:22:25.618Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:11.991Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00511105028c7f134014ad72b522ccd9f9e5",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务竞争性磋商公告",
       "buyer": "未公布",
@@ -2659,6 +3697,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00519f288ddbf0464e34aacd7366e18d113f",
       "title": "宜宾市公安局便携卫星通信系统竞争性谈判公告",
       "buyer": "未公布",
@@ -2678,6 +3723,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067b985f474a3354a5c8fd13c14ddd16cd0",
       "title": "中电信应急公司2025年应急通信卫星便携基站能力建设项目中标候选人公示",
       "buyer": "未公布",
@@ -2694,13 +3746,20 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:22:17.987Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:11.989Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-1d2fa737891957ee9177ba1730b1841c",
       "title": "青岛海洋科技中心卫星通信装置中标公告",
-      "buyer": "未公布",
-      "agency": "未公布",
+      "buyer": "青岛海洋科技中心",
+      "agency": "嘉信全过程项目咨询管理有限公司",
       "type": "中标公告",
       "date": "2025-12-16",
       "amount": "未公布",
@@ -2713,13 +3772,20 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:22:17.987Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:12.027Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-003759096c0e533644a791a4fe9b9cf3565c",
       "title": "青岛海洋科技中心卫星通信装置中标公告",
-      "buyer": "未公布",
-      "agency": "未公布",
+      "buyer": "青岛海洋科技中心",
+      "agency": "嘉信全过程项目咨询管理有限公司",
       "type": "中标公告",
       "date": "2025-12-16",
       "amount": "未公布",
@@ -2732,9 +3798,16 @@
       "note": "来源平台：青岛市公共资源交易 电子交易系统；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:22:17.987Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:12.026Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-3833ec78213617ed0e",
       "title": "青岛海洋科技中心卫星通信装置中标公告",
       "buyer": "未公布",
@@ -2751,9 +3824,16 @@
       "note": "字段由山东省政府采购信息公开平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:09:06.849Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:09:45.753Z"
+      "updatedAt": "2026-09-01T14:12:12.838Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-5f9df383a760ad0029",
       "title": "青岛海洋科技中心卫星通信装置中标公告",
       "buyer": "未公布",
@@ -2770,9 +3850,16 @@
       "note": "字段由山东省政府采购信息公开平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:12:30.917Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:12.835Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00678586ba605c74431eaffdde1909dda6d1",
       "title": "2025年卫星便携站采购项目成交候选人公示",
       "buyer": "未公布",
@@ -2789,9 +3876,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:22:17.987Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:12.590Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00679e4410310f20442eb4403272ea191b1b",
       "title": "2025年中国电信贵州公司ka高通量卫星通信系统改造设备及集成服务采购成交候选人公示",
       "buyer": "未公布",
@@ -2808,9 +3902,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:22:19.836Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:12.598Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067e036422c3e104784b347104c0d7ba40a",
       "title": "中国电信股份有限公司新疆无线通信局2026年中哈空中管制热线电路卫星通信专项技术服务采购项目",
       "buyer": "未公布",
@@ -2830,6 +3931,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-0d5c8418cecdbbd7bd",
       "title": "文成县基层应急管理体系和能力建设提升工程――2025年应急消防管理站提质升级装备采购项目（卫星电话底座+室外天线）合同",
       "buyer": "文成县应急管理局",
@@ -2849,6 +3957,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-20322b06b2c40ec83796aeaea7c47642",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务竞争性磋商公告",
       "buyer": "未公布",
@@ -2868,6 +3983,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00510ed29dd4466642a8bc186fa89614a0d6",
       "title": "凉山彝族自治州应急管理局凉山州应急管理局卫星通信车运维服务竞争性磋商公告",
       "buyer": "未公布",
@@ -2887,6 +4009,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-26ed876806030a4e80",
       "title": "3米波浪浮标、北斗卫星通信设备及海洋基础站升级改造合同",
       "buyer": "温州市自然资源和规划局",
@@ -2906,6 +4035,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067be7e4508f22742e587e8b059ffdf9cb0",
       "title": "国家安全生产应急救援力量建设项目（第32包超轻卫星便携站设备）招标公告",
       "buyer": "未公布",
@@ -2925,6 +4061,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067692e0dcf992e4a2386f3f0f4593404eb",
       "title": "广东电网公司2025年卫星通信设备、应急移动通信（公网音视频）终端专项招标(二次招标)招标公告",
       "buyer": "未公布",
@@ -2944,6 +4087,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067830f1399dfba4006baaba4b53bf93ee6",
       "title": "广东电网公司2025年卫星通信设备、应急移动通信（公网音视频）终端专项招标(二次招标)招标公告",
       "buyer": "未公布",
@@ -2963,6 +4113,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "南京道测电子有限公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39a351919019ab9d25c130377",
       "title": "东南大学信息科学与工程学院下一代高通量宽带卫星通信测量系统中标公告",
       "buyer": "未公布",
@@ -2979,12 +4136,23 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:22:04.992Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:12.597Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [
+        "成都星联芯通科技有限公司",
+        "北京航天万达高科技有限公司",
+        "航天恒星科技有限公司"
+      ],
+      "candidatesDisclosure": "公告披露字段",
       "id": "ggzy-0067065f78335168450b9070b74ea975f1e3",
       "title": "国家石油天然气管网集团2025-2027年度卫星通信系统集约化采购中标候选人公示",
-      "buyer": "未公布",
+      "buyer": "国家管网集团东部原油储运有限公司",
       "agency": "未公布",
       "type": "中标候选人公示",
       "date": "2025-11-25",
@@ -2998,9 +4166,16 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:22:04.992Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:12.625Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-e55c13a611264962b5d5714361bb2654",
       "title": "浙江鼎欣工程项目管理有限公司关于文成县基层应急管理体系和能力建设提升工程――2025年应急消防管理站提质升级装备采购项目（卫星电话底座+室外天线）中标(成交)结果公告",
       "buyer": "未公布",
@@ -3017,9 +4192,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:22:04.992Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:13.439Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067736a54b7b98b400aaa8f6f1bd0871138",
       "title": "中电信应急公司2025年综合应急（天通卫星电话、天通猫、数字IP微波）能力建设项目（标包2数字IP微波）成交候选人公示",
       "buyer": "未公布",
@@ -3036,9 +4218,16 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:22:04.992Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:13.404Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006799f947921a42422aaca4d962754fc491",
       "title": "国家安全生产应急救援力量建设项目（第32包超轻卫星便携站设备）招标公告",
       "buyer": "未公布",
@@ -3058,6 +4247,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-72a0dd3206f7ec6567310125a72188f9",
       "title": "青岛海洋科技中心卫星通信装置公开招标公告",
       "buyer": "未公布",
@@ -3077,6 +4273,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国联合网络通信有限公司温州市分公司",
+      "winnerAmount": "¥ 1,274,000 元",
+      "winnerAmountValue": 127.4,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-3aae2bb518e5138a5d",
       "title": "浙江鼎欣工程项目管理有限公司关于文成县基层应急管理体系和能力建设提升工程――2025年应急消防管理站提质升级装备采购项目（卫星电话底座+室外天线）中标(成交)结果公告",
       "buyer": "文成县应急管理局",
@@ -3093,9 +4296,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:11:49.658Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:13.447Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-d6dc7ad8069528a40c",
       "title": "青岛海洋科技中心卫星通信装置公开招标公告",
       "buyer": "未公布",
@@ -3115,6 +4325,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-c86863fc2d40eed241",
       "title": "青岛海洋科技中心卫星通信装置公开招标公告",
       "buyer": "未公布",
@@ -3134,6 +4351,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-4546d2d3bba4ed027c",
       "title": "【市本级】青岛海洋科技中心卫星通信装置采购需求公示",
       "buyer": "未公布",
@@ -3153,6 +4377,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-e359cd1c4bb18a2db8",
       "title": "【市本级】青岛海洋科技中心卫星通信装置采购需求公示",
       "buyer": "未公布",
@@ -3172,6 +4403,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-0b20fb58ca7283ed53",
       "title": "文成县基层应急管理体系和能力建设提升工程――2025年应急消防管理站提质升级装备采购项目（卫星电话底座+室外天线）",
       "buyer": "未公布",
@@ -3191,6 +4429,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067308ddff62efa443988eadb396d79e032",
       "title": "国家电网有限公司2026年度应急通信卫星带宽（62MHz）租赁服务招标采购",
       "buyer": "未公布",
@@ -3210,6 +4455,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00670ad90dedb3534e34b90bad8253669d8c",
       "title": "中铁七局海外公司坦桑尼亚地区经理部卫星电话询价单",
       "buyer": "未公布",
@@ -3229,6 +4481,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "湖北长平汽车装备有限公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0054e6aef265961f4abebfea23ac4894cf71",
       "title": "札达县公安局卫星通信指挥车采购项目（二次）中标（成交）结果公告",
       "buyer": "未公布",
@@ -3245,9 +4504,16 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:21:57.574Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:13.404Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006703c58b884d424f31af8e58a59f7a0574",
       "title": "海油发展-采油公司南方片区海上应急船舶海事卫星通信服务专有协议",
       "buyer": "未公布",
@@ -3267,6 +4533,13 @@
       "updatedAt": "2026-08-31T07:22:33.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "青岛海研电子有限公司",
+      "winnerAmount": "¥ 1,180,000 元",
+      "winnerAmountValue": 118,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-ebf9d0b2164a551cee",
       "title": "温州中致工程项目管理有限公司关于3米波浪浮标、北斗卫星通信设备及海洋基础站升级改造中标(成交)结果公告",
       "buyer": "温州市自然资源和规划局",
@@ -3283,9 +4556,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:11:11.050Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:13.408Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067585ad0bd4dc24996b0ede2b76bbfe2b6",
       "title": "北斗及VSAT带宽租用及增值服务采购项目-采购评标结果公示",
       "buyer": "未公布",
@@ -3302,9 +4582,16 @@
       "note": "来源平台：中国交建物资采购管理信息系统；业务类型：工程建设",
       "collectedAt": "2026-08-31T07:21:52.036Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T07:22:33.011Z"
+      "updatedAt": "2026-09-01T14:12:13.401Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c390319eb78c4f39bf8f129c87724ebc",
       "title": "华中公司极端条件下管道应急抢修交互式作业与卫星通信保障项目（智能单兵保障设备）采购公告",
       "buyer": "未公布",
@@ -3319,11 +4606,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0101/20251027/0067c390319eb78c4f39bf8f129c87724ebc.html",
       "note": "来源平台：未公布；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:50.962Z",
+      "collectedAt": "2026-08-31T07:20:29.410Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006735d263b0b9de43659de4ae8462afc424",
       "title": "卫星通信服务项目（2025）-通信主站平台卫星运营服务项目（二期）公开招标项目（二次）",
       "buyer": "未公布",
@@ -3338,11 +4632,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0101/20251024/006735d263b0b9de43659de4ae8462afc424.html",
       "note": "来源平台：中国石油电子招投标交易平台；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:53.090Z",
+      "collectedAt": "2026-08-31T07:20:31.328Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信集团有限公司昌都分公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00547e6cbeac806245408f201ad8b780cb53",
       "title": "昌都市公安局卫星通信系统地面站升级及专网卫星便携站服务采购项目中标（成交）结果公告",
       "buyer": "未公布",
@@ -3357,15 +4658,25 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/540000/0202/20251024/00547e6cbeac806245408f201ad8b780cb53.html",
       "note": "来源平台：未公布；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:53.090Z",
+      "collectedAt": "2026-08-31T07:20:31.328Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-09-01T14:12:14.012Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [
+        "贵州省广播电视信息网络股份有限公司",
+        "中电信数智科技有限公司"
+      ],
+      "candidatesDisclosure": "公告披露字段",
       "id": "ggzy-00529c3fac57aee44d7c8c934b039cf71a1a",
       "title": "贵州省自然灾害应急能力提升工程预警指挥项目(卫星电话及北斗终端、救援装备建设)调整部分中标候选人变更公示",
-      "buyer": "未公布",
-      "agency": "未公布",
+      "buyer": "贵州省应急管理厅 （联系",
+      "agency": "明诚汇采项目管理有限公司 （联系",
       "type": "中标候选人公示",
       "date": "2025-10-24",
       "amount": "未公布",
@@ -3376,11 +4687,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/520000/0104/20251024/00529c3fac57aee44d7c8c934b039cf71a1a.html",
       "note": "来源平台：贵州省公共资源中心交易平台；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:53.090Z",
+      "collectedAt": "2026-08-31T07:20:31.328Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-09-01T14:12:14.063Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39926c18a0199eb2152323320",
       "title": "鄂尔多斯市东胜区消防救援大队东胜区消防救援大队政务网、指挥调度网、和对讲、4G布控球、卫星电话网络服务项目竞争性磋商",
       "buyer": "未公布",
@@ -3395,11 +4713,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/150000/0201/20251017/2c8382a39926c18a0199eb2152323320.html",
       "note": "来源平台：未公布；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:42.406Z",
+      "collectedAt": "2026-08-31T07:20:21.955Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-2d01dfbf00ef7b2378",
       "title": "温州中致工程项目管理有限公司关于3米波浪浮标、北斗卫星通信设备及海洋基础站升级改造的更正公告",
       "buyer": "温州市自然资源和规划局",
@@ -3419,6 +4744,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-d8420e8ba9fddcf699",
       "title": "温州中致工程项目管理有限公司关于3米波浪浮标、北斗卫星通信设备及海洋基础站升级改造的公开招标公告",
       "buyer": "温州市自然资源和规划局",
@@ -3438,6 +4770,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006736de734cbd3f4625a287035004ca591a",
       "title": "卫星通信服务项目（2025）—国内2号主站平台卫星通信服务项目（二期）",
       "buyer": "未公布",
@@ -3452,11 +4791,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0101/20250930/006736de734cbd3f4625a287035004ca591a.html",
       "note": "来源平台：中国石油电子招投标交易平台；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:33.988Z",
+      "collectedAt": "2026-08-31T07:20:14.501Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0054a7c8ca0744e648ab8da5a9107340846f",
       "title": "昌都市公安局卫星通信系统地面站升级及专网卫星便携站服务采购项目采购公告",
       "buyer": "未公布",
@@ -3471,11 +4817,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/540000/0201/20250929/0054a7c8ca0744e648ab8da5a9107340846f.html",
       "note": "来源平台：未公布；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:36.156Z",
+      "collectedAt": "2026-08-31T07:20:16.359Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00678dd956785ddc43b3a121c8481b91dbc3",
       "title": "水文局2025年国产卫星电话项目成交候选人公示",
       "buyer": "未公布",
@@ -3490,11 +4843,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0104/20250928/00678dd956785ddc43b3a121c8481b91dbc3.html",
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:36.156Z",
+      "collectedAt": "2026-08-31T07:20:16.359Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-09-01T14:12:14.015Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067fb5e5bd48c23403abab1a46c470242b6",
       "title": "【25914147】KB2025年胜利油田330199相控阵卫星终端框架协议公开招标卫星小站系统/卫星调制解调器 中国卫通 定制版评标结果公示",
       "buyer": "未公布",
@@ -3509,11 +4869,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0104/20250924/0067fb5e5bd48c23403abab1a46c470242b6.html",
       "note": "来源平台：未公布；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:27.605Z",
+      "collectedAt": "2026-08-31T07:20:08.924Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-09-01T14:12:14.011Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067a4ae8b3fbb9f4b668f9e93dc05729ae5",
       "title": "北斗及VSAT带宽租用及增值服务采购项目-招标公告",
       "buyer": "未公布",
@@ -3528,11 +4895,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0101/20250922/0067a4ae8b3fbb9f4b668f9e93dc05729ae5.html",
       "note": "来源平台：中国交建物资采购管理信息系统；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:29.718Z",
+      "collectedAt": "2026-08-31T07:20:10.798Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00330fecc591b09f461a8295e47bfc646101",
       "title": "交通移动应急通信指挥平台VSAT卫星通信服务合同书（2025）",
       "buyer": "未公布",
@@ -3547,11 +4921,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/330000/0203/20250919/00330fecc591b09f461a8295e47bfc646101.html",
       "note": "来源平台：浙江政府采购云平台；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:29.718Z",
+      "collectedAt": "2026-08-31T07:20:10.798Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-b596ecb63df3bf83f1",
       "title": "交通移动应急通信指挥平台VSAT卫星通信服务合同书（2025）",
       "buyer": "浙江省交通运输厅(本级)",
@@ -3571,6 +4952,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-f85dc3ce385b54d5ff",
       "title": "瑞安市2025年度卫星电话通信保障服务合同",
       "buyer": "瑞安市应急管理局",
@@ -3590,6 +4978,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "北京中安卫通科技有限公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-b3e07ef8cb66ebafd5b5c7adafe82beb",
       "title": "警用卫星通信系统升级改造项目成交公告",
       "buyer": "未公布",
@@ -3604,11 +4999,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/530000/0201/20250917/b3e07ef8cb66ebafd5b5c7adafe82beb.html",
       "note": "来源平台：未公布；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:16.694Z",
+      "collectedAt": "2026-08-31T07:19:59.649Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-09-01T14:12:14.016Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "北京华风创新网络技术有限公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39926c18a019951ad5f916537",
       "title": "云南省气象局2025年云南省人工影响天气水资源保障工程（卫星通信保障系统）中标公告",
       "buyer": "未公布",
@@ -3623,11 +5025,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/530000/0201/20250917/2c8382a39926c18a019951ad5f916537.html",
       "note": "来源平台：未公布；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:16.694Z",
+      "collectedAt": "2026-08-31T07:19:59.649Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-09-01T14:12:14.014Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067d11fa5684702413eac891cbd11752fcd",
       "title": "海油发展-信息技术品类部-卫星通信C站-20250917",
       "buyer": "未公布",
@@ -3642,11 +5051,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0101/20250917/0067d11fa5684702413eac891cbd11752fcd.html",
       "note": "来源平台：未公布；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:16.694Z",
+      "collectedAt": "2026-08-31T07:19:59.649Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-b5eb06af249eb47899fc184becebea33",
       "title": "广西机电设备招标有限公司关于350M集群通信系统、卫星通信系统及视频会议系统运维服务项目(NNZC2025-J3-990999-JDZB)成交结果公告",
       "buyer": "未公布",
@@ -3661,11 +5077,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/450000/0201/20250916/b5eb06af249eb47899fc184becebea33.html",
       "note": "来源平台：未公布；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:16.694Z",
+      "collectedAt": "2026-08-31T07:19:59.649Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-09-01T14:12:14.616Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-e73153adab2b5eda7f7fb48d8166f6de",
       "title": "浙江省成套招标代理有限公司关于浙江省海洋与渔业执法总队全省渔船精密智控能力建设卫星宽带租赁等项目的公开招标公告",
       "buyer": "未公布",
@@ -3680,11 +5103,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/330000/0201/20250915/e73153adab2b5eda7f7fb48d8166f6de.html",
       "note": "来源平台：未公布；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:18.906Z",
+      "collectedAt": "2026-08-31T07:20:01.505Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00331de99941cf724f8db6402eb3369b4505",
       "title": "浙江省成套招标代理有限公司关于浙江省海洋与渔业执法总队全省渔船精密智控能力建设卫星宽带租赁等项目的公开招标公告",
       "buyer": "未公布",
@@ -3699,11 +5129,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/330000/0201/20250915/00331de99941cf724f8db6402eb3369b4505.html",
       "note": "来源平台：浙江政府采购云平台；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:18.906Z",
+      "collectedAt": "2026-08-31T07:20:01.505Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006769c4ce1a166749239dc065ab2e5cb962",
       "title": "中国电信集团有限公司河北分公司2025年天通卫星电话功能性运维服务项目询比公告",
       "buyer": "未公布",
@@ -3718,11 +5155,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0101/20250904/006769c4ce1a166749239dc065ab2e5cb962.html",
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:07.866Z",
+      "collectedAt": "2026-08-31T07:19:52.172Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "广东链雾科技有限公司",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a49868db8f0199133e4c117353",
       "title": "中国地质调查局自然资源综合调查指挥中心卫星电话项目中标（成交结果）公告",
       "buyer": "未公布",
@@ -3737,11 +5181,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/110000/0201/20250904/2c8382a49868db8f0199133e4c117353.html",
       "note": "来源平台：未公布；业务类型：政府采购",
-      "collectedAt": "2026-08-31T08:38:10.321Z",
+      "collectedAt": "2026-08-31T07:19:54.056Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-09-01T14:12:14.617Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0053cdaf5234b7af42d4b2f03701ba10602e",
       "title": "2025年云南省人工影响天气水资源保障工程（卫星通信保障系统）开标记录",
       "buyer": "未公布",
@@ -3756,11 +5207,18 @@
       "source": "全国公共资源交易平台",
       "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/530000/0102/20250903/0053cdaf5234b7af42d4b2f03701ba10602e.html",
       "note": "来源平台：未公布；业务类型：工程建设",
-      "collectedAt": "2026-08-31T08:38:10.321Z",
+      "collectedAt": "2026-08-31T07:19:54.056Z",
       "sourcePath": "history",
-      "updatedAt": "2026-08-31T08:40:25.744Z"
+      "updatedAt": "2026-08-31T07:20:36.925Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司温州分公司",
+      "winnerAmount": "¥ 0 元",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-983363bcd7f4081c2b",
       "title": "浙江瑞扬工程咨询招标代理股份有限公司关于瑞安市2025年度卫星电话通信保障服务中标(成交)结果公告",
       "buyer": "瑞安市应急管理局",
@@ -3777,9 +5235,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:11:55.319Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:14.626Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a49868db8f0198ea9da3752170",
       "title": "卫星通信实验室建设工程设计、采购、施工总承包（EPC）工程成交公告",
       "buyer": "未公布",
@@ -3799,6 +5264,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a49868db8f0198eaa16ab721af",
       "title": "工业和信息化部应急通信保障中心天通一号卫星电话话费充值服务采购项目单一来源成交公告",
       "buyer": "未公布",
@@ -3818,6 +5290,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39868e1ca0198ea56c5242628",
       "title": "中国地质调查局自然资源综合调查指挥中心卫星电话更正公告",
       "buyer": "未公布",
@@ -3837,6 +5316,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067a57b268f232c4fa28798068bd7fd69f5",
       "title": "2025年中国电信股份有限公司卫星通信分公司专利、软著代理服务项目询比失败公告",
       "buyer": "未公布",
@@ -3856,6 +5342,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-9214dc384bf0b50779ab8c4f134c0f66",
       "title": "“新疆教育卫星宽带网”传输服务项目单一来源采购",
       "buyer": "未公布",
@@ -3875,6 +5368,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067e802035deb364fd0b370250d69ba8bec",
       "title": "水电五局洞探及辅助工程B2标项目经理部卫星电话物资采购需求",
       "buyer": "未公布",
@@ -3894,6 +5394,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-dda2174a500e3fa56c",
       "title": "温岭市海洋渔船天通船载卫星电话设备及通讯服务采购合同",
       "buyer": "温岭市海洋经济发展局",
@@ -3913,6 +5420,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-b8f64bc81e0d1a3f6f",
       "title": "2025年普陀区渔船天通卫星电话通信运营服务项目合同",
       "buyer": "舟山市普陀区海洋经济发展局",
@@ -3932,6 +5446,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-6f0e834b12bf72496b",
       "title": "黄岩卫星电话通讯服务项目合同",
       "buyer": "台州市黄岩区应急管理局",
@@ -3951,6 +5472,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0051fe4907cbf2b441bf8ba2a727d0e0c5ce",
       "title": "四川省应急管理厅卫星电话通信服务采购项目中标（成交）结果公告",
       "buyer": "未公布",
@@ -3970,6 +5498,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-ec155a11cbe5dad13764872ef330fc22",
       "title": "四川省应急管理厅卫星电话通信服务采购项目中标（成交）结果公告",
       "buyer": "未公布",
@@ -3989,6 +5524,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-cc69840dee11746f205d6a4c19f82ac0",
       "title": "浙江省建设工程设备招标有限公司关于交通移动应急通信指挥平台VSAT卫星通信服务中标(成交)结果公告",
       "buyer": "未公布",
@@ -4008,6 +5550,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067bf7baf500a484f4fabcc4496c74e2965",
       "title": "中国电信股份有限公司阿拉善盟分公司2025年车载卫星电话采购项目成交候选人公示",
       "buyer": "未公布",
@@ -4027,6 +5576,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a39868e1ca0198833536fc434f",
       "title": "国家移民管理局卫星通信系统租赁服务采购项目（第二次）中标公告",
       "buyer": "未公布",
@@ -4046,6 +5602,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-37895741172bdb5269cf5c8bf9561190",
       "title": "扶余市物资储备中心采购卫星电话项目中标(成交)结果公告",
       "buyer": "未公布",
@@ -4065,6 +5628,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0022b77d4884e85f4aa2bfc241088baa06cb",
       "title": "扶余市物资储备中心采购卫星电话项目中标(成交)结果公告",
       "buyer": "未公布",
@@ -4084,6 +5654,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司台州分公司",
+      "winnerAmount": "¥ 15,169,600 元",
+      "winnerAmountValue": 1516.96,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-a0b40469767f31c266",
       "title": "杭州好邦建筑工程咨询有限公司关于温岭市海洋渔船天通船载卫星电话设备及通讯服务采购中标(成交)结果公告",
       "buyer": "温岭市海洋经济发展局",
@@ -4100,9 +5677,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:12:03.043Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:15.817Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-bf6c1a77cefb2b6e3f4feb92169368a5",
       "title": "浙江五石中正工程咨询有限公司关于黄岩卫星电话通讯服务项目中标(成交)结果公告",
       "buyer": "未公布",
@@ -4122,6 +5706,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00324ae043028aec4f76831f6b0f773ef177",
       "title": "海上渔政执法船卫星宽带采购采购公告",
       "buyer": "未公布",
@@ -4141,6 +5732,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-e3f9e3997a44b6f21a7be159c89d7473",
       "title": "海上渔政执法船卫星宽带采购采购公告",
       "buyer": "未公布",
@@ -4160,6 +5758,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司台州分公司",
+      "winnerAmount": "¥ 532,100 元",
+      "winnerAmountValue": 53.21,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-7638c03bc75f7ef550",
       "title": "浙江五石中正工程咨询有限公司关于黄岩卫星电话通讯服务项目中标(成交)结果公告",
       "buyer": "台州市黄岩区应急管理局",
@@ -4176,9 +5781,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:12:04.895Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:15.757Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0013a664313b2a9746e2a93a1bab6a22b1be",
       "title": "河北省人工影响天气中心生态文明建设气象保障工程-运十二飞机机载卫星通信系统改装及大气环境设备加装项目（二次）公开招标公告",
       "buyer": "未公布",
@@ -4198,6 +5810,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067596312dfaacb40d1aca751f91a8087b9",
       "title": "中国铁塔股份有限公司陕西省分公司2025年防汛应急物资（卫星电话）采购项目-直接采购事前公示",
       "buyer": "未公布",
@@ -4217,6 +5836,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00671674568b22124d36833775106829af0c",
       "title": "中国电信股份有限公司阿拉善盟分公司2025年车载卫星电话采购项目询比公告",
       "buyer": "未公布",
@@ -4236,6 +5862,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006112bde02f95c748beab9420becb60db6c",
       "title": "天通卫星电话优化改造固定式卫星电话座机项目采购结果公告",
       "buyer": "未公布",
@@ -4255,6 +5888,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0052bb1dc29e6b2344fcb0d6af7938f151f5",
       "title": "贵州省自然灾害应急能力提升工程预警指挥项目(卫星电话及北斗终端、救援装备建设)调整部分中标候选人公示",
       "buyer": "未公布",
@@ -4274,6 +5914,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00133e0ca9ecfb6846908bbe50986093fff5",
       "title": "租用全国人防卫星通信信道成交公告",
       "buyer": "未公布",
@@ -4293,6 +5940,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司舟山分公司",
+      "winnerAmount": "¥ 1,744,200 元",
+      "winnerAmountValue": 174.42,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-fa3e4975a6ccd39021",
       "title": "舟山正大工程咨询有限公司关于2025年普陀区渔船天通卫星电话通信运营服务项目中标(成交)结果公告",
       "buyer": "舟山市普陀区海洋经济发展局",
@@ -4309,9 +5963,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:12:06.756Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:16.387Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067662788a8d5e04f4684441254b0ac7b28",
       "title": "2025年中国电信北京公司高通量及天通卫星能力体系建设项目--天通猫及高通量卫星便携背包基站公开招标项目招标公告",
       "buyer": "未公布",
@@ -4331,6 +5992,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00546d01be684b72409aa59db438198d09ff",
       "title": "尼玛县公安局AED除颤仪、短波基站设备和卫星电话采购项目磋商公告",
       "buyer": "未公布",
@@ -4350,6 +6018,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0033fdb908bf542f4d2498a3c5fc4c332d73",
       "title": "金东区应急管理局卫星电话租赁（运维）服务项目合同",
       "buyer": "未公布",
@@ -4369,6 +6044,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-023d029bf8700a6837",
       "title": "金东区应急管理局卫星电话租赁（运维）服务项目合同",
       "buyer": "金华市金东区应急管理局",
@@ -4388,6 +6070,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-93665507f7743f9b0f",
       "title": "黄岩卫星电话通讯服务项目",
       "buyer": "无",
@@ -4407,6 +6096,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067a67779529a3445c7834a8e772fe5755a",
       "title": "便携式高通量卫星终端采购中标公告",
       "buyer": "未公布",
@@ -4426,6 +6122,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-3c5713bad68ffc9859",
       "title": "杭州好邦建筑工程咨询有限公司关于温岭市海洋渔船天通船载卫星电话设备及通讯服务采购的公开招标公告",
       "buyer": "温岭市海洋经济发展局",
@@ -4445,6 +6148,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-006763fba8cdc7a94a9fa21bb08cbb313c22",
       "title": "2025年中国电信集团有限公司新疆无线通信局喀什卫星地面站卫星通信系统外包技术服务项目成交候选人公示",
       "buyer": "未公布",
@@ -4464,6 +6174,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0013a9c806e7e88446f8948fc41d721e85ad",
       "title": "河北省人工影响天气中心生态文明建设气象保障工程-运十二飞机机载卫星通信系统改装及大气环境设备加装项目更正公告",
       "buyer": "未公布",
@@ -4483,6 +6200,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067fa68cbb31dc24b46a05c157e17ed1a79",
       "title": "中核核信北斗卫星电话框架采购",
       "buyer": "未公布",
@@ -4502,6 +6226,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-b88570a89cf96c07c4",
       "title": "济宁职业技术学院卫星通信与导航技术实训中心建设项目合同公示",
       "buyer": "未公布",
@@ -4521,6 +6252,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-f53a5cff29ae4f7ecc",
       "title": "济宁职业技术学院卫星通信与导航技术实训中心建设项目合同公示",
       "buyer": "未公布",
@@ -4540,6 +6278,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067abe25fa1d1914e0399fa2cad1ea6000c",
       "title": "中国电信股份有限公司新疆无线通信局2025年度应急通信卫星资源服务采购项目-成交候选人公示",
       "buyer": "未公布",
@@ -4559,6 +6304,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00677ea5b9c3472b4264b5bd6b3b7e3b8551",
       "title": "2025年中国电信贵州公司天通卫星电话基站技术支撑服务采购询比公告",
       "buyer": "未公布",
@@ -4578,6 +6330,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0052d06acd72bc984d3295d4413cf074ee8a",
       "title": "贵州省自然灾害应急能力提升工程预警指挥项目（卫星电话及北斗终端、救援装备建设）调整部分澄清公告Ⅱ",
       "buyer": "未公布",
@@ -4597,6 +6356,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国联合网络通信有限公司金华市分公司",
+      "winnerAmount": "¥ 386,000 元",
+      "winnerAmountValue": 38.6,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-34708e3fb4a9cb6235",
       "title": "浙江金华阳光招标代理有限公司关于金东区应急管理局卫星电话租赁（运维）服务项目中标(成交)结果公告",
       "buyer": "金华市金东区应急管理局",
@@ -4613,9 +6379,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:12:14.408Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:16.384Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00671fd8f9da93804c6995a56f700a4bb027",
       "title": "2025年中国电信集团有限公司新疆无线通信局喀什卫星地面站卫星通信系统外包技术服务项目询比公告",
       "buyer": "未公布",
@@ -4635,6 +6408,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0033c8922f0371794aafb2c8775a49000c9f",
       "title": "杭州好邦建筑工程咨询有限公司关于温岭市海洋渔船天通船载卫星电话（第二期）通讯服务采购的公开招标公告",
       "buyer": "未公布",
@@ -4654,6 +6434,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-8cb3a2c8391752d836",
       "title": "杭州好邦建筑工程咨询有限公司关于温岭市海洋渔船天通船载卫星电话（第二期）通讯服务采购的公开招标公告",
       "buyer": "温岭市海洋经济发展局",
@@ -4673,6 +6460,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006716b22bb07cfe41bf99d56644fe59e7f0",
       "title": "无线机动通信局卫星部2025年-2028年卫星通信系统维修项目（第二次）询比公告",
       "buyer": "未公布",
@@ -4692,6 +6486,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-003742513a5ffab5430d8620ee649f969aa0",
       "title": "济宁职业技术学院卫星通信与导航技术实训中心建设项目成交结果公告",
       "buyer": "未公布",
@@ -4711,6 +6512,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00670c97fa1fb2644871bf7f3d28b0559f6b",
       "title": "中核核信北斗卫星电话框架采购采购公告",
       "buyer": "未公布",
@@ -4730,6 +6538,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-baa78cc050c4526cd0",
       "title": "济宁职业技术学院卫星通信与导航技术实训中心建设项目成交结果公告",
       "buyer": "未公布",
@@ -4749,6 +6564,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-d54e3d71063a7ab1d9",
       "title": "济宁职业技术学院卫星通信与导航技术实训中心建设项目成交结果公告",
       "buyer": "未公布",
@@ -4768,6 +6590,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c26686955db54156b4d97c6cda86a46f",
       "title": "中国电信股份有限公司新疆无线通信局2025年度应急通信卫星资源服务采购项目-询比公告",
       "buyer": "未公布",
@@ -4787,6 +6616,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00674833a86a6acb4a3d811671e0000b3746",
       "title": "温岭市海洋渔船船载卫星电话集成服务项目（重新询比）询比公告",
       "buyer": "未公布",
@@ -4806,6 +6642,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006744fb77fa5e64477294c9a323476952d8",
       "title": "温岭市海洋渔船船载卫星电话集成服务项目询比失败公告",
       "buyer": "未公布",
@@ -4825,6 +6668,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00523c3897709f434692b74cedd5d083bbb7",
       "title": "贵州省自然灾害应急能力提升工程预警指挥项目(卫星电话及北斗终端、救援装备建设)调整部分",
       "buyer": "未公布",
@@ -4844,6 +6694,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0052006f49df06b8490aa5737a4c67360744",
       "title": "贵州省自然灾害应急能力提升工程预警指挥项目(卫星电话及北斗终端、救援装备建设)调整部分招标公告",
       "buyer": "未公布",
@@ -4863,6 +6720,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006788ed55806b6248a29e3bc9c7b21dbaab",
       "title": "温岭市海洋渔船船载卫星电话集成服务项目询比公告",
       "buyer": "未公布",
@@ -4882,6 +6746,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-7bd81b94e4f0308086bb8d546e5d7a2b",
       "title": "关于2025年普陀区渔船天通卫星电话通信运营服务项目 的单一来源公示",
       "buyer": "未公布",
@@ -4901,6 +6772,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-438e8e5ff90bb00ce1",
       "title": "济宁职业技术学院卫星通信与导航技术实训中心建设项目",
       "buyer": "未公布",
@@ -4920,6 +6798,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-d578bc1b65a41173b2",
       "title": "济宁职业技术学院卫星通信与导航技术实训中心建设项目",
       "buyer": "未公布",
@@ -4939,6 +6824,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067efd7bcd6bb4b4d4bacdace85755ed3d5",
       "title": "第六十研究所252101250530卫星通信一批采购项目比质比价公告",
       "buyer": "未公布",
@@ -4958,6 +6850,13 @@
       "updatedAt": "2026-08-31T08:09:45.752Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a496f6e50001971f2bf7847379",
       "title": "中国地震局地球物理研究所一带一路地震监测台网项目科学台阵分系统卫星通信服务采购项目成交公告",
       "buyer": "未公布",
@@ -4977,6 +6876,13 @@
       "updatedAt": "2026-08-31T08:09:45.752Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-003344bb10c635964fe488b1259ec41cdc8f",
       "title": "浙江金华阳光招标代理有限公司关于金东区应急管理局卫星电话租赁（运维）服务项目的公开招标公告",
       "buyer": "未公布",
@@ -4996,6 +6902,13 @@
       "updatedAt": "2026-08-31T08:09:45.752Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-31837aace2d65db9cf",
       "title": "浙江金华阳光招标代理有限公司关于金东区应急管理局卫星电话租赁（运维）服务项目的公开招标公告",
       "buyer": "金华市金东区应急管理局",
@@ -5015,6 +6928,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a396f6e5c00196fc46545a1455",
       "title": "交通运输部上海打捞局2025-2027年度VSAT服务采购项目公开招标公告",
       "buyer": "未公布",
@@ -5034,6 +6954,13 @@
       "updatedAt": "2026-08-31T08:09:45.752Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-77cd40f7a64d88c301",
       "title": "卫星电话采购计划合同公示",
       "buyer": "未公布",
@@ -5053,6 +6980,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-2593c1525c3b8ce3b5",
       "title": "卫星电话采购计划合同公示",
       "buyer": "未公布",
@@ -5072,6 +7006,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-bc606bed6841ce072e",
       "title": "山东省地质矿产勘查开发局第八地质大队（山东省第八地质矿产勘查院）卫星电话采购计划成交公告",
       "buyer": "未公布",
@@ -5088,9 +7029,16 @@
       "note": "字段由山东省政府采购信息公开平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:09:27.885Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:09:45.753Z"
+      "updatedAt": "2026-09-01T14:12:16.975Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-b213fe0d65cd0d775b",
       "title": "山东省地质矿产勘查开发局第八地质大队（山东省第八地质矿产勘查院）卫星电话采购计划成交公告",
       "buyer": "未公布",
@@ -5107,9 +7055,16 @@
       "note": "字段由山东省政府采购信息公开平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:12:51.222Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:16.974Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00133c5c78a3179a440bbbc04aea2b5408f4",
       "title": "卫星通信终端及相控阵天线OTA测试系统材料设备采购招标文件.HBZ",
       "buyer": "未公布",
@@ -5129,6 +7084,13 @@
       "updatedAt": "2026-08-31T08:09:45.752Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a496aa97b70196b306b6e21876",
       "title": "中国信息通信研究院高带宽高精度卫星通信终端综合测试仪表研制-卫星互联网标准符合性实时检测仪中标公告",
       "buyer": "未公布",
@@ -5148,6 +7110,13 @@
       "updatedAt": "2026-08-31T08:09:45.752Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a496aa97b70196ae9213a40a8e",
       "title": "中国科学院海洋研究所“科学”轮科学考察船卫星通信技术服务采购项目成交公告",
       "buyer": "未公布",
@@ -5167,6 +7136,13 @@
       "updatedAt": "2026-08-31T08:09:45.752Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00679c41443342114e0692b438d742c51edb",
       "title": "中国电信西藏公司2025年天通卫星终端采购项目成交候选人公示",
       "buyer": "未公布",
@@ -5186,6 +7162,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067d1c4076e205947a39aedb5540427c056",
       "title": "【2025年中国电信股份有限公司新疆无线通信局全疆VSAT代维项目】成交候选人公示",
       "buyer": "未公布",
@@ -5205,6 +7188,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-03b15ced52c50ec34c",
       "title": "灾后重建项目卫星电话及卫星通讯模块采购（一期）合同公示",
       "buyer": "未公布",
@@ -5224,6 +7214,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-4227b2020f89ec3535",
       "title": "灾后重建项目卫星电话及卫星通讯模块采购（一期）合同公示",
       "buyer": "未公布",
@@ -5243,6 +7240,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006731512a6796784ef1862956ca76f0c06f",
       "title": "2025年中国电信股份有限公司新疆无线通信局全疆VSAT代维项目询比公告",
       "buyer": "未公布",
@@ -5262,6 +7266,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-2a5ce8b3f771bc1753",
       "title": "温岭市海洋渔船天通船载卫星电话（第一期）通讯服务采购合同",
       "buyer": "温岭市海洋经济发展局",
@@ -5281,6 +7292,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a4961e4b6f019648ea9da8659f",
       "title": "地质灾害风险预警实时数据可视化与卫星通信接入子系统研发公开招标公告",
       "buyer": "未公布",
@@ -5300,6 +7318,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-96ab4699af85db8b65dca21d188e1b9b",
       "title": "卫星电话服务采购项目(CQS25C00297)中标（成交）结果公告",
       "buyer": "未公布",
@@ -5319,6 +7344,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0050eb8b90b5274b4acbafde63f558701564",
       "title": "卫星电话服务采购项目(CQS25C00297)中标（成交）结果公告",
       "buyer": "未公布",
@@ -5338,6 +7370,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00672356ef4c8fd747c1a1aec69310df37de",
       "title": "2025年广东公司Ku卫星通信站购置项目成交候选人公示",
       "buyer": "未公布",
@@ -5357,6 +7396,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0034ef9748a23c144f20ae83970b57b0b1da",
       "title": "2025年度山洪灾害防治区卫星电话通信服务中标结果公告",
       "buyer": "未公布",
@@ -5376,6 +7422,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00678772b16458fc4533aed7905e1c9ad3c8",
       "title": "中国卫星通信大厦租赁经纪服务项目（二次）中标候选人公示",
       "buyer": "未公布",
@@ -5395,6 +7448,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00677fb0318d3eb54848b35bc6802d2f5ee9",
       "title": "中国铁塔股份有限公司西藏自治区分公司2025年铁塔行业卫星电话拨测系统建设项目 成交结果公示",
       "buyer": "未公布",
@@ -5414,6 +7474,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067931f8d61c73b478b8edfbc1b2a74037f",
       "title": "龙源电力龙源（北京）新能源工程技术有限公司卫星电话天线套件长协采购项目公开招标中标候选人公示",
       "buyer": "未公布",
@@ -5433,6 +7500,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-28e6a6d0d18da0d9e2",
       "title": "无棣县应急管理局卫星通信系统采购项目合同公示",
       "buyer": "未公布",
@@ -5452,6 +7526,13 @@
       "updatedAt": "2026-08-31T08:09:45.753Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "shandong-ccgp-e76c59e58ce1e9a177",
       "title": "无棣县应急管理局卫星通信系统采购项目合同公示",
       "buyer": "未公布",
@@ -5471,6 +7552,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "中国电信股份有限公司台州分公司",
+      "winnerAmount": "¥ 2,138,000 元",
+      "winnerAmountValue": 213.8,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-8cac3b6c6005f9ab30",
       "title": "杭州好邦建筑工程咨询有限公司关于温岭市海洋渔船天通船载卫星电话（第一期）通讯服务采购中标(成交)结果公告",
       "buyer": "温岭市海洋经济发展局",
@@ -5487,9 +7575,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:12:22.116Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:18.151Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006730ee016c2ebe4b39996d68681b52f8c6",
       "title": "中国电信吉林公司2025年高通量卫星便携站及高通量卫星便携基站采购项目招标公告",
       "buyer": "未公布",
@@ -5509,6 +7604,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006762fe67a8c8954225bf11c7df5e1ade03",
       "title": "卫星通信服务项目（2025）—国内2号主站平台卫星通信服务项目（二次）",
       "buyer": "未公布",
@@ -5528,6 +7630,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0050ba9e74a60b7f49f4b414924c7ae11237",
       "title": "国防动员（人民防空）卫星通信信道租用及卫星通信技术服务(CQS25C00074)中标（成交）结果公告",
       "buyer": "未公布",
@@ -5547,6 +7656,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-006789d30a03be0a415ab042c1a7d35a3347",
       "title": "中国电信江苏公司2024年应急通信能力保障体系建设第二批次高通量便携卫星基站和高通量卫星站采购项目中标结果公示",
       "buyer": "未公布",
@@ -5566,6 +7682,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067baca25288bd84cd192ede8d19ab4c3d8",
       "title": "中国铁塔股份有限公司西藏自治区分公司2025年铁塔行业卫星电话拨测系统建设项目 成交候选人公示",
       "buyer": "未公布",
@@ -5585,6 +7708,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00509bda641103a34e42b6ee3bc81d59e757",
       "title": "卫星电话服务采购项目(CQS25C00297)公开招标公告",
       "buyer": "未公布",
@@ -5604,6 +7734,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c62a4831b09f4a7ba543221c1ae13d55",
       "title": "雅砻江公司2025年～2026年度新增Ka卫星通信系统服务公开招标公告",
       "buyer": "未公布",
@@ -5623,6 +7760,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-012af10edf3e62801a",
       "title": "浙江省杭州无线电监测中心更新改造短波卫星终端设备查找移动车项目合同",
       "buyer": "浙江省杭州无线电监测中心",
@@ -5642,6 +7786,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-e1e50318e22ee42e5dae8f6b9ca2a357",
       "title": "浙江省成套招标代理有限公司关于浙江省杭州无线电监测中心更新改造短波卫星终端设备查找移动车项目的中标(成交)结果公告",
       "buyer": "未公布",
@@ -5661,6 +7812,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-cb049551a70acea4812e7fd7c1ad499d",
       "title": "云南省应急管理厅2025年卫星电话费用充值服务项目（单一来源采购）公示",
       "buyer": "未公布",
@@ -5680,6 +7838,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c061945764e240f9857e680b89d16a74",
       "title": "卫星通信服务项目（2025）—国内2号主站平台卫星通信服务项目",
       "buyer": "未公布",
@@ -5699,6 +7864,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-504eb80e7a514c0fce3ffa240d596197",
       "title": "全局卫星便携站和应急通信车通信费项目   成交结果公告",
       "buyer": "未公布",
@@ -5718,6 +7890,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067d44eef48f10846929b12b8a1ab478db7",
       "title": "中国电信股份有限公司黄山分公司黄山市应急卫星电话采购项目询比公告",
       "buyer": "未公布",
@@ -5737,6 +7916,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067e8aa81a515804be5976d4d5de9ba3abf",
       "title": "北京局集团公司卫星宽带应急通信系统设备更新招标采购招标公告",
       "buyer": "未公布",
@@ -5756,6 +7942,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-003385e2ea4d7c034ee99020b5528f0bb6f0",
       "title": "浙江省成套招标代理有限公司关于浙江省杭州无线电监测中心更新改造短波卫星终端设备查找移动车项目的中标(成交)结果公告",
       "buyer": "未公布",
@@ -5775,6 +7968,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "成都大公博创信息技术有限公司",
+      "winnerAmount": "¥ 2,933,000 元",
+      "winnerAmountValue": 293.3,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-d65e799f98977c3cf9",
       "title": "浙江省成套招标代理有限公司关于浙江省杭州无线电监测中心更新改造短波卫星终端设备查找移动车项目的中标(成交)结果公告",
       "buyer": "浙江省杭州无线电监测中心",
@@ -5791,9 +7991,16 @@
       "note": "字段由浙江省公共资源交易服务平台公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-08-31T08:11:22.619Z",
       "sourcePath": "official-search",
-      "updatedAt": "2026-08-31T08:13:43.232Z"
+      "updatedAt": "2026-09-01T14:12:18.728Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00679fd2fa001f9346bfaa3cd3be244da50a",
       "title": "中国铁塔股份有限公司西藏自治区分公司2025年铁塔行业卫星电话拨测系统建设项目 竞争性谈判公告",
       "buyer": "未公布",
@@ -5813,6 +8020,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-84ea5acac36094c802fdbe2b6c1b4588",
       "title": "2025年度山洪灾害防治区卫星电话通信服务公开招标公告[2025]",
       "buyer": "未公布",
@@ -5832,6 +8046,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a493e1e49e019583e82b107fc5",
       "title": "与地面网络互联试验验证子系统-基于3GPP的卫星终端多系统切换位置服务性能测试系统等（第二次）中标公告",
       "buyer": "未公布",
@@ -5851,6 +8072,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a493e1e49e019583665a6574f3",
       "title": "吉林省森林消防总队《国家综合性消防救援队伍机动力量核心攻坚能力提升工程项目》通信装备项目第一包（卫星便携站）结果更正公告",
       "buyer": "未公布",
@@ -5870,6 +8098,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-003368ebd47b51ee46afa5d9ea5ab8c8baa7",
       "title": "杭州好邦建筑工程咨询有限公司关于温岭市海洋渔船天通船载卫星电话（第一期）通讯服务采购的公开招标公告",
       "buyer": "未公布",
@@ -5889,6 +8124,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-b15636ba8f6e36c94b",
       "title": "杭州好邦建筑工程咨询有限公司关于温岭市海洋渔船天通船载卫星电话（第一期）通讯服务采购的公开招标公告",
       "buyer": "温岭市海洋经济发展局",
@@ -5908,6 +8150,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a393e28e3001957ec6ac947738",
       "title": "云南省消防救援总队应急通信保障装备卫星便携站购置项目（二次）中标结果公告",
       "buyer": "未公布",
@@ -5927,6 +8176,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c2ba8b02526f4a6a878a23e8b8ca4252",
       "title": "中国卫星通信大厦租赁经纪服务项目招标公告",
       "buyer": "未公布",
@@ -5946,6 +8202,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006745b0ba12d4ae45c392d5503558225f6d",
       "title": "数智科技有限公司卫星电话采购项目公开询比",
       "buyer": "未公布",
@@ -5965,6 +8228,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00508602c51d9eea4662bb21d9fe3889d11a",
       "title": "国防动员（人民防空）卫星通信信道租用及卫星通信技术服务(CQS25C00074)公开招标公告",
       "buyer": "未公布",
@@ -5984,6 +8254,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-006709b89bf5e54d4aa6931fab0a2a823137",
       "title": "中国电信石家庄分公司2025年高通量卫星便携站流量服务采购项目成交候选人公示",
       "buyer": "未公布",
@@ -6003,6 +8280,13 @@
       "updatedAt": "2026-08-31T08:02:29.125Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00678f45f5ee3aed4971a850a73785f35977",
       "title": "中国电信股份有限公司卫星通信分公司高通量卫星地面网络建设多媒体智能化项目中标候选人公示",
       "buyer": "未公布",
@@ -6022,6 +8306,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067b4da2f10630d4670b18e8a8e107b632f",
       "title": "中国电信股份有限公司卫星通信分公司高通量卫星地面网络建设项目核心网系统（第二次）中标结果公示",
       "buyer": "未公布",
@@ -6041,6 +8332,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067455a35ddaa214d29a42e8bb6b67882af",
       "title": "中国电信石家庄分公司2025年高通量卫星便携站流量服务采购项目询比公告",
       "buyer": "未公布",
@@ -6060,6 +8358,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067fa97c652a1f54bcb9de2b5a8b80144aa",
       "title": "中国电信股份有限公司卫星通信分公司高通量卫星地面 网络建设装修装饰项目中标候选人公示",
       "buyer": "未公布",
@@ -6079,6 +8384,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00672893de02392e424ebc5dcff4467fe3a2",
       "title": "中国电信集团卫星通信有限公司2025年度通信项目可研和工程设计技术服务询比结果公示",
       "buyer": "未公布",
@@ -6098,6 +8410,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00333020a5c35bbb4203a27a551a1d8d6a86",
       "title": "浙江省成套招标代理有限公司关于浙江省杭州无线电监测中心更新改造短波卫星终端设备查找移动车项目的公开招标公告",
       "buyer": "未公布",
@@ -6117,6 +8436,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "zhejiang-ggzy-2235fa2c630f597f45",
       "title": "浙江省成套招标代理有限公司关于浙江省杭州无线电监测中心更新改造短波卫星终端设备查找移动车项目的公开招标公告",
       "buyer": "浙江省杭州无线电监测中心",
@@ -6136,6 +8462,13 @@
       "updatedAt": "2026-08-31T08:13:43.232Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00671f386744e4a04b13a00fbe31c0d3b134",
       "title": "中国电信重庆公司2024年卫星便携站采购项目中标结果公示",
       "buyer": "未公布",
@@ -6155,6 +8488,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067b76f89df326244cab3830d6b97d42a9b",
       "title": "中铁七局海外公司塞拉马兰帕及维修运营中心卫星电话询价单",
       "buyer": "未公布",
@@ -6174,6 +8514,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-001195156542bf214476906a46307db065f5",
       "title": "2025年北京市应急卫星通信系统运维中标公告",
       "buyer": "未公布",
@@ -6193,6 +8540,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067a1f01d0e331a4d6a9b27b83cc909a016",
       "title": "中国电信江苏公司2024年应急通信能力保障体系建设第二批次高通量便携卫星基站和高通量卫星站采购项目招标公告",
       "buyer": "未公布",
@@ -6212,6 +8566,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00677e89c0fd36f64c6aa70eedba5049b7c6",
       "title": "中国船舶科学研究中心多功能卫星通信模块项目成交结果公告",
       "buyer": "未公布",
@@ -6231,6 +8592,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00678210ef9282174434bb8d929605534cc5",
       "title": "中国电信集团卫星通信有限公司2025年度通信项目可研和工程设计技术服务成交候选人公示",
       "buyer": "未公布",
@@ -6250,6 +8618,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00671661fc9506ce43b38a38d4003ca148ce",
       "title": "中国电信股份有限公司卫星通信分公司高通量卫星地面网络建设核心网系统采购项目（第二次）中标候选人公示",
       "buyer": "未公布",
@@ -6269,6 +8644,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006775b12820d95c433c8c7b4561c49a08ad",
       "title": "多功能卫星通信模块项目",
       "buyer": "未公布",
@@ -6288,6 +8670,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00674428818b40904b798c382cf0b1567c29",
       "title": "高通量卫星地面系统应用示范工程模拟光端机项目开标记录",
       "buyer": "未公布",
@@ -6307,6 +8696,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067300db908fe144e539620f8205d4798c4",
       "title": "中国电信重庆公司2024年卫星便携站采购项目中标候选人公示",
       "buyer": "未公布",
@@ -6326,6 +8722,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00676290938731c64b7792a40bc11e01b271",
       "title": "卫星通信服务项目中标候选人",
       "buyer": "未公布",
@@ -6345,6 +8748,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006741dfc308b38a403487483d9f9afc98ec",
       "title": "卫星通信服务项目",
       "buyer": "未公布",
@@ -6364,6 +8774,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a393e28e300194de86c93e3569",
       "title": "云南省消防救援总队应急通信保障装备卫星便携站购置项目（二次）公开招标公告",
       "buyer": "未公布",
@@ -6383,6 +8800,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067714fe94803694fe189df0f975f76616d",
       "title": "秦一厂主控室新增海事卫星电话变更物资采购采购公告",
       "buyer": "未公布",
@@ -6402,6 +8826,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067a8cf55d6ce9947b59c0b592245e89faa",
       "title": "中国电信集团卫星通信有限公司2025年度通信项目可研和工程设计技术服务询比公告",
       "buyer": "未公布",
@@ -6421,6 +8852,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-0067ec065dc1e51a4fb3ad012184f306ce79",
       "title": "中国铁塔南宁市分公司350M集群通信系统、卫星通信系统及视频会议系统运维服务采购项目中选结果公示",
       "buyer": "未公布",
@@ -6440,6 +8878,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a493e1e49e0194a1a512173d30",
       "title": "国家深海基地管理中心深海一号海事卫星通信服务采购公开招标公告",
       "buyer": "未公布",
@@ -6459,6 +8904,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00678eb2c960fece4083ba1c4b140bda2efc",
       "title": "中国电信股份有限公司卫星通信分公司高通量卫星地面网络建设装修装饰项目招标公告",
       "buyer": "未公布",
@@ -6478,6 +8930,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00673495b0abcdf14b73a7366d176f8606cf",
       "title": "中国电信股份有限公司卫星通信分公司高通量卫星地面网络建设多媒体智能化项目招标公告",
       "buyer": "未公布",
@@ -6497,6 +8956,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a393e28e30019491eb80b043e8",
       "title": "云南省消防救援总队应急通信保障装备卫星便携站购置项目废标公告",
       "buyer": "未公布",
@@ -6516,6 +8982,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-7923f9507ff3b19866d9c76dad72fb04",
       "title": "2025年北京市应急卫星通信系统运维2025年北京市应急卫星通信系统运维公开招标公告",
       "buyer": "未公布",
@@ -6535,6 +9008,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0011276fa16bb18043a5811971a799ac5ce8",
       "title": "2025年北京市应急卫星通信系统运维2025年北京市应急卫星通信系统运维公开招标公告",
       "buyer": "未公布",
@@ -6554,6 +9034,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00679858e4cbcd864ec3aacc57612bd20229",
       "title": "中国铁塔南宁市分公司350M集群通信系统、卫星通信系统及视频会议系统运维服务采购项目中选候选人结果公示",
       "buyer": "未公布",
@@ -6573,6 +9060,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006702317484cbad4533b8fb48f7e884c892",
       "title": "中国电信股份有限公司卫星通信分公司高通量卫星地面网络建设项目核心网系统（第二次）招标公告",
       "buyer": "未公布",
@@ -6592,6 +9086,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0067c39c5c3b51d2498da3cf27182ce53fd3",
       "title": "卫星通信服务项目",
       "buyer": "未公布",
@@ -6611,6 +9112,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-e86527d43d5d7445bada0a357555e00a",
       "title": "直升机机载卫星通信系统项目(CQS24A03860)中标（成交）结果公告",
       "buyer": "未公布",
@@ -6630,6 +9138,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-0050d617c0bafebc43419311d4ea251dd1d1",
       "title": "直升机机载卫星通信系统项目(CQS24A03860)中标（成交）结果公告",
       "buyer": "未公布",
@@ -6649,6 +9164,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006750a44ba3725f42869c9b5f33b03f7663",
       "title": "高通量卫星地面系统应用示范工程模拟光端机项目招标公告",
       "buyer": "未公布",
@@ -6668,6 +9190,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-006754d5371f16174037a99f397fba0ae1fd",
       "title": "多功能卫星通信模块项目【重新招标】",
       "buyer": "未公布",
@@ -6687,6 +9216,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a393e28e3001944df7536a31d2",
       "title": "吉林省森林消防总队《国家综合性消防救援队伍机动力量核心攻坚能力提升工程项目》通信装备项目第一包（卫星便携站）中标（成交）结果公告",
       "buyer": "未公布",
@@ -6706,6 +9242,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00672180781b1ed64f38bbda130633b5c764",
       "title": "中国电信陕西公司2024年高通量卫星便携基站及高通量卫星站单纯性购置项目中标结果公示",
       "buyer": "未公布",
@@ -6725,6 +9268,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a493e1e49e0194449d3d603c54",
       "title": "中国信息通信研究院与地面网络互联试验验证子系统-基于3GPP的卫星终端多系统切换位置服务性能测试系统等公开招标公告",
       "buyer": "未公布",
@@ -6744,6 +9294,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00674d20632c4c2d4f28a68e2ca64dee4282",
       "title": "中国电信江西公司2024-2026年高通量卫星便携站采购项目中标结果公示",
       "buyer": "未公布",
@@ -6763,6 +9320,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-2c8382a393e28e3001943faa4a273a20",
       "title": "中山大学“中山大学”号海洋综合科考实习船VSAT卫星通信服务采购项目中标公告",
       "buyer": "未公布",
@@ -6782,6 +9346,13 @@
       "updatedAt": "2026-08-31T07:50:03.853Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
       "id": "ggzy-00673343b8d598a84ee3a859c54d722196fb",
       "title": "中国电信股份有限公司湖南分公司2024年应急通信保障能力体系建设第三批（天通卫星终端）采购项目（第二次）询比失败公告",
       "buyer": "未公布",
@@ -6801,6 +9372,13 @@
       "updatedAt": "2026-08-30T13:53:27.112Z"
     },
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
       "id": "ggzy-00672ec945a695584bf8b65dcfe3cd164e21",
       "title": "中国船舶科学研究中心多功能卫星通信模块项目招标公告",
       "buyer": "未公布",
@@ -6821,31 +9399,17 @@
     }
   ],
   "meta": {
-    "lastRunAt": "2026-08-31T21:10:13.859Z",
-    "lastRunMode": "full",
+    "lastRunAt": "2026-09-01T13:55:55.384Z",
+    "lastRunMode": "incremental",
     "lastRunStatus": "partial",
-    "lastRunMessage": "本次从 6 个公开来源适配器执行采集，解析 0 条，当前累计 359 条；任务部分完成，可继续执行",
+    "lastRunMessage": "本次从 6 个公开来源适配器执行采集，解析 2 条，当前累计 361 条；任务部分完成，可继续执行",
     "sourceCount": 6,
-    "dateRange": "2025-01-02 至 2026-08-29",
+    "dateRange": "2025-01-02 至 2026-09-01",
     "warnings": [
-      "全国公共资源交易平台 2025-10-28~2025-11-06 / 卫星 第 1 页：fetch failed",
-      "中国招标投标公共服务平台：HTTP 405",
-      "浙江省公共资源交易服务平台：卫星通信 第 1 页：HTTP 405",
-      "浙江省公共资源交易服务平台：卫星终端 第 1 页：HTTP 405",
-      "浙江省公共资源交易服务平台：卫星电话 第 1 页：HTTP 405",
-      "浙江省公共资源交易服务平台：卫星物联网 第 1 页：HTTP 405",
-      "浙江省公共资源交易服务平台：VSAT 第 1 页：HTTP 405",
-      "浙江省公共资源交易服务平台：应急通信卫星 第 1 页：HTTP 405",
-      "山东省政府采购信息公开平台：卫星通信 第 1 页：fetch failed",
-      "山东省政府采购信息公开平台：卫星电话 第 1 页：fetch failed",
-      "山东省政府采购信息公开平台：卫星终端 第 1 页：fetch failed",
-      "山东省政府采购信息公开平台：卫星便携站 第 1 页：fetch failed",
-      "山东省政府采购信息公开平台：卫星物联网 第 1 页：fetch failed",
-      "山东省政府采购信息公开平台：VSAT 第 1 页：fetch failed",
-      "山东省政府采购信息公开平台：应急通信卫星 第 1 页：fetch failed"
+      "中国招标投标公共服务平台公开检索受验证码保护，未绕过验证"
     ],
-    "pagesScanned": 51,
-    "candidatesFound": 0,
+    "pagesScanned": 22,
+    "candidatesFound": 2,
     "historyCursor": {
       "queryIndex": 0,
       "page": 3
@@ -6859,70 +9423,116 @@
         "pagesScanned": 1
       },
       "ggzy": {
-        "status": "partial",
-        "records": 0,
-        "warnings": [
-          "全国公共资源交易平台 2025-10-28~2025-11-06 / 卫星 第 1 页：fetch failed"
-        ],
-        "pagesScanned": 0
+        "status": "success",
+        "records": 2,
+        "warnings": [],
+        "pagesScanned": 2
       },
       "ceb": {
         "status": "blocked",
         "records": 0,
         "warnings": [
-          "中国招标投标公共服务平台：HTTP 405"
+          "中国招标投标公共服务平台公开检索受验证码保护，未绕过验证"
         ],
-        "pagesScanned": 0
+        "pagesScanned": 1
       },
       "china-post": {
         "status": "success",
         "records": 0,
         "warnings": [],
-        "pagesScanned": 50
+        "pagesScanned": 5
       },
       "zhejiang-ggzy": {
-        "status": "partial",
+        "status": "success",
         "records": 0,
-        "warnings": [
-          "卫星通信 第 1 页：HTTP 405",
-          "卫星终端 第 1 页：HTTP 405",
-          "卫星电话 第 1 页：HTTP 405",
-          "卫星物联网 第 1 页：HTTP 405",
-          "VSAT 第 1 页：HTTP 405",
-          "应急通信卫星 第 1 页：HTTP 405"
-        ],
-        "pagesScanned": 0
+        "warnings": [],
+        "pagesScanned": 6
       },
       "shandong-ccgp": {
-        "status": "partial",
+        "status": "success",
         "records": 0,
-        "warnings": [
-          "卫星通信 第 1 页：fetch failed",
-          "卫星电话 第 1 页：fetch failed",
-          "卫星终端 第 1 页：fetch failed",
-          "卫星便携站 第 1 页：fetch failed",
-          "卫星物联网 第 1 页：fetch failed",
-          "VSAT 第 1 页：fetch failed",
-          "应急通信卫星 第 1 页：fetch failed"
-        ],
-        "pagesScanned": 0
+        "warnings": [],
+        "pagesScanned": 7
       }
     },
     "ccgpHistoryCursor": {
-      "queryIndex": 1,
-      "page": 1
+      "queryIndex": 0,
+      "page": 33
     },
     "ccgpHistoryComplete": false,
     "ggzyHistoryCursor": {
-      "windowIndex": 30,
+      "windowIndex": 24,
       "queryIndex": 0,
       "page": 1
     },
     "ggzyHistoryComplete": false,
-    "lastUpdatedAt": "2026-08-31T21:12:36.642Z",
-    "searchDateRange": "2025-01-01 至 2026-08-31",
+    "lastUpdatedAt": "2026-09-01T13:56:12.405Z",
+    "searchDateRange": "2026-09-01 至 2026-09-01",
     "coverageStartDate": "2025-01-02",
-    "coverageEndDate": "2026-08-29",
-    "chinaPostHistoryComplete": true
+    "coverageEndDate": "2026-09-01",
+    "chinaPostHistoryComplete": true,
+    "lastEnrichedAt": "2026-09-01T14:12:29.043Z",
+    "enrichmentScanned": 129,
+    "enrichmentMatched": 35,
+    "enrichmentWarnings": [
+      "工业和信息化部应急通信保障中心天通一号卫星电话话费充值服务采购项目单一来源成交公告：来源站点触发访问频率限制",
+      "卫星通信实验室建设工程设计、采购、施工总承包（EPC）工程成交公告：来源站点触发访问频率限制",
+      "四川省应急管理厅卫星电话通信服务采购项目中标（成交）结果公告：来源站点触发访问频率限制",
+      "国家移民管理局卫星通信系统租赁服务采购项目（第二次）中标公告：来源站点触发访问频率限制",
+      "四川省应急管理厅卫星电话通信服务采购项目中标（成交）结果公告：来源站点触发访问频率限制",
+      "中国电信股份有限公司阿拉善盟分公司2025年车载卫星电话采购项目成交候选人公示：来源站点触发访问频率限制",
+      "扶余市物资储备中心采购卫星电话项目中标(成交)结果公告：来源站点触发访问频率限制",
+      "扶余市物资储备中心采购卫星电话项目中标(成交)结果公告：来源站点触发访问频率限制",
+      "浙江省建设工程设备招标有限公司关于交通移动应急通信指挥平台VSAT卫星通信服务中标(成交)结果公告：来源站点触发访问频率限制",
+      "租用全国人防卫星通信信道成交公告：来源站点触发访问频率限制",
+      "浙江五石中正工程咨询有限公司关于黄岩卫星电话通讯服务项目中标(成交)结果公告：来源站点触发访问频率限制",
+      "贵州省自然灾害应急能力提升工程预警指挥项目(卫星电话及北斗终端、救援装备建设)调整部分中标候选人公示：来源站点触发访问频率限制",
+      "天通卫星电话优化改造固定式卫星电话座机项目采购结果公告：来源站点触发访问频率限制",
+      "济宁职业技术学院卫星通信与导航技术实训中心建设项目成交结果公告：来源站点触发访问频率限制",
+      "便携式高通量卫星终端采购中标公告：来源站点触发访问频率限制",
+      "中国电信股份有限公司新疆无线通信局2025年度应急通信卫星资源服务采购项目-成交候选人公示：来源站点触发访问频率限制",
+      "2025年中国电信集团有限公司新疆无线通信局喀什卫星地面站卫星通信系统外包技术服务项目成交候选人公示：来源站点触发访问频率限制",
+      "中国电信西藏公司2025年天通卫星终端采购项目成交候选人公示：来源站点触发访问频率限制",
+      "中国地震局地球物理研究所一带一路地震监测台网项目科学台阵分系统卫星通信服务采购项目成交公告：来源站点触发访问频率限制",
+      "中国科学院海洋研究所“科学”轮科学考察船卫星通信技术服务采购项目成交公告：来源站点触发访问频率限制",
+      "中国信息通信研究院高带宽高精度卫星通信终端综合测试仪表研制-卫星互联网标准符合性实时检测仪中标公告：来源站点触发访问频率限制",
+      "【2025年中国电信股份有限公司新疆无线通信局全疆VSAT代维项目】成交候选人公示：来源站点触发访问频率限制",
+      "2025年广东公司Ku卫星通信站购置项目成交候选人公示：来源站点触发访问频率限制",
+      "中国卫星通信大厦租赁经纪服务项目（二次）中标候选人公示：来源站点触发访问频率限制",
+      "卫星电话服务采购项目(CQS25C00297)中标（成交）结果公告：来源站点触发访问频率限制",
+      "2025年度山洪灾害防治区卫星电话通信服务中标结果公告：来源站点触发访问频率限制",
+      "卫星电话服务采购项目(CQS25C00297)中标（成交）结果公告：来源站点触发访问频率限制",
+      "中国铁塔股份有限公司西藏自治区分公司2025年铁塔行业卫星电话拨测系统建设项目 成交结果公示：来源站点触发访问频率限制",
+      "龙源电力龙源（北京）新能源工程技术有限公司卫星电话天线套件长协采购项目公开招标中标候选人公示：来源站点触发访问频率限制",
+      "中国电信江苏公司2024年应急通信能力保障体系建设第二批次高通量便携卫星基站和高通量卫星站采购项目中标结果公示：来源站点触发访问频率限制",
+      "国防动员（人民防空）卫星通信信道租用及卫星通信技术服务(CQS25C00074)中标（成交）结果公告：来源站点触发访问频率限制",
+      "中国铁塔股份有限公司西藏自治区分公司2025年铁塔行业卫星电话拨测系统建设项目 成交候选人公示：来源站点触发访问频率限制",
+      "浙江省成套招标代理有限公司关于浙江省杭州无线电监测中心更新改造短波卫星终端设备查找移动车项目的中标(成交)结果公告：来源站点触发访问频率限制",
+      "浙江省成套招标代理有限公司关于浙江省杭州无线电监测中心更新改造短波卫星终端设备查找移动车项目的中标(成交)结果公告：来源站点触发访问频率限制",
+      "全局卫星便携站和应急通信车通信费项目   成交结果公告：来源站点触发访问频率限制",
+      "与地面网络互联试验验证子系统-基于3GPP的卫星终端多系统切换位置服务性能测试系统等（第二次）中标公告：来源站点触发访问频率限制",
+      "云南省消防救援总队应急通信保障装备卫星便携站购置项目（二次）中标结果公告：来源站点触发访问频率限制",
+      "中国电信石家庄分公司2025年高通量卫星便携站流量服务采购项目成交候选人公示：来源站点触发访问频率限制",
+      "中国电信股份有限公司卫星通信分公司高通量卫星地面 网络建设装修装饰项目中标候选人公示：来源站点触发访问频率限制",
+      "中国电信重庆公司2024年卫星便携站采购项目中标结果公示：来源站点触发访问频率限制",
+      "中国电信股份有限公司卫星通信分公司高通量卫星地面网络建设项目核心网系统（第二次）中标结果公示：来源站点触发访问频率限制",
+      "中国电信集团卫星通信有限公司2025年度通信项目可研和工程设计技术服务询比结果公示：来源站点触发访问频率限制",
+      "中国电信股份有限公司卫星通信分公司高通量卫星地面网络建设多媒体智能化项目中标候选人公示：来源站点触发访问频率限制",
+      "中国电信股份有限公司卫星通信分公司高通量卫星地面网络建设核心网系统采购项目（第二次）中标候选人公示：来源站点触发访问频率限制",
+      "2025年北京市应急卫星通信系统运维中标公告：来源站点触发访问频率限制",
+      "中国电信集团卫星通信有限公司2025年度通信项目可研和工程设计技术服务成交候选人公示：来源站点触发访问频率限制",
+      "卫星通信服务项目中标候选人：来源站点触发访问频率限制",
+      "中国电信重庆公司2024年卫星便携站采购项目中标候选人公示：来源站点触发访问频率限制",
+      "中国船舶科学研究中心多功能卫星通信模块项目成交结果公告：来源站点触发访问频率限制",
+      "中国铁塔南宁市分公司350M集群通信系统、卫星通信系统及视频会议系统运维服务采购项目中选结果公示：来源站点触发访问频率限制",
+      "中国电信陕西公司2024年高通量卫星便携基站及高通量卫星站单纯性购置项目中标结果公示：来源站点触发访问频率限制",
+      "直升机机载卫星通信系统项目(CQS24A03860)中标（成交）结果公告：来源站点触发访问频率限制",
+      "吉林省森林消防总队《国家综合性消防救援队伍机动力量核心攻坚能力提升工程项目》通信装备项目第一包（卫星便携站）中标（成交）结果公告：来源站点触发访问频率限制",
+      "中国铁塔南宁市分公司350M集群通信系统、卫星通信系统及视频会议系统运维服务采购项目中选候选人结果公示：来源站点触发访问频率限制",
+      "直升机机载卫星通信系统项目(CQS24A03860)中标（成交）结果公告：This operation was aborted",
+      "中国电信江西公司2024-2026年高通量卫星便携站采购项目中标结果公示：来源站点触发访问频率限制",
+      "中国电信股份有限公司湖南分公司2024年应急通信保障能力体系建设第三批（天通卫星终端）采购项目（第二次）询比失败公告：来源站点触发访问频率限制",
+      "中山大学“中山大学”号海洋综合科考实习船VSAT卫星通信服务采购项目中标公告：来源站点触发访问频率限制"
+    ]
   }
 }

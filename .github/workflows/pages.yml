@@ -33,6 +33,7 @@ jobs:
         run: |
           node collector.mjs --incremental
           node collector.mjs --full
+          node collector.mjs --enrich-results
       - name: Save updated data
         run: |
           if git diff --quiet -- data/projects.json; then

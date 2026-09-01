@@ -9,6 +9,7 @@
   "scripts": {
     "start": "node server.mjs",
     "collect": "node collector.mjs --full",
+    "enrich": "node collector.mjs --enrich-results",
     "build:static": "node build-static.mjs"
   }
 }

@@ -115,6 +115,12 @@ function parseAmount(text) {
   return { amount: `¥ ${Number(match[1]).toLocaleString("zh-CN")} ${match[2]}`, amountValue };
 }
 
+function parseLabeledAmount(text, labels) {
+  const label = labels.join("|");
+  const match = String(text).match(new RegExp(`(?:${label})\\s*[：:]?\\s*([\\s\\S]{0,100})`, "i"));
+  return match ? parseAmount(match[1]) : { amount: "未公布", amountValue: 0 };
+}
+
 function classifyType(text) {
   if (/中标候选人|评标结果/.test(text)) return "中标候选人公示";
   if (/中标公告/.test(text)) return "中标公告";
@@ -139,10 +145,69 @@ function classifyGgzyType(text) {
 
 function extractLabeled(text, labels) {
   const label = labels.join("|");
-  const boundary = "采购代理机构|代理机构|采购人|采购单位|招标人|项目编号|采购项目|采购组织|采购方式|采购内容|地址|联系人|电话|预算金额|最高限价|中标人|成交供应商|供应商名称";
+  const boundary = "采购代理机构|代理机构|采购人|采购单位|招标人|项目编号|采购项目|采购组织|采购方式|采购内容|地址|联系人|电话|预算金额|采购预算|最高限价|中标人|中标供应商|成交供应商|供应商名称|中标金额|成交金额|中标（成交）金额|第一中标候选人|第二中标候选人|第三中标候选人|第1中标候选人|第2中标候选人|第3中标候选人";
   const match = text.match(new RegExp(`(?:${label})\\s*[：:]\\s*([\\s\\S]{2,160}?)(?=(?:${boundary})\\s*[：:]|$)`));
   if (!match) return "未公布";
   return match[1].replace(/^名称\s*[：:]\s*/, "").trim() || "未公布";
+}
+
+function cleanOrganization(value) {
+  const raw = String(value || "").trim();
+  const matches = [...raw.matchAll(/([\u4e00-\u9fa5A-Za-z0-9（）()·-]{2,120}?(?:有限责任公司|股份有限公司|有限公司|研究院|研究所|中心|厂|合作社)(?:[\u4e00-\u9fa5]{0,12}分公司)?)/g)];
+  return matches[0]?.[1]?.trim() || raw;
+}
+
+function extractCandidates(text) {
+  const ranks = [
+    ["第一中标候选人", "第1中标候选人", "第一成交候选人", "第1成交候选人"],
+    ["第二中标候选人", "第2中标候选人", "第二成交候选人", "第2成交候选人"],
+    ["第三中标候选人", "第3中标候选人", "第三成交候选人", "第3成交候选人"]
+  ];
+  return ranks.map((labels) => {
+    const match = String(text).match(new RegExp(`(?:${labels.join("|")})\\s*[：:]?\\s*([\\s\\S]{2,240})`));
+    return match ? cleanOrganization(match[1]) : "未公布";
+  }).filter((value) => value !== "未公布");
+}
+
+function extractWinner(text) {
+  const labeled = extractLabeled(text, ["中标人", "中标供应商", "成交供应商", "供应商名称"]);
+  if (labeled !== "未公布") return cleanOrganization(labeled);
+  const zhejiangResult = String(text).match(/定标\s*\/\s*成交结果\s*[：:]\s*([^（(]{2,120}?)(?=\s*[（(])/);
+  if (zhejiangResult) return cleanOrganization(zhejiangResult[1]);
+  const tableResult = String(text).match(/供应商名称\s+供应商地址\s+(?:供应商编码|统一社会信用代码)\s+([\u4e00-\u9fa5A-Za-z0-9（）()·\s]{2,120}?(?:有限责任公司|股份有限公司|有限公司|公司|研究院|研究所|中心|厂|合作社))(?=\s)/);
+  return tableResult ? cleanOrganization(tableResult[1]) : "未公布";
+}
+
+function extractProcurementFields(text, type) {
+  const candidateNotice = type === "中标候选人公示";
+  const resultNotice = !candidateNotice && (type === "中标公告" || type === "成交公告");
+  const budget = parseLabeledAmount(text, ["预算金额", "采购预算", "项目预算", "预算", "最高限价", "采购控制价"]);
+  let award = parseLabeledAmount(text, ["总中标金额", "总成交金额", "中标（成交）金额", "中标金额", "成交金额", "中标价", "成交价"]);
+  const zhejiangResult = String(text).match(/定标\s*\/\s*成交结果\s*[：:]\s*[^（(]{2,120}?[（(]([^）)]{1,80})[）)]/);
+  if (award.amount === "未公布" && zhejiangResult) award = parseAmount(zhejiangResult[1]);
+  return {
+    budgetAmount: budget.amount,
+    budgetAmountValue: budget.amountValue,
+    winner: resultNotice ? extractWinner(text) : "无此信息",
+    winnerAmount: resultNotice ? award.amount : "无此信息",
+    winnerAmountValue: resultNotice ? award.amountValue : 0,
+    candidates: candidateNotice ? extractCandidates(text) : [],
+    candidatesDisclosure: candidateNotice ? "公告披露字段" : "无此信息"
+  };
+}
+
+function defaultProcurementFields(type) {
+  const candidateNotice = type === "中标候选人公示";
+  const resultNotice = type === "中标公告" || type === "成交公告";
+  return {
+    budgetAmount: "未公布",
+    budgetAmountValue: 0,
+    winner: resultNotice ? "未公布" : "无此信息",
+    winnerAmount: resultNotice ? "未公布" : "无此信息",
+    winnerAmountValue: 0,
+    candidates: [],
+    candidatesDisclosure: candidateNotice ? "未公布" : "无此信息"
+  };
 }
 
 function snippet(text) {
@@ -169,24 +234,28 @@ function parseSearchResults(html) {
 
 function parseGgzyRecords(payload, sourcePath, keyword) {
   const records = payload?.data?.records || [];
-  return records.filter((item) => isRelevant(`${item.title || ""} ${keyword}`)).map((item) => ({
-    id: `ggzy-${item.id}`,
-    title: item.title || "未公布",
-    buyer: "未公布",
-    agency: "未公布",
-    type: classifyGgzyType(`${item.title || ""} ${item.informationTypeText || ""}`),
-    date: item.publishTime || "未公布",
-    amount: "未公布",
-    amountValue: 0,
-    content: "未公布（请打开全国公共资源交易平台原文核验采购清单）",
-    status: /中标|成交/.test(`${item.title || ""} ${item.informationTypeText || ""}`) ? "normal" : "watch",
-    statusText: /中标|成交/.test(`${item.title || ""} ${item.informationTypeText || ""}`) ? "已发布" : "待研判",
-    source: "全国公共资源交易平台",
-    sourceUrl: absoluteUrl(item.url, "https://www.ggzy.gov.cn/"),
-    note: `来源平台：${item.transactionSourcesPlatformText || "未公布"}；业务类型：${item.businessTypeText || "未公布"}`,
-    collectedAt: new Date().toISOString(),
-    sourcePath
-  }));
+  return records.filter((item) => isRelevant(`${item.title || ""} ${keyword}`)).map((item) => {
+    const type = classifyGgzyType(`${item.title || ""} ${item.informationTypeText || ""}`);
+    return {
+      id: `ggzy-${item.id}`,
+      title: item.title || "未公布",
+      buyer: "未公布",
+      agency: "未公布",
+      type,
+      date: item.publishTime || "未公布",
+      amount: "未公布",
+      amountValue: 0,
+      ...defaultProcurementFields(type),
+      content: "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      status: /中标|成交/.test(`${item.title || ""} ${item.informationTypeText || ""}`) ? "normal" : "watch",
+      statusText: /中标|成交/.test(`${item.title || ""} ${item.informationTypeText || ""}`) ? "已发布" : "待研判",
+      source: "全国公共资源交易平台",
+      sourceUrl: absoluteUrl(item.url, "https://www.ggzy.gov.cn/"),
+      note: `来源平台：${item.transactionSourcesPlatformText || "未公布"}；业务类型：${item.businessTypeText || "未公布"}`,
+      collectedAt: new Date().toISOString(),
+      sourcePath
+    };
+  });
 }
 
 function dateWindows(startDate, endDate, days = 10) {
@@ -213,19 +282,20 @@ function isHistoricalWindow(windowEnd) {
 }
 
 async function fetchText(url, options = {}) {
+  const { timeoutMs = REQUEST_TIMEOUT_MS, retries = 3, ...fetchOptions } = options;
   let lastError;
-  for (let attempt = 0; attempt < 3; attempt += 1) {
+  for (let attempt = 0; attempt < retries; attempt += 1) {
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
+    const timeout = setTimeout(() => controller.abort(), timeoutMs);
     try {
-      const response = await fetch(url, { ...options, headers: { "User-Agent": USER_AGENT, Accept: "text/html,application/xhtml+xml", ...(options.headers || {}) }, signal: controller.signal });
+      const response = await fetch(url, { ...fetchOptions, headers: { "User-Agent": USER_AGENT, Accept: "text/html,application/xhtml+xml", ...(fetchOptions.headers || {}) }, signal: controller.signal });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const html = await response.text();
       if (isRateLimitedPage(html)) throw new Error("来源站点触发访问频率限制");
       return html;
     } catch (error) {
       lastError = error;
-      if (attempt < 2) await sleep(4000 * (attempt + 1));
+      if (attempt < retries - 1) await sleep(4000 * (attempt + 1));
     } finally {
       clearTimeout(timeout);
     }
@@ -238,6 +308,7 @@ function parseDetail(result, html) {
   const titleFromPage = decodeHtml((html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || result.title).replace(/[-_｜|].*$/, "").trim();
   const amount = parseAmount(text);
   const type = classifyType(`${titleFromPage} ${text.slice(0, 1200)}`);
+  const procurementFields = extractProcurementFields(text, type);
   const candidateText = extractLabeled(text, ["中标候选人", "第一中标候选人"]);
   return {
     id: `ccgp-${crypto.createHash("sha1").update(result.url).digest("hex").slice(0, 18)}`,
@@ -248,6 +319,7 @@ function parseDetail(result, html) {
     date: parseDate(text),
     amount: amount.amount,
     amountValue: amount.amountValue,
+    ...procurementFields,
     content: snippet(text),
     status: type.includes("招标") || type.includes("意向") ? "watch" : type.includes("中标") || type.includes("成交") ? "normal" : "watch",
     statusText: type.includes("中标") || type.includes("成交") ? "已发布" : "待研判",
@@ -381,6 +453,7 @@ function parseChinaPostDetail(candidate, html) {
   const title = titleFromPage.includes("中国邮政电子采购") ? candidate.title : titleFromPage;
   const amount = parseAmount(text);
   const type = classifyType(`${candidate.title} ${text.slice(0, 1200)}`);
+  const procurementFields = extractProcurementFields(text, type);
   return {
     id: `china-post-${crypto.createHash("sha1").update(candidate.url).digest("hex").slice(0, 18)}`,
     title: title || candidate.title,
@@ -390,6 +463,7 @@ function parseChinaPostDetail(candidate, html) {
     date: candidate.date,
     amount: amount.amount,
     amountValue: amount.amountValue,
+    ...procurementFields,
     content: snippet(text),
     status: type.includes("招标") || type.includes("意向") ? "watch" : type.includes("中标") || type.includes("成交") ? "normal" : "watch",
     statusText: type.includes("中标") || type.includes("成交") ? "已发布" : "待研判",
@@ -472,6 +546,7 @@ function parseZhejiangDetail(candidate, html) {
   const titleFromPage = decodeHtml((html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || candidate.title).replace(/[-_｜|].*$/, "").trim();
   const amount = parseAmount(text);
   const type = classifyType(`${titleFromPage} ${text.slice(0, 1800)}`);
+  const procurementFields = extractProcurementFields(text, type);
   return {
     id: `zhejiang-ggzy-${crypto.createHash("sha1").update(candidate.url).digest("hex").slice(0, 18)}`,
     title: candidate.title || titleFromPage,
@@ -481,6 +556,7 @@ function parseZhejiangDetail(candidate, html) {
     date: candidate.date,
     amount: amount.amount,
     amountValue: amount.amountValue,
+    ...procurementFields,
     content: snippet(text),
     status: type.includes("招标") || type.includes("意向") ? "watch" : type.includes("中标") || type.includes("成交") ? "normal" : "watch",
     statusText: type.includes("中标") || type.includes("成交") ? "已发布" : "待研判",
@@ -586,6 +662,7 @@ function parseShandongDetail(candidate, article) {
   const title = article.title || candidate.title;
   const type = classifyType(`${title} ${text.slice(0, 1800)}`);
   const amount = parseAmount(text);
+  const procurementFields = extractProcurementFields(text, type);
   return {
     id: `shandong-ccgp-${crypto.createHash("sha1").update(candidate.id).digest("hex").slice(0, 18)}`,
     title,
@@ -595,6 +672,7 @@ function parseShandongDetail(candidate, article) {
     date: candidate.date,
     amount: amount.amount,
     amountValue: amount.amountValue,
+    ...procurementFields,
     content: snippet(text),
     status: type.includes("招标") || type.includes("意向") ? "watch" : type.includes("中标") || type.includes("成交") ? "normal" : "watch",
     statusText: type.includes("中标") || type.includes("成交") ? "已发布" : "待研判",
@@ -651,12 +729,96 @@ async function collectShandong({ full = false, startDate = HISTORY_START_DATE, e
 }
 
 export function mergeProjects(existing, incoming) {
-  const merged = new Map(existing.map((project) => [project.sourceUrl || project.id, project]));
+  const isMeaningful = (value) => value !== undefined && value !== null && value !== "" && value !== "未公布" && value !== "无此信息";
+  const normalizeProject = (project) => ({
+    ...defaultProcurementFields(project.type),
+    ...project,
+    agency: project.agency || "未公布",
+    candidates: Array.isArray(project.candidates) ? project.candidates : []
+  });
+  const merged = new Map(existing.map((project) => {
+    const normalized = normalizeProject(project);
+    return [normalized.sourceUrl || normalized.id, normalized];
+  }));
   incoming.forEach((project) => {
     const key = project.sourceUrl || project.id;
-    merged.set(key, { ...merged.get(key), ...project, updatedAt: new Date().toISOString() });
+    const previous = merged.get(key) || {};
+    const combined = { ...previous, ...project, updatedAt: new Date().toISOString() };
+    for (const field of ["budgetAmount", "winner", "winnerAmount"]) {
+      if (!isMeaningful(project[field]) && isMeaningful(previous[field])) combined[field] = previous[field];
+    }
+    if (!isMeaningful(project.budgetAmount) && isMeaningful(previous.budgetAmount)) combined.budgetAmountValue = previous.budgetAmountValue;
+    if (!isMeaningful(project.winnerAmount) && isMeaningful(previous.winnerAmount)) combined.winnerAmountValue = previous.winnerAmountValue;
+    if ((!Array.isArray(project.candidates) || !project.candidates.length) && Array.isArray(previous.candidates) && previous.candidates.length) {
+      combined.candidates = previous.candidates;
+      combined.candidatesDisclosure = previous.candidatesDisclosure;
+    }
+    merged.set(key, normalizeProject(combined));
   });
   return [...merged.values()].sort((a, b) => String(b.date).localeCompare(String(a.date)));
+}
+
+export async function enrichStoredResults() {
+  const store = await readStore();
+  const enrichable = store.projects.filter((project) =>
+    ["中标公告", "成交公告", "中标候选人公示"].includes(project.type)
+    && /^https?:\/\//i.test(project.sourceUrl || "")
+  );
+  const updates = new Map();
+  const warnings = [];
+  const enrichProject = async (project) => {
+    try {
+      let text;
+      if (project.source === "山东省政府采购信息公开平台") {
+        const url = new URL(project.sourceUrl);
+        const article = await fetchShandongDetail({ id: url.searchParams.get("id"), colCode: url.searchParams.get("colCode") });
+        text = decodeHtml(article.body || "");
+      } else {
+        const detailUrl = project.source === "全国公共资源交易平台" ? project.sourceUrl.replace("/html/a/", "/html/b/") : project.sourceUrl;
+        text = decodeHtml(await fetchText(detailUrl, { timeoutMs: 8000, retries: 1 }));
+      }
+      const fields = extractProcurementFields(text, project.type);
+      const buyer = extractLabeled(text, ["采购人", "采购单位", "招标人"]);
+      const agency = extractLabeled(text, ["采购代理机构", "代理机构"]);
+      const updated = { ...project };
+      if (buyer !== "未公布") updated.buyer = buyer;
+      if (agency !== "未公布") updated.agency = agency;
+      if (fields.budgetAmount !== "未公布") {
+        updated.budgetAmount = fields.budgetAmount;
+        updated.budgetAmountValue = fields.budgetAmountValue;
+      }
+      if (fields.winner !== "未公布" && fields.winner !== "无此信息") updated.winner = fields.winner;
+      if (fields.winnerAmount !== "未公布" && fields.winnerAmount !== "无此信息") {
+        updated.winnerAmount = fields.winnerAmount;
+        updated.winnerAmountValue = fields.winnerAmountValue;
+      }
+      if (fields.candidates.length) {
+        updated.candidates = fields.candidates;
+        updated.candidatesDisclosure = "公告披露字段";
+      }
+      updates.set(project.sourceUrl, { ...updated, updatedAt: new Date().toISOString() });
+    } catch (error) {
+      warnings.push(`${project.title}：${error.message}`);
+    }
+  };
+  const batchSize = 6;
+  for (let index = 0; index < enrichable.length; index += batchSize) {
+    await Promise.all(enrichable.slice(index, index + batchSize).map(enrichProject));
+    if (index + batchSize < enrichable.length) await sleep(500);
+  }
+  const projects = store.projects.map((project) => updates.get(project.sourceUrl) || project);
+  const enrichedCount = [...updates.values()].filter((project) =>
+    (project.winner && !["未公布", "无此信息"].includes(project.winner))
+    || (project.winnerAmount && !["未公布", "无此信息"].includes(project.winnerAmount))
+    || (Array.isArray(project.candidates) && project.candidates.length)
+  ).length;
+  const nextStore = {
+    ...store,
+    projects,
+    meta: { ...store.meta, lastEnrichedAt: new Date().toISOString(), enrichmentScanned: enrichable.length, enrichmentMatched: enrichedCount, enrichmentWarnings: warnings }
+  };
+  await writeStore(nextStore);
+  return { scanned: enrichable.length, matched: enrichedCount, warnings: warnings.length };
 }
 
 function projectDateRange(projects, fallbackStart, fallbackEnd) {
@@ -703,7 +865,9 @@ export async function runCollection({ full = false, startDate = full ? HISTORY_S
   }
 }
 
-if (process.argv.includes("--full")) {
+if (process.argv.includes("--enrich-results")) {
+  enrichStoredResults().then((result) => console.log(`结果字段补充完成：扫描 ${result.scanned} 条，提取到 ${result.matched} 条，失败 ${result.warnings} 条`)).catch((error) => { console.error(error); process.exitCode = 1; });
+} else if (process.argv.includes("--full")) {
   const startArgIndex = process.argv.indexOf("--start-date");
   const startDate = startArgIndex > -1 ? process.argv[startArgIndex + 1] : HISTORY_START_DATE;
   runCollection({ full: true, startDate }).then((store) => console.log(store.meta.lastRunMessage)).catch((error) => { console.error(error); process.exitCode = 1; });
