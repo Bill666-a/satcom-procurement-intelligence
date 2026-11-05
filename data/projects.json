@@ -1,6 +1,108 @@
 {
   "projects": [
     {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ccgp-7942c2d25c8a80b335",
+      "title": "卫星通信实训平台（一期）更正公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "其他",
+      "date": "2026-11-05",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "卫星通信实训平台（一期）更正公告 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996 | 服务投诉：010-63819289 首页 政采法规 购买服务 监督检查 信息公告 国际专栏 当前位置： 首页 &raquo; 政采公告 &raquo; 地方公告 ",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "中国政府采购网",
+      "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202611/t20261105_27624425.htm",
+      "note": "字段由公开公告正文自动提取，请打开原文复核。",
+      "collectedAt": "2026-11-05T21:37:25.241Z",
+      "updatedAt": "2026-11-05T21:38:50.349Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "¥ 698 万元",
+      "winnerAmountValue": 698,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ccgp-d51a515c7b04553231",
+      "title": "福建公安高通量卫星通信装备建设项目结果公告（采购包1）",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "中标公告",
+      "date": "2026-11-05",
+      "amount": "¥ 698 万元",
+      "amountValue": 698,
+      "content": "福建公安高通量卫星通信装备建设项目结果公告（采购包1） 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996 | 服务投诉：010-63819289 首页 政采法规 购买服务 监督检查 信息公告 国际专栏 当前位置： 首页 &raquo; 政采公告 &raquo; 地",
+      "status": "normal",
+      "statusText": "已发布",
+      "source": "中国政府采购网",
+      "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202611/t20261105_27623998.htm",
+      "note": "字段由公开公告正文自动提取，请打开原文复核。",
+      "collectedAt": "2026-11-05T21:37:27.620Z",
+      "updatedAt": "2026-11-05T21:41:17.881Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "未公布",
+      "winnerAmount": "未公布",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-2c8382a49fdb017f01a177c053f30b35",
+      "title": "国家消防救援局卫星通信网带宽租赁项目（二次）中标公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "中标公告",
+      "date": "2026-11-04",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "normal",
+      "statusText": "已发布",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/110000/0201/20261104/2c8382a49fdb017f01a177c053f30b35.html",
+      "note": "来源平台：未公布；业务类型：政府采购",
+      "collectedAt": "2026-11-05T21:39:00.361Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:17.063Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-0067b058e2d787884e4ea6a9a6a40035dcde",
+      "title": "广东电网公司2026年卫星通信设备、天通卫星终端专项招标[CG0300022002412982]--变更文件--招标1",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "招标公告",
+      "date": "2026-11-03",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0101/20261103/0067b058e2d787884e4ea6a9a6a40035dcde.html",
+      "note": "来源平台：中国南方电网电子商务系统；业务类型：工程建设",
+      "collectedAt": "2026-11-05T21:39:02.809Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:16.061Z"
+    },
+    {
       "budgetAmount": "¥ 466.8 万元",
       "budgetAmountValue": 466.8,
       "winner": "无此信息",
@@ -24,6 +126,188 @@
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-11-03T21:20:41.223Z",
       "updatedAt": "2026-11-03T21:22:56.568Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-c760274c8e02cb811e959d5af8e6f7ba",
+      "title": "四川邮电职业技术学院卫星通信实验室建设招标公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "招标公告",
+      "date": "2026-10-30",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/510000/0201/20261030/c760274c8e02cb811e959d5af8e6f7ba.html",
+      "note": "来源平台：未公布；业务类型：政府采购",
+      "collectedAt": "2026-11-05T21:38:51.863Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:16.061Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-00515934b6b3edcc41bb8751b9e4603fb815",
+      "title": "四川邮电职业技术学院卫星通信实验室建设招标公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "招标公告",
+      "date": "2026-10-30",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/510000/0201/20261030/00515934b6b3edcc41bb8751b9e4603fb815.html",
+      "note": "来源平台：未公布；业务类型：政府采购",
+      "collectedAt": "2026-11-05T21:38:51.863Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:16.061Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-660bf85a76549ca3ebf5038dc8f185ff",
+      "title": "迪庆州公安局“动中通”卫星通信设备采购项目的公开招标公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "招标公告",
+      "date": "2026-10-30",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/530000/0201/20261030/660bf85a76549ca3ebf5038dc8f185ff.html",
+      "note": "来源平台：未公布；业务类型：政府采购",
+      "collectedAt": "2026-11-05T21:38:51.863Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:16.061Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-0053d5c027af3f8943d48b0efd410c948fbc",
+      "title": "迪庆州公安局“动中通”卫星通信设备采购项目的公开招标公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "招标公告",
+      "date": "2026-10-30",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/530000/0201/20261030/0053d5c027af3f8943d48b0efd410c948fbc.html",
+      "note": "来源平台：未公布；业务类型：政府采购",
+      "collectedAt": "2026-11-05T21:38:51.863Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:16.061Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-bcab44b5da79c24e5ba89a96e5c67d50",
+      "title": "四川省应急管理厅天通卫星电话通信服务项目招标公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "招标公告",
+      "date": "2026-10-30",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/510000/0201/20261030/bcab44b5da79c24e5ba89a96e5c67d50.html",
+      "note": "来源平台：未公布；业务类型：政府采购",
+      "collectedAt": "2026-11-05T21:38:54.012Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:16.061Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-0051aa7fd3c40d8b4d42b36ff520377637fd",
+      "title": "四川省应急管理厅天通卫星电话通信服务项目招标公告",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "招标公告",
+      "date": "2026-10-30",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/510000/0201/20261030/0051aa7fd3c40d8b4d42b36ff520377637fd.html",
+      "note": "来源平台：未公布；业务类型：政府采购",
+      "collectedAt": "2026-11-05T21:38:54.012Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:16.061Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "无此信息",
+      "id": "ggzy-2f44cb1d6bb4a7974d3645879edcc00f",
+      "title": "伊春市应急管理局卫星通信方舱指挥车采购采购更正公告（第一次）",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "招标公告",
+      "date": "2026-10-30",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "watch",
+      "statusText": "待研判",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/230000/0201/20261030/2f44cb1d6bb4a7974d3645879edcc00f.html",
+      "note": "来源平台：未公布；业务类型：政府采购",
+      "collectedAt": "2026-11-05T21:38:54.012Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:16.061Z"
     },
     {
       "budgetAmount": "¥ 160 万元",
@@ -53,6 +337,32 @@
     {
       "budgetAmount": "未公布",
       "budgetAmountValue": 0,
+      "winner": "无此信息",
+      "winnerAmount": "无此信息",
+      "winnerAmountValue": 0,
+      "candidates": [],
+      "candidatesDisclosure": "未公布",
+      "id": "ggzy-0067bdcae7e6c3a543079415cf6a6f004daf",
+      "title": "中国电信四川公司2026-2029年高通量卫星通信流量服务采购项目（第三次）成交候选人公示",
+      "buyer": "未公布",
+      "agency": "未公布",
+      "type": "中标候选人公示",
+      "date": "2026-10-29",
+      "amount": "未公布",
+      "amountValue": 0,
+      "content": "未公布（请打开全国公共资源交易平台原文核验采购清单）",
+      "status": "normal",
+      "statusText": "已发布",
+      "source": "全国公共资源交易平台",
+      "sourceUrl": "https://www.ggzy.gov.cn/information/deal/html/a/0067/0104/20261029/0067bdcae7e6c3a543079415cf6a6f004daf.html",
+      "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
+      "collectedAt": "2026-11-05T21:38:54.012Z",
+      "sourcePath": "history",
+      "updatedAt": "2026-11-05T21:41:17.039Z"
+    },
+    {
+      "budgetAmount": "未公布",
+      "budgetAmountValue": 0,
       "winner": "未公布",
       "winnerAmount": "¥ 0.12 万元",
       "winnerAmountValue": 0.12,
@@ -73,7 +383,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261027_27566369.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-11-02T23:16:06.179Z",
-      "updatedAt": "2026-11-04T21:39:24.652Z"
+      "updatedAt": "2026-11-05T21:41:17.868Z"
     },
     {
       "budgetAmount": "未公布",
@@ -202,7 +512,7 @@
       "note": "来源平台：辽宁政府采购网；业务类型：政府采购",
       "collectedAt": "2026-11-04T21:37:47.849Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:24.440Z"
+      "updatedAt": "2026-11-05T21:41:18.067Z"
     },
     {
       "budgetAmount": "未公布",
@@ -228,7 +538,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-22T19:37:10.211Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:24.227Z"
+      "updatedAt": "2026-11-05T21:41:17.800Z"
     },
     {
       "budgetAmount": "未公布",
@@ -253,7 +563,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261017_27512853.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-10-23T19:37:01.589Z",
-      "updatedAt": "2026-11-04T21:39:24.650Z"
+      "updatedAt": "2026-11-05T21:41:19.113Z"
     },
     {
       "budgetAmount": "¥ 122 万元",
@@ -380,7 +690,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-11-04T21:37:36.036Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:24.601Z"
+      "updatedAt": "2026-11-05T21:41:18.815Z"
     },
     {
       "budgetAmount": "未公布",
@@ -432,7 +742,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-11-04T21:37:38.174Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:24.606Z"
+      "updatedAt": "2026-11-05T21:41:18.806Z"
     },
     {
       "budgetAmount": "未公布",
@@ -612,7 +922,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260928_27410038.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-09-28T21:26:03.310Z",
-      "updatedAt": "2026-11-04T21:39:25.735Z"
+      "updatedAt": "2026-11-05T21:41:19.180Z"
     },
     {
       "budgetAmount": "¥ 49 万元",
@@ -662,7 +972,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260924_27396028.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-09-30T20:23:15.594Z",
-      "updatedAt": "2026-11-04T21:39:25.674Z"
+      "updatedAt": "2026-11-05T21:41:19.344Z"
     },
     {
       "budgetAmount": "未公布",
@@ -739,7 +1049,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260915_27325831.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-09-21T20:10:28.569Z",
-      "updatedAt": "2026-11-04T21:39:25.898Z"
+      "updatedAt": "2026-11-05T21:41:19.459Z"
     },
     {
       "budgetAmount": "未公布",
@@ -919,7 +1229,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260907_27282334.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-09-13T18:24:04.477Z",
-      "updatedAt": "2026-11-04T21:39:25.833Z"
+      "updatedAt": "2026-11-05T21:41:20.552Z"
     },
     {
       "budgetAmount": "未公布",
@@ -944,7 +1254,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260907_27281009.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-09-13T18:24:06.821Z",
-      "updatedAt": "2026-11-04T21:39:25.835Z"
+      "updatedAt": "2026-11-05T21:41:20.527Z"
     },
     {
       "budgetAmount": "¥ 470 万元",
@@ -1020,7 +1330,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202609/t20260904_27271506.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-09-10T18:46:25.406Z",
-      "updatedAt": "2026-11-04T21:39:25.855Z"
+      "updatedAt": "2026-11-05T21:41:20.498Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1045,7 +1355,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260904_27266562.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-09-10T18:46:27.447Z",
-      "updatedAt": "2026-11-04T21:39:26.955Z"
+      "updatedAt": "2026-11-05T21:41:20.516Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1148,7 +1458,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-22T19:36:25.590Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:26.612Z"
+      "updatedAt": "2026-11-05T21:41:20.205Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1200,7 +1510,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-09-07T19:28:16.601Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:26.609Z"
+      "updatedAt": "2026-11-05T21:41:20.194Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1225,7 +1535,7 @@
       "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202608/t20260828_27223653.htm",
       "note": "字段由公开公告正文自动提取，请打开原文复核。",
       "collectedAt": "2026-09-02T19:02:47.178Z",
-      "updatedAt": "2026-11-04T21:39:26.926Z"
+      "updatedAt": "2026-11-05T21:41:21.632Z"
     },
     {
       "budgetAmount": "¥ 2,000,000 元",
@@ -1254,7 +1564,7 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-09-07T19:28:16.601Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:27.222Z"
+      "updatedAt": "2026-11-05T21:41:22.035Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1280,7 +1590,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:26:43.839Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:26.610Z"
+      "updatedAt": "2026-11-05T21:41:21.288Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1306,7 +1616,7 @@
       "note": "来源平台：邢台市公共资源交易中心；业务类型：政府采购",
       "collectedAt": "2026-08-31T07:26:45.967Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:27.940Z"
+      "updatedAt": "2026-11-05T21:41:21.297Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1384,7 +1694,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-09-07T19:28:18.704Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:27.934Z"
+      "updatedAt": "2026-11-05T21:41:21.287Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1435,7 +1745,7 @@
       "note": "来源平台：中国南方电网电子商务系统；业务类型：工程建设",
       "collectedAt": "2026-09-07T19:28:18.704Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:28.140Z"
+      "updatedAt": "2026-11-05T21:41:22.234Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1461,7 +1771,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-11-01T19:58:07.898Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:27.935Z"
+      "updatedAt": "2026-11-05T21:41:22.980Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1539,7 +1849,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-11-01T19:58:10.160Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:28.391Z"
+      "updatedAt": "2026-11-05T21:41:22.971Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1617,7 +1927,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-11-01T19:57:59.328Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:28.346Z"
+      "updatedAt": "2026-11-05T21:41:22.979Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1643,7 +1953,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-11-01T19:57:59.328Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:29.104Z"
+      "updatedAt": "2026-11-05T21:41:22.970Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1877,7 +2187,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-11-01T19:57:52.615Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:29.304Z"
+      "updatedAt": "2026-11-05T21:41:22.976Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1903,7 +2213,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-11-01T19:57:52.615Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:29.101Z"
+      "updatedAt": "2026-11-05T21:41:23.440Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1955,7 +2265,7 @@
       "note": "来源平台：湖北省政府采购网；业务类型：政府采购",
       "collectedAt": "2026-11-01T19:57:52.615Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:29.104Z"
+      "updatedAt": "2026-11-05T21:41:24.189Z"
     },
     {
       "budgetAmount": "未公布",
@@ -1981,7 +2291,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-11-01T19:57:54.819Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:29.106Z"
+      "updatedAt": "2026-11-05T21:41:24.177Z"
     },
     {
       "budgetAmount": "未公布",
@@ -2163,7 +2473,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-11-01T19:57:46.148Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:29.099Z"
+      "updatedAt": "2026-11-05T21:41:24.186Z"
     },
     {
       "budgetAmount": "未公布",
@@ -2241,7 +2551,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-11-01T19:57:35.116Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:30.020Z"
+      "updatedAt": "2026-11-05T21:41:24.178Z"
     },
     {
       "budgetAmount": "未公布",
@@ -2423,7 +2733,7 @@
       "note": "来源平台：吉林省公共资源交易信息网；业务类型：政府采购",
       "collectedAt": "2026-11-01T19:57:23.952Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:30.017Z"
+      "updatedAt": "2026-11-05T21:41:24.183Z"
     },
     {
       "budgetAmount": "未公布",
@@ -2501,7 +2811,7 @@
       "note": "来源平台：中国移动电子采购与招标投标系统；业务类型：工程建设",
       "collectedAt": "2026-11-01T19:57:23.952Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:30.015Z"
+      "updatedAt": "2026-11-05T21:41:26.751Z"
     },
     {
       "budgetAmount": "未公布",
@@ -2553,7 +2863,7 @@
       "note": "来源平台：中国移动电子采购与招标投标系统；业务类型：工程建设",
       "collectedAt": "2026-11-01T19:57:26.333Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:30.016Z"
+      "updatedAt": "2026-11-05T21:41:26.739Z"
     },
     {
       "budgetAmount": "未公布",
@@ -2579,7 +2889,7 @@
       "note": "来源平台：中国移动电子采购与招标投标系统；业务类型：工程建设",
       "collectedAt": "2026-11-01T19:57:26.333Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:30.024Z"
+      "updatedAt": "2026-11-05T21:41:26.748Z"
     },
     {
       "budgetAmount": "未公布",
@@ -2839,7 +3149,7 @@
       "note": "来源平台：重庆市公共资源交易服务平台；业务类型：政府采购",
       "collectedAt": "2026-10-31T19:38:16.867Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:31.696Z"
+      "updatedAt": "2026-11-05T21:41:26.739Z"
     },
     {
       "budgetAmount": "未公布",
@@ -2943,7 +3253,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-31T19:38:08.205Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:31.691Z"
+      "updatedAt": "2026-11-05T21:41:26.742Z"
     },
     {
       "budgetAmount": "未公布",
@@ -3047,7 +3357,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-31T19:38:12.524Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:31.690Z"
+      "updatedAt": "2026-11-05T21:41:28.129Z"
     },
     {
       "budgetAmount": "未公布",
@@ -3099,7 +3409,7 @@
       "note": "来源平台：中国铁塔电子采购平台；业务类型：工程建设",
       "collectedAt": "2026-10-31T19:37:59.601Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:31.694Z"
+      "updatedAt": "2026-11-05T21:41:28.117Z"
     },
     {
       "budgetAmount": "未公布",
@@ -3281,7 +3591,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-31T19:37:53.197Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:31.698Z"
+      "updatedAt": "2026-11-05T21:41:28.127Z"
     },
     {
       "budgetAmount": "未公布",
@@ -3307,7 +3617,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-31T19:37:53.197Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:32.416Z"
+      "updatedAt": "2026-11-05T21:41:28.128Z"
     },
     {
       "budgetAmount": "未公布",
@@ -3749,7 +4059,7 @@
       "note": "来源平台：辽宁省公共资源交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-30T20:20:57.864Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:32.410Z"
+      "updatedAt": "2026-11-05T21:41:28.120Z"
     },
     {
       "budgetAmount": "未公布",
@@ -3908,7 +4218,7 @@
       "note": "来源平台：华润集团守正电子招标平台；业务类型：工程建设",
       "collectedAt": "2026-10-30T20:20:49.292Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:32.409Z"
+      "updatedAt": "2026-11-05T21:41:29.059Z"
     },
     {
       "budgetAmount": "未公布",
@@ -3934,7 +4244,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-30T20:20:49.292Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:32.411Z"
+      "updatedAt": "2026-11-05T21:41:29.051Z"
     },
     {
       "budgetAmount": "未公布",
@@ -4454,7 +4764,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-29T20:44:33.878Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:33.647Z"
+      "updatedAt": "2026-11-05T21:41:29.057Z"
     },
     {
       "budgetAmount": "未公布",
@@ -4558,7 +4868,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-29T20:44:18.208Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:33.644Z"
+      "updatedAt": "2026-11-05T21:41:29.048Z"
     },
     {
       "budgetAmount": "未公布",
@@ -4584,7 +4894,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-29T20:44:18.208Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:33.642Z"
+      "updatedAt": "2026-11-05T21:41:29.052Z"
     },
     {
       "budgetAmount": "未公布",
@@ -4636,7 +4946,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-29T20:44:18.208Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:33.643Z"
+      "updatedAt": "2026-11-05T21:41:29.806Z"
     },
     {
       "budgetAmount": "未公布",
@@ -4662,7 +4972,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-29T20:44:18.208Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:33.649Z"
+      "updatedAt": "2026-11-05T21:41:29.844Z"
     },
     {
       "budgetAmount": "未公布",
@@ -4714,7 +5024,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-29T20:44:09.613Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:34.073Z"
+      "updatedAt": "2026-11-05T21:41:29.806Z"
     },
     {
       "budgetAmount": "未公布",
@@ -4818,7 +5128,7 @@
       "note": "来源平台：中国安能电子采购平台；业务类型：工程建设",
       "collectedAt": "2026-10-16T19:06:03.292Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:34.787Z"
+      "updatedAt": "2026-11-05T21:41:29.795Z"
     },
     {
       "budgetAmount": "未公布",
@@ -4922,7 +5232,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-28T20:40:00.964Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:34.786Z"
+      "updatedAt": "2026-11-05T21:41:29.801Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5000,7 +5310,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-15T19:32:29.961Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:34.784Z"
+      "updatedAt": "2026-11-05T21:41:30.273Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5026,7 +5336,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-15T19:32:29.961Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:34.784Z"
+      "updatedAt": "2026-11-05T21:41:31.021Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5078,7 +5388,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-28T20:39:51.045Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:34.789Z"
+      "updatedAt": "2026-11-05T21:41:31.010Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5104,7 +5414,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-28T20:39:51.045Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:34.999Z"
+      "updatedAt": "2026-11-05T21:41:31.259Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5130,7 +5440,7 @@
       "note": "来源平台：青岛市公共资源交易 电子交易系统；业务类型：政府采购",
       "collectedAt": "2026-10-28T20:39:51.045Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:36.006Z"
+      "updatedAt": "2026-11-05T21:41:31.242Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5208,7 +5518,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-28T20:39:51.045Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:35.713Z"
+      "updatedAt": "2026-11-05T21:41:44.777Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5234,7 +5544,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-28T20:39:53.814Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:35.712Z"
+      "updatedAt": "2026-11-05T21:41:44.745Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5312,7 +5622,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-15T19:32:21.640Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:35.715Z"
+      "updatedAt": "2026-11-05T21:41:44.744Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5338,7 +5648,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-15T19:32:21.640Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:49.405Z"
+      "updatedAt": "2026-11-05T21:41:44.754Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5364,7 +5674,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-15T19:32:21.640Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:49.394Z"
+      "updatedAt": "2026-11-05T21:41:44.758Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5650,7 +5960,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-15T19:32:15.425Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:49.395Z"
+      "updatedAt": "2026-11-05T21:41:44.746Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5754,7 +6064,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-28T20:39:35.337Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:49.399Z"
+      "updatedAt": "2026-11-05T21:41:45.526Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5784,7 +6094,7 @@
       "note": "来源平台：国家管网集团供应链管理系统电子招标平台；业务类型：工程建设",
       "collectedAt": "2026-10-28T20:39:35.337Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:49.626Z"
+      "updatedAt": "2026-11-05T21:41:45.743Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5810,7 +6120,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-28T20:39:35.337Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:49.598Z"
+      "updatedAt": "2026-11-05T21:41:45.742Z"
     },
     {
       "budgetAmount": "未公布",
@@ -5836,7 +6146,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-28T20:39:35.337Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:50.340Z"
+      "updatedAt": "2026-11-05T21:41:45.516Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6044,7 +6354,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-15T19:32:07.092Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:50.337Z"
+      "updatedAt": "2026-11-05T21:41:45.517Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6278,7 +6588,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-28T20:39:26.628Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:50.337Z"
+      "updatedAt": "2026-11-05T21:41:46.896Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6359,7 +6669,7 @@
       "note": "来源平台：国家管网集团供应链管理系统电子招标平台；业务类型：工程建设",
       "collectedAt": "2026-10-15T19:31:56.551Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:50.543Z"
+      "updatedAt": "2026-11-05T21:41:46.888Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6463,7 +6773,7 @@
       "note": "来源平台：中国交建物资采购管理信息系统；业务类型：工程建设",
       "collectedAt": "2026-10-28T20:39:19.559Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:51.603Z"
+      "updatedAt": "2026-11-05T21:41:46.885Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6491,7 +6801,7 @@
       "note": "来源平台：贵州省公共资源中心交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-15T19:31:50.086Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:51.600Z"
+      "updatedAt": "2026-11-05T21:41:46.890Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6624,7 +6934,7 @@
       "note": "来源平台：贵州省公共资源中心交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-27T20:18:52.813Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:51.609Z"
+      "updatedAt": "2026-11-05T21:41:46.900Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6676,7 +6986,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-14T19:48:43.356Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:51.602Z"
+      "updatedAt": "2026-11-05T21:41:47.646Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6705,7 +7015,7 @@
       "note": "来源平台：贵州省公共资源中心交易平台；业务类型：工程建设",
       "collectedAt": "2026-09-14T20:01:10.803Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:51.607Z"
+      "updatedAt": "2026-11-05T21:41:47.635Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6939,7 +7249,7 @@
       "note": "来源平台：中国交建物资采购管理信息系统；业务类型：工程建设",
       "collectedAt": "2026-10-14T19:48:25.988Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:51.606Z"
+      "updatedAt": "2026-11-05T21:41:47.643Z"
     },
     {
       "budgetAmount": "未公布",
@@ -6965,7 +7275,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-02T20:14:17.884Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:52.323Z"
+      "updatedAt": "2026-11-05T21:41:47.638Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7017,7 +7327,7 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-09-14T20:00:45.447Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:52.320Z"
+      "updatedAt": "2026-11-05T21:41:47.639Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7043,7 +7353,7 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-10-14T19:48:17.419Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:52.645Z"
+      "updatedAt": "2026-11-05T21:41:47.644Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7225,7 +7535,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-09-14T20:00:34.008Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:52.321Z"
+      "updatedAt": "2026-11-05T21:41:48.393Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7251,7 +7561,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-09-14T20:00:34.008Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:52.325Z"
+      "updatedAt": "2026-11-05T21:41:48.382Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7303,7 +7613,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-27T20:18:13.955Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:52.696Z"
+      "updatedAt": "2026-11-05T21:41:48.391Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7329,7 +7639,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-27T20:18:13.955Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:53.460Z"
+      "updatedAt": "2026-11-05T21:41:48.395Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7381,7 +7691,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-09-14T20:00:34.009Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:53.611Z"
+      "updatedAt": "2026-11-05T21:41:48.620Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7433,7 +7743,7 @@
       "note": "来源平台：南宁市公共资源交易中心；业务类型：政府采购",
       "collectedAt": "2026-10-27T20:18:16.163Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:53.829Z"
+      "updatedAt": "2026-11-05T21:41:48.862Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7459,7 +7769,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-27T20:18:16.163Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:53.784Z"
+      "updatedAt": "2026-11-05T21:41:49.858Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7485,7 +7795,7 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-10-27T20:18:16.163Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:53.420Z"
+      "updatedAt": "2026-11-05T21:41:49.605Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7641,7 +7951,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-09-01T14:22:07.312Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:53.458Z"
+      "updatedAt": "2026-11-05T21:41:49.597Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7693,7 +8003,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-14T19:47:57.940Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:54.571Z"
+      "updatedAt": "2026-11-05T21:41:49.612Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7797,7 +8107,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-26T20:49:05.238Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:54.814Z"
+      "updatedAt": "2026-11-05T21:41:49.611Z"
     },
     {
       "budgetAmount": "未公布",
@@ -7823,7 +8133,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-26T20:49:05.238Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:54.547Z"
+      "updatedAt": "2026-11-05T21:41:50.612Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8031,7 +8341,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-26T20:48:45.619Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:55.272Z"
+      "updatedAt": "2026-11-05T21:41:50.603Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8057,7 +8367,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-26T20:48:45.619Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:54.750Z"
+      "updatedAt": "2026-11-05T21:41:50.603Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8083,7 +8393,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-26T20:48:47.858Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:56.769Z"
+      "updatedAt": "2026-11-05T21:41:50.610Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8109,7 +8419,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-26T20:48:47.858Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:55.989Z"
+      "updatedAt": "2026-11-05T21:41:50.606Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8135,7 +8445,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-13T20:53:23.962Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:56.168Z"
+      "updatedAt": "2026-11-05T21:41:50.603Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8161,7 +8471,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-13T20:53:23.962Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:56.022Z"
+      "updatedAt": "2026-11-05T21:41:51.371Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8187,7 +8497,7 @@
       "note": "来源平台：松原市公共资源交易中心；业务类型：政府采购",
       "collectedAt": "2026-10-13T20:53:23.962Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:56.393Z"
+      "updatedAt": "2026-11-05T21:41:51.358Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8239,7 +8549,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-26T20:48:36.950Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:57.704Z"
+      "updatedAt": "2026-11-05T21:41:51.590Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8421,7 +8731,7 @@
       "note": "来源平台：全国公共资源交易平台（陕西省）；业务类型：政府采购",
       "collectedAt": "2026-10-13T20:53:00.778Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:57.905Z"
+      "updatedAt": "2026-11-05T21:41:51.838Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8451,7 +8761,7 @@
       "note": "来源平台：贵州省公共资源中心交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-13T20:53:03.771Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:58.123Z"
+      "updatedAt": "2026-11-05T21:41:52.719Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8477,7 +8787,7 @@
       "note": "来源平台：河北省公共资源交易中心网站；业务类型：政府采购",
       "collectedAt": "2026-10-13T20:53:03.771Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:58.995Z"
+      "updatedAt": "2026-11-05T21:41:52.705Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8659,7 +8969,7 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-10-13T20:52:50.873Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:59.716Z"
+      "updatedAt": "2026-11-05T21:41:52.705Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8711,7 +9021,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-25T18:37:17.251Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:00.314Z"
+      "updatedAt": "2026-11-05T21:41:52.709Z"
     },
     {
       "budgetAmount": "未公布",
@@ -8841,7 +9151,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-12T22:40:46.819Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:00.133Z"
+      "updatedAt": "2026-11-05T21:41:52.709Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9049,7 +9359,7 @@
       "note": "来源平台：济宁市公共资源交易服务平台；业务类型：政府采购",
       "collectedAt": "2026-10-12T22:40:31.526Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:59.714Z"
+      "updatedAt": "2026-11-05T21:41:53.653Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9413,7 +9723,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-25T18:36:52.743Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:39:59.720Z"
+      "updatedAt": "2026-11-05T21:41:53.644Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9673,7 +9983,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-25T18:36:32.520Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:01.035Z"
+      "updatedAt": "2026-11-05T21:41:53.645Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9699,7 +10009,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-12T22:39:43.856Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:01.034Z"
+      "updatedAt": "2026-11-05T21:42:07.402Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9725,7 +10035,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-24T18:27:08.750Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:01.034Z"
+      "updatedAt": "2026-11-05T21:42:07.390Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9751,7 +10061,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-24T18:27:11.348Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:01.169Z"
+      "updatedAt": "2026-11-05T21:42:07.375Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9907,7 +10217,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-24T18:26:48.489Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:14.714Z"
+      "updatedAt": "2026-11-05T21:42:07.399Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9933,7 +10243,7 @@
       "note": "来源平台：重庆市公共资源交易服务平台；业务类型：政府采购",
       "collectedAt": "2026-10-24T18:26:48.489Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:14.703Z"
+      "updatedAt": "2026-11-05T21:42:07.375Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9959,7 +10269,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-11T19:48:49.432Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:14.703Z"
+      "updatedAt": "2026-11-05T21:42:07.378Z"
     },
     {
       "budgetAmount": "未公布",
@@ -9985,7 +10295,7 @@
       "note": "来源平台：安徽合肥公共资源交易中心电子交易系统；业务类型：政府采购",
       "collectedAt": "2026-10-24T18:26:31.544Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:14.707Z"
+      "updatedAt": "2026-11-05T21:42:08.154Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10011,7 +10321,7 @@
       "note": "来源平台：中国航天科技电子采购平台；业务类型：工程建设",
       "collectedAt": "2026-10-24T18:26:31.544Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:14.723Z"
+      "updatedAt": "2026-11-05T21:42:08.144Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10037,7 +10347,7 @@
       "note": "来源平台：中国航天科技电子采购平台；业务类型：工程建设",
       "collectedAt": "2026-10-24T18:26:33.876Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:14.703Z"
+      "updatedAt": "2026-11-05T21:42:08.144Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10063,7 +10373,7 @@
       "note": "来源平台：中国铁塔电子采购平台；业务类型：工程建设",
       "collectedAt": "2026-10-24T18:26:33.876Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:15.442Z"
+      "updatedAt": "2026-11-05T21:42:08.154Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10092,7 +10402,7 @@
       "note": "来源平台：神华招标网；业务类型：工程建设",
       "collectedAt": "2026-10-11T19:48:40.776Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:15.438Z"
+      "updatedAt": "2026-11-05T21:42:08.145Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10248,7 +10558,7 @@
       "note": "来源平台：重庆市公共资源交易服务平台；业务类型：政府采购",
       "collectedAt": "2026-10-24T18:26:20.170Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:15.439Z"
+      "updatedAt": "2026-11-05T21:42:09.528Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10274,7 +10584,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-24T18:26:20.170Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:15.439Z"
+      "updatedAt": "2026-11-05T21:42:09.519Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10303,7 +10613,7 @@
       "note": "来源平台：中国铁塔电子采购平台；业务类型：工程建设",
       "collectedAt": "2026-10-24T18:26:22.617Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:15.445Z"
+      "updatedAt": "2026-11-05T21:42:09.518Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10407,7 +10717,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-24T18:26:09.831Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:16.712Z"
+      "updatedAt": "2026-11-05T21:42:09.529Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10485,7 +10795,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-24T18:26:12.729Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:16.708Z"
+      "updatedAt": "2026-11-05T21:42:09.519Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10563,7 +10873,7 @@
       "note": "来源平台：浙江政府采购云平台；业务类型：政府采购",
       "collectedAt": "2026-10-11T19:48:20.983Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:16.708Z"
+      "updatedAt": "2026-11-05T21:42:09.522Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10667,7 +10977,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-24T18:25:59.058Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:16.709Z"
+      "updatedAt": "2026-11-05T21:42:10.281Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10771,7 +11081,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-24T18:26:01.401Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:16.715Z"
+      "updatedAt": "2026-11-05T21:42:10.271Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10875,7 +11185,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-11T19:48:07.447Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:17.435Z"
+      "updatedAt": "2026-11-05T21:42:10.271Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10901,7 +11211,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-23T19:38:30.052Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:17.432Z"
+      "updatedAt": "2026-11-05T21:42:10.281Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10927,7 +11237,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-23T19:38:30.052Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:17.431Z"
+      "updatedAt": "2026-11-05T21:42:10.271Z"
     },
     {
       "budgetAmount": "未公布",
@@ -10979,7 +11289,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-23T19:38:33.893Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:17.432Z"
+      "updatedAt": "2026-11-05T21:42:11.216Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11005,7 +11315,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-23T19:38:33.893Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:17.438Z"
+      "updatedAt": "2026-11-05T21:42:11.206Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11083,7 +11393,7 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-10-10T19:37:39.799Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:17.432Z"
+      "updatedAt": "2026-11-05T21:42:11.206Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11135,7 +11445,7 @@
       "note": "来源平台：北京市政府采购网；业务类型：政府采购",
       "collectedAt": "2026-10-10T19:37:39.799Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.158Z"
+      "updatedAt": "2026-11-05T21:42:11.215Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11187,7 +11497,7 @@
       "note": "来源平台：中国船舶电子招标投标平台；业务类型：工程建设",
       "collectedAt": "2026-10-23T19:38:20.870Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.154Z"
+      "updatedAt": "2026-11-05T21:42:11.206Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11213,7 +11523,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-23T19:38:23.554Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.154Z"
+      "updatedAt": "2026-11-05T21:42:11.208Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11239,7 +11549,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-23T19:38:23.554Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.155Z"
+      "updatedAt": "2026-11-05T21:42:11.967Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11317,7 +11627,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-10T19:37:26.721Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.160Z"
+      "updatedAt": "2026-11-05T21:42:11.957Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11343,7 +11653,7 @@
       "note": "来源平台：中国石油电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-10T19:37:26.721Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.154Z"
+      "updatedAt": "2026-11-05T21:42:11.957Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11473,7 +11783,7 @@
       "note": "来源平台：中国铁塔电子采购平台；业务类型：工程建设",
       "collectedAt": "2026-10-23T19:37:57.074Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.881Z"
+      "updatedAt": "2026-11-05T21:42:11.967Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11655,7 +11965,7 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-10-10T19:37:03.079Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.878Z"
+      "updatedAt": "2026-11-05T21:42:11.957Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11733,7 +12043,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-10T19:36:49.696Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.878Z"
+      "updatedAt": "2026-11-05T21:42:11.960Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11759,7 +12069,7 @@
       "note": "来源平台：重庆市公共资源交易服务平台；业务类型：政府采购",
       "collectedAt": "2026-10-10T19:36:49.696Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.878Z"
+      "updatedAt": "2026-11-05T21:42:12.718Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11837,7 +12147,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-23T19:37:22.741Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.884Z"
+      "updatedAt": "2026-11-05T21:42:12.708Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11863,7 +12173,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-10-23T19:37:22.741Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:18.877Z"
+      "updatedAt": "2026-11-05T21:42:12.709Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11915,7 +12225,7 @@
       "note": "来源平台：未公布；业务类型：工程建设",
       "collectedAt": "2026-10-10T19:36:37.379Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:19.604Z"
+      "updatedAt": "2026-11-05T21:42:12.717Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11941,7 +12251,7 @@
       "note": "来源平台：未公布；业务类型：政府采购",
       "collectedAt": "2026-10-23T19:37:31.420Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:19.601Z"
+      "updatedAt": "2026-11-05T21:42:12.710Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11967,7 +12277,7 @@
       "note": "来源平台：中国电信阳光采购网电子招投标交易平台；业务类型：工程建设",
       "collectedAt": "2026-08-30T13:53:11.747Z",
       "sourcePath": "history",
-      "updatedAt": "2026-11-04T21:40:19.600Z"
+      "updatedAt": "2026-11-05T21:42:12.710Z"
     },
     {
       "budgetAmount": "未公布",
@@ -11997,12 +12307,12 @@
     }
   ],
   "meta": {
-    "lastRunAt": "2026-11-04T21:36:59.630Z",
+    "lastRunAt": "2026-11-05T21:38:50.395Z",
     "lastRunMode": "full",
     "lastRunStatus": "partial",
-    "lastRunMessage": "本次从 6 个公开来源适配器执行采集，解析 22 条，当前累计 461 条；任务部分完成，可继续执行",
+    "lastRunMessage": "本次从 6 个公开来源适配器执行采集，解析 10 条，当前累计 473 条；任务部分完成，可继续执行",
     "sourceCount": 6,
-    "dateRange": "2025-01-02 至 2026-10-30",
+    "dateRange": "2025-01-02 至 2026-11-05",
     "warnings": [
       "中国招标投标公共服务平台：HTTP 405",
       "浙江省公共资源交易服务平台：卫星通信 第 1 页：HTTP 405",
@@ -12019,8 +12329,8 @@
       "山东省政府采购信息公开平台：VSAT 第 1 页：fetch failed",
       "山东省政府采购信息公开平台：应急通信卫星 第 1 页：fetch failed"
     ],
-    "pagesScanned": 75,
-    "candidatesFound": 22,
+    "pagesScanned": 59,
+    "candidatesFound": 10,
     "historyCursor": {
       "queryIndex": 0,
       "page": 3
@@ -12035,9 +12345,9 @@
       },
       "ggzy": {
         "status": "success",
-        "records": 22,
+        "records": 10,
         "warnings": [],
-        "pagesScanned": 24
+        "pagesScanned": 8
       },
       "ceb": {
         "status": "blocked",
@@ -12082,24 +12392,24 @@
       }
     },
     "ccgpHistoryCursor": {
-      "queryIndex": 4,
+      "queryIndex": 5,
       "page": 1
     },
-    "ccgpHistoryComplete": false,
+    "ccgpHistoryComplete": true,
     "ggzyHistoryCursor": {
-      "windowIndex": 66,
+      "windowIndex": 68,
       "queryIndex": 0,
       "page": 1
     },
-    "ggzyHistoryComplete": false,
-    "lastUpdatedAt": "2026-11-04T21:39:23.258Z",
-    "searchDateRange": "2025-01-01 至 2026-11-04",
+    "ggzyHistoryComplete": true,
+    "lastUpdatedAt": "2026-11-05T21:41:16.067Z",
+    "searchDateRange": "2025-01-01 至 2026-11-05",
     "coverageStartDate": "2025-01-02",
-    "coverageEndDate": "2026-10-30",
+    "coverageEndDate": "2026-11-05",
     "chinaPostHistoryComplete": true,
-    "lastEnrichedAt": "2026-11-04T21:40:19.604Z",
-    "enrichmentScanned": 165,
-    "enrichmentMatched": 57,
+    "lastEnrichedAt": "2026-11-05T21:42:12.719Z",
+    "enrichmentScanned": 168,
+    "enrichmentMatched": 58,
     "enrichmentWarnings": [
       "舟山正大工程咨询有限公司关于2026年普陀区渔船天通卫星电话通信运营服务项目中标(成交)结果公告：HTTP 405",
       "中纬工程管理咨询有限公司关于临安区应急管理局天通卫星电话地面卡和卫星语音服务包年卡采购项目中标(成交)结果公告：HTTP 405",
@@ -12107,8 +12417,8 @@
       "台州明辰招标代理有限公司关于2026年度临海市大中型海洋渔船天通卫星通信服务及数据流量服务采购中标(成交)结果公告：HTTP 405",
       "青岛海洋科技中心卫星通信装置中标公告：fetch failed",
       "青岛海洋科技中心卫星通信装置中标公告：fetch failed",
-      "温州中致工程项目管理有限公司关于3米波浪浮标、北斗卫星通信设备及海洋基础站升级改造中标(成交)结果公告：HTTP 405",
       "浙江鼎欣工程项目管理有限公司关于文成县基层应急管理体系和能力建设提升工程――2025年应急消防管理站提质升级装备采购项目（卫星电话底座+室外天线）中标(成交)结果公告：HTTP 405",
+      "温州中致工程项目管理有限公司关于3米波浪浮标、北斗卫星通信设备及海洋基础站升级改造中标(成交)结果公告：HTTP 405",
       "浙江瑞扬工程咨询招标代理股份有限公司关于瑞安市2025年度卫星电话通信保障服务中标(成交)结果公告：HTTP 405",
       "杭州好邦建筑工程咨询有限公司关于温岭市海洋渔船天通船载卫星电话设备及通讯服务采购中标(成交)结果公告：HTTP 405",
       "浙江五石中正工程咨询有限公司关于黄岩卫星电话通讯服务项目中标(成交)结果公告：HTTP 405",
